@@ -6,7 +6,7 @@ import plotly.express as px
 import json
 import numpy as np
 
-global_path = os.path.dirname(os.getcwd())
+global_path = os.path.dirname(os.getcwd()) if os.getcwd() != '/mount/src' else '/mount/src'
 st.set_page_config(layout="wide")
 
 with open(global_path + '/visual_datasets_updated.pkl', 'rb') as fp:

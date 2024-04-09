@@ -7,7 +7,7 @@ import json
 import numpy as np
 
 # finds the global path that contains the data files
-global_path = os.path.dirname(os.getcwd())
+global_path = os.path.dirname(os.getcwd()) if os.getcwd() != '/mount/src' else '/mount/src'
 st.set_page_config(layout="wide")
 
 
