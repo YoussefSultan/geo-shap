@@ -12,9 +12,9 @@ st.set_page_config(layout="wide")
 
 
 # load data
-with open(global_path + '/visual_datasets_040624.pkl', 'rb') as fp:
+with open('/data/visual_datasets_040624.pkl', 'rb') as fp:
     visual_datasets = pickle.load(fp)
-with open('/geojson-counties-fips.json', 'r') as f:
+with open('/data/geojson-counties-fips.json', 'r') as f:
     geojson = json.load(f)
 
 # unique years list
