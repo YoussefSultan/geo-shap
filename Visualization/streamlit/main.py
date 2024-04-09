@@ -7,14 +7,14 @@ import json
 import numpy as np
 
 # finds the global path that contains the data files
-global_path = os.path.dirname(os.getcwd()) if os.getcwd() != '/mount/src' else '/mount/src'
+global_path = os.path.dirname(os.getcwd()) if os.getcwd() != '/mount/src' else '/data'
 st.set_page_config(layout="wide")
 
 
 # load data
 with open(global_path + '/visual_datasets_040624.pkl', 'rb') as fp:
     visual_datasets = pickle.load(fp)
-with open('geojson-counties-fips.json', 'r') as f:
+with open('/geojson-counties-fips.json', 'r') as f:
     geojson = json.load(f)
 
 # unique years list
