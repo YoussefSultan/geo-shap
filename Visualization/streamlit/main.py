@@ -11,10 +11,16 @@ global_path = os.path.dirname(os.getcwd()) if os.getcwd() != '/mount/src' else '
 st.set_page_config(layout="wide")
 
 
+print("Current Working Directory:", os.getcwd())
+
+# Assuming the file is in a directory relative to main.py, adjust the path as necessary
+data_directory = '../data'
+print(f"Files in {data_directory}: ", os.listdir(data_directory))
+
 # load data
-with open('/data/visual_datasets_040624.pkl', 'rb') as fp:
+with open('../data/visual_datasets_040624.pkl', 'rb') as fp:
     visual_datasets = pickle.load(fp)
-with open('/data/geojson-counties-fips.json', 'r') as f:
+with open('../data/geojson-counties-fips.json', 'r') as f:
     geojson = json.load(f)
 
 # unique years list
