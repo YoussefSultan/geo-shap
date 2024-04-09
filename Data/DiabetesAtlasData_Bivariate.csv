@@ -1,0 +1,3076 @@
+Year,County_FIPS,County,State,Bivariate Tertile,Diagnosed Diabetes (Percentage) ,Obesity (Percentage) 
+2021,56045,Weston County,Wyoming,MH,8.8,32.2
+2021,02158,Kusilvak Census Area,Alaska,HL,9.2,23.7
+2021,46102,Oglala Lakota County,South Dakota,HH,15.4,38.2
+2021,54021,Gilmer County,West Virginia,HM,9.8,30.9
+2021,54023,Grant County,West Virginia,HH,9.5,32.4
+2021,54025,Greenbrier County,West Virginia,HH,12.6,35.1
+2021,54027,Hampshire County,West Virginia,MM,8.8,29.4
+2021,54029,Hancock County,West Virginia,HH,10.9,37
+2021,54031,Hardy County,West Virginia,HM,10.2,31.7
+2021,54033,Harrison County,West Virginia,HH,13,36.4
+2021,54035,Jackson County,West Virginia,HH,10,39.4
+2021,54037,Jefferson County,West Virginia,HM,9.3,30.9
+2021,54039,Kanawha County,West Virginia,HH,12.2,38.2
+2021,54041,Lewis County,West Virginia,MH,8.4,31.9
+2021,54043,Lincoln County,West Virginia,HH,11.5,40.3
+2021,54045,Logan County,West Virginia,HH,10.5,43.9
+2021,54047,Mcdowell County,West Virginia,HH,10.4,36.4
+2021,54049,Marion County,West Virginia,HH,11.6,36.3
+2021,54051,Marshall County,West Virginia,HH,11.3,35.7
+2021,54053,Mason County,West Virginia,HH,9.9,43
+2021,54055,Mercer County,West Virginia,HH,13.4,38.9
+2021,54057,Mineral County,West Virginia,HM,11,30.2
+2021,54059,Mingo County,West Virginia,HH,11.7,35.7
+2021,54061,Monongalia County,West Virginia,HM,9.3,31.6
+2021,54063,Monroe County,West Virginia,HH,9.5,32.5
+2021,55137,Waushara County,Wisconsin,LM,6.6,26.2
+2021,55139,Winnebago County,Wisconsin,LH,6.8,35.8
+2021,55141,Wood County,Wisconsin,LM,6.9,30.9
+2021,56001,Albany County,Wyoming,LL,6.7,24.8
+2021,56003,Big Horn County,Wyoming,MM,8.6,29.7
+2021,56005,Campbell County,Wyoming,LH,7.7,37.4
+2021,56007,Carbon County,Wyoming,LH,7.4,32.5
+2021,56009,Converse County,Wyoming,MM,8.6,29.7
+2021,56011,Crook County,Wyoming,LM,5.7,26.2
+2021,56013,Fremont County,Wyoming,MM,8.8,27.2
+2021,56015,Goshen County,Wyoming,LM,7.4,28
+2021,56017,Hot Springs County,Wyoming,LM,6.8,26.5
+2021,56019,Johnson County,Wyoming,LM,6.3,29.2
+2021,56021,Laramie County,Wyoming,MM,8.1,30.6
+2021,56023,Lincoln County,Wyoming,LM,7.3,27.8
+2021,56025,Natrona County,Wyoming,LM,7.3,31.5
+2021,56027,Niobrara County,Wyoming,LL,6.4,23.8
+2021,56029,Park County,Wyoming,LM,6.3,27.2
+2021,56031,Platte County,Wyoming,LM,7.6,29.6
+2021,56033,Sheridan County,Wyoming,LM,7.5,27.9
+2021,56035,Sublette County,Wyoming,LL,6.6,18.7
+2021,56037,Sweetwater County,Wyoming,MH,8.1,33.3
+2021,56039,Teton County,Wyoming,LL,4.4,12.2
+2021,56041,Uinta County,Wyoming,LH,7.7,32.5
+2021,56043,Washakie County,Wyoming,LM,7.4,27.1
+2021,48409,San Patricio County,Texas,HH,11.2,39.9
+2021,48411,San Saba County,Texas,LL,7,18.1
+2021,48413,Schleicher County,Texas,LL,7.2,17.6
+2021,48415,Scurry County,Texas,LL,7.1,17.2
+2021,48417,Shackelford County,Texas,LL,6.9,17.7
+2021,48419,Shelby County,Texas,ML,8,18.9
+2021,48421,Sherman County,Texas,LL,7.2,17
+2021,48423,Smith County,Texas,HH,11,34.3
+2021,51193,Westmoreland County,Virginia,HM,9.5,29.1
+2021,51195,Wise County,Virginia,HH,11,40.2
+2021,51197,Wythe County,Virginia,MH,8.5,36.8
+2021,51199,York County,Virginia,LM,7.2,28.6
+2021,51510,Alexandria City,Virginia,LL,7.4,24.2
+2021,51520,Bristol City,Virginia,LM,7.3,25.1
+2021,51530,Buena Vista City,Virginia,LL,7.2,18.1
+2021,51540,Charlottesville City,Virginia,ML,7.8,17.5
+2021,51550,Chesapeake City,Virginia,HH,12,34.7
+2021,51570,Colonial Heights City,Virginia,LM,7.3,28.5
+2021,51580,Covington City,Virginia,LL,7.3,17.3
+2021,51590,Danville City,Virginia,HM,10.4,28.7
+2021,51595,Emporia City,Virginia,ML,8.7,17.1
+2021,51600,Fairfax City,Virginia,LL,7.6,22.3
+2021,51610,Falls Church City,Virginia,LL,7.4,18.6
+2021,51620,Franklin City,Virginia,ML,8.5,21.1
+2021,51630,Fredericksburg City,Virginia,ML,8.1,22.6
+2021,51640,Galax City,Virginia,LL,7.1,17.9
+2021,51650,Hampton City,Virginia,HH,11.2,37
+2021,51660,Harrisonburg City,Virginia,HL,9.3,22.1
+2021,51670,Hopewell City,Virginia,HM,9.6,29.2
+2021,51678,Lexington City,Virginia,LL,7.3,17.8
+2021,51680,Lynchburg City,Virginia,MM,8.1,28.1
+2021,51683,Manassas City,Virginia,ML,8.5,22.4
+2021,51685,Manassas Park City,Virginia,ML,7.8,17.8
+2021,51690,Martinsville City,Virginia,ML,8.5,19
+2021,51700,Newport News City,Virginia,HH,11.1,39.8
+2021,51710,Norfolk City,Virginia,HH,10.2,37.4
+2021,51720,Norton City,Virginia,LL,7.5,17.1
+2021,51730,Petersburg City,Virginia,HH,13.4,34.9
+2021,51735,Poquoson City,Virginia,LL,7.1,20.6
+2021,51740,Portsmouth City,Virginia,HH,16.8,44.3
+2021,51750,Radford City,Virginia,LL,7,22.4
+2021,51760,Richmond City,Virginia,HM,10.2,27.3
+2021,51770,Roanoke City,Virginia,HH,10.8,34.8
+2021,51775,Salem City,Virginia,LM,7.4,29.1
+2021,51790,Staunton City,Virginia,LL,6.9,17.4
+2021,51800,Suffolk City,Virginia,HH,10,36.5
+2021,51810,Virginia Beach City,Virginia,HM,9.7,30.2
+2021,51820,Waynesboro City,Virginia,LL,7.2,18.8
+2021,51830,Williamsburg City,Virginia,LL,7.5,16.1
+2021,51840,Winchester City,Virginia,LL,7.3,21.8
+2021,53001,Adams County,Washington,MM,8.7,31.6
+2021,53003,Asotin County,Washington,HM,9.1,31.4
+2021,53005,Benton County,Washington,MH,8.3,31.8
+2021,53007,Chelan County,Washington,LM,6.9,28.1
+2021,53009,Clallam County,Washington,LM,7.4,27.1
+2021,53011,Clark County,Washington,MH,8,32.5
+2021,53013,Columbia County,Washington,MM,8.8,28.6
+2021,53015,Cowlitz County,Washington,MH,8.5,37.7
+2021,53017,Douglas County,Washington,MM,8.5,28.5
+2021,53019,Ferry County,Washington,HM,9.5,27.4
+2021,53021,Franklin County,Washington,MH,8.1,36.6
+2021,53023,Garfield County,Washington,MH,8.7,37.1
+2021,53025,Grant County,Washington,MH,8.9,33.3
+2021,53027,Grays Harbor County,Washington,HH,10.5,33.9
+2021,53029,Island County,Washington,MM,7.8,28.6
+2021,53031,Jefferson County,Washington,LL,6.3,22.9
+2021,53033,King County,Washington,LL,6.5,22.9
+2021,53035,Kitsap County,Washington,MM,8.9,30.7
+2021,53037,Kittitas County,Washington,MM,8,26.7
+2021,53039,Klickitat County,Washington,LL,6.7,24.3
+2021,53041,Lewis County,Washington,MH,8.2,33
+2021,53043,Lincoln County,Washington,MH,7.8,32.7
+2021,53045,Mason County,Washington,MH,8.5,32.5
+2021,53047,Okanogan County,Washington,MM,8.8,28
+2021,53049,Pacific County,Washington,HH,9.7,34.5
+2021,53051,Pend Oreille County,Washington,LM,7.2,27.2
+2021,53053,Pierce County,Washington,HH,9.7,33.2
+2021,53055,San Juan County,Washington,LL,4.7,16.5
+2021,53057,Skagit County,Washington,LM,6.7,28.1
+2021,53059,Skamania County,Washington,LM,7.5,27.3
+2021,53061,Snohomish County,Washington,MH,7.9,32.3
+2021,53063,Spokane County,Washington,MM,8.7,29.8
+2021,53065,Stevens County,Washington,LM,7.5,28.2
+2021,53067,Thurston County,Washington,MM,8.9,31
+2021,53069,Wahkiakum County,Washington,HM,10.4,30.4
+2021,53071,Walla Walla County,Washington,LM,7.7,28.4
+2021,53073,Whatcom County,Washington,LL,6.3,22.7
+2021,53075,Whitman County,Washington,LM,7.3,31.7
+2021,53077,Yakima County,Washington,HH,10.2,38
+2021,54001,Barbour County,West Virginia,HH,12.4,32.6
+2021,54003,Berkeley County,West Virginia,HH,10.6,38
+2021,54005,Boone County,West Virginia,HH,12.6,40.4
+2021,54007,Braxton County,West Virginia,HM,11.3,30.7
+2021,54009,Brooke County,West Virginia,HH,11,32.5
+2021,54011,Cabell County,West Virginia,HH,10.7,39.1
+2021,54013,Calhoun County,West Virginia,MM,8.8,29.2
+2021,54015,Clay County,West Virginia,MM,8.5,31.2
+2021,54017,Doddridge County,West Virginia,MM,8.6,25.9
+2021,54019,Fayette County,West Virginia,HH,12,39.3
+2021,48425,Somervell County,Texas,LL,7.1,18.1
+2021,48427,Starr County,Texas,ML,8.1,21.5
+2021,48429,Stephens County,Texas,LL,7.3,18.4
+2021,48431,Sterling County,Texas,LL,7.2,17.6
+2021,48433,Stonewall County,Texas,LL,7.2,17.6
+2021,48435,Sutton County,Texas,LL,7.1,17.1
+2021,48437,Swisher County,Texas,LL,7.1,17.4
+2021,48439,Tarrant County,Texas,HH,9.9,33.8
+2021,48441,Taylor County,Texas,MM,8.8,30.3
+2021,48443,Terrell County,Texas,LL,7.4,17.7
+2021,48445,Terry County,Texas,LL,7.2,16.9
+2021,48447,Throckmorton County,Texas,LL,7,17.8
+2021,48449,Titus County,Texas,LL,7.5,17.9
+2021,48451,Tom Green County,Texas,LM,7.5,26.9
+2021,48237,Jack County,Texas,LL,7.3,17.7
+2021,48239,Jackson County,Texas,LL,7.4,17.3
+2021,48241,Jasper County,Texas,ML,7.9,23
+2021,48243,Jeff Davis County,Texas,LL,7.2,17.6
+2021,48245,Jefferson County,Texas,HH,11.7,37.8
+2021,48247,Jim Hogg County,Texas,LL,6.9,17.3
+2021,48249,Jim Wells County,Texas,ML,7.8,18.8
+2021,48251,Johnson County,Texas,HM,10.4,31.3
+2021,48253,Jones County,Texas,LL,7.3,23.4
+2021,48255,Karnes County,Texas,LL,7.1,16.8
+2021,48257,Kaufman County,Texas,MM,8.4,27
+2021,48259,Kendall County,Texas,LL,7.6,20.7
+2021,48261,Kenedy County,Texas,LL,7.2,17.1
+2021,48263,Kent County,Texas,LL,7.1,17.5
+2021,48265,Kerr County,Texas,ML,8.1,21.2
+2021,51031,Campbell County,Virginia,MH,8.5,32.2
+2021,51033,Caroline County,Virginia,HM,9.4,31.7
+2021,51035,Carroll County,Virginia,MM,8.6,31.4
+2021,51036,Charles City County,Virginia,HL,9.1,18.1
+2021,51037,Charlotte County,Virginia,HM,9.9,29.5
+2021,51041,Chesterfield County,Virginia,HH,9.5,34.6
+2021,51043,Clarke County,Virginia,ML,8.3,20.2
+2021,51045,Craig County,Virginia,ML,8.1,22.2
+2021,51047,Culpeper County,Virginia,HH,9.1,35.4
+2021,51049,Cumberland County,Virginia,MM,8.4,27
+2021,51051,Dickenson County,Virginia,ML,8.8,24.8
+2021,51053,Dinwiddie County,Virginia,HH,10,35.7
+2021,51057,Essex County,Virginia,HL,9.9,23.6
+2021,51059,Fairfax County,Virginia,LL,6.2,22.5
+2021,51061,Fauquier County,Virginia,LM,6.5,26.9
+2021,51063,Floyd County,Virginia,LL,6.8,20.2
+2021,51065,Fluvanna County,Virginia,MM,8.4,30.9
+2021,51067,Franklin County,Virginia,LM,7.6,30.6
+2021,51069,Frederick County,Virginia,MM,8.1,29.1
+2021,51071,Giles County,Virginia,LL,7.7,23
+2021,51073,Gloucester County,Virginia,MM,8.9,31.2
+2021,51075,Goochland County,Virginia,ML,8.1,24.6
+2021,51077,Grayson County,Virginia,MM,8.1,26.1
+2021,51079,Greene County,Virginia,LL,7.3,21.8
+2021,51081,Greensville County,Virginia,HL,11,24.4
+2021,51083,Halifax County,Virginia,HH,11.2,36.1
+2021,51085,Hanover County,Virginia,MM,7.8,28.6
+2021,51087,Henrico County,Virginia,HH,10.8,34.7
+2021,51089,Henry County,Virginia,HH,12.1,36
+2021,51091,Highland County,Virginia,LL,6.6,19.6
+2021,51093,Isle Of Wight County,Virginia,HM,10.3,29
+2021,47039,Decatur County,Tennessee,ML,8.1,23.5
+2021,47041,Dekalb County,Tennessee,LL,7.1,24.5
+2021,47043,Dickson County,Tennessee,MM,8.1,28.5
+2021,47045,Dyer County,Tennessee,ML,8.3,23.6
+2021,47047,Fayette County,Tennessee,HL,9.1,20.3
+2021,47049,Fentress County,Tennessee,HL,9.1,22.9
+2021,47051,Franklin County,Tennessee,MH,8.7,33.9
+2021,47053,Gibson County,Tennessee,HH,10.6,33.6
+2021,47055,Giles County,Tennessee,HL,9.3,21.4
+2021,47057,Grainger County,Tennessee,MM,8.3,27.8
+2021,47059,Greene County,Tennessee,MH,8.9,31.8
+2021,47061,Grundy County,Tennessee,MM,8.2,25.4
+2021,47063,Hamblen County,Tennessee,HH,9.6,31.9
+2021,47065,Hamilton County,Tennessee,HH,10.6,31.9
+2021,47067,Hancock County,Tennessee,LL,7.1,20.1
+2021,47069,Hardeman County,Tennessee,HM,9.6,31.6
+2021,47071,Hardin County,Tennessee,HM,9.7,29.6
+2021,47073,Hawkins County,Tennessee,HH,12.1,33.9
+2021,47075,Haywood County,Tennessee,HM,10.8,26.3
+2021,47077,Henderson County,Tennessee,HH,11,35.7
+2021,47079,Henry County,Tennessee,LM,7.6,28.9
+2021,47081,Hickman County,Tennessee,ML,7.9,23.9
+2021,47083,Houston County,Tennessee,LL,7.1,16.9
+2021,47085,Humphreys County,Tennessee,LL,7.1,21.8
+2021,47087,Jackson County,Tennessee,ML,8,21
+2021,47089,Jefferson County,Tennessee,MM,8.8,28.7
+2021,47091,Johnson County,Tennessee,LL,7.2,20.2
+2021,47093,Knox County,Tennessee,HH,11.6,34.4
+2021,47095,Lake County,Tennessee,ML,7.8,16.9
+2021,48267,Kimble County,Texas,LL,7.3,16.9
+2021,48269,King County,Texas,LL,7.2,17.2
+2021,48271,Kinney County,Texas,LL,7.2,17.3
+2021,48273,Kleberg County,Texas,ML,7.9,19.1
+2021,48275,Knox County,Texas,LL,7.1,16.5
+2021,48277,Lamar County,Texas,LL,7.5,16.8
+2021,48279,Lamb County,Texas,LL,7.3,16.9
+2021,48281,Lampasas County,Texas,ML,8.3,19.2
+2021,48283,La Salle County,Texas,LL,6.9,17.4
+2021,48285,Lavaca County,Texas,LL,7.2,17.2
+2021,48287,Lee County,Texas,LL,7.3,20
+2021,48289,Leon County,Texas,LL,7.1,17.5
+2021,48291,Liberty County,Texas,ML,7.8,20.2
+2021,48293,Limestone County,Texas,LL,7.6,17.8
+2021,48295,Lipscomb County,Texas,LL,7.3,17.6
+2021,48297,Live Oak County,Texas,LL,6.9,18.6
+2021,48299,Llano County,Texas,LL,7,18.8
+2021,48301,Loving County,Texas,LL,7.6,17.6
+2021,48303,Lubbock County,Texas,HH,11,36.8
+2021,48305,Lynn County,Texas,LL,7.5,19.8
+2021,48307,Mcculloch County,Texas,LL,7.2,17.7
+2021,48309,Mclennan County,Texas,MM,8.5,29.5
+2021,48311,Mcmullen County,Texas,LL,7.3,18.5
+2021,48313,Madison County,Texas,LL,7.4,17.8
+2021,48315,Marion County,Texas,LL,7.5,17.8
+2021,48317,Martin County,Texas,LL,7.1,17.8
+2021,48319,Mason County,Texas,LL,7.1,17.6
+2021,48321,Matagorda County,Texas,ML,8.2,23.7
+2021,48323,Maverick County,Texas,HH,11.9,41.4
+2021,48325,Medina County,Texas,LL,7.5,24.3
+2021,48327,Menard County,Texas,LL,7.2,17.8
+2021,48329,Midland County,Texas,LL,6.7,22.5
+2021,48331,Milam County,Texas,ML,7.8,21.4
+2021,48333,Mills County,Texas,LL,7.2,18.6
+2021,48335,Mitchell County,Texas,LL,7.5,17.2
+2021,48337,Montague County,Texas,LL,7.1,20.1
+2021,48339,Montgomery County,Texas,HM,9.3,29.2
+2021,48341,Moore County,Texas,LL,7.1,19.5
+2021,48343,Morris County,Texas,LL,7.5,17.5
+2021,48345,Motley County,Texas,LL,7.3,17.2
+2021,48347,Nacogdoches County,Texas,HH,9.3,32.1
+2021,48349,Navarro County,Texas,HL,9.4,22.4
+2021,48351,Newton County,Texas,LL,7.6,19.9
+2021,48353,Nolan County,Texas,LL,7.7,18
+2021,48355,Nueces County,Texas,MH,8.7,38.1
+2021,48357,Ochiltree County,Texas,LL,7.1,17.1
+2021,48359,Oldham County,Texas,LL,7.1,17
+2021,48361,Orange County,Texas,HH,11.9,35.3
+2021,48363,Palo Pinto County,Texas,LL,7.6,22.2
+2021,48365,Panola County,Texas,ML,7.8,18.1
+2021,48367,Parker County,Texas,MM,8.4,31.7
+2021,48369,Parmer County,Texas,LL,7.2,19.4
+2021,48371,Pecos County,Texas,LL,7,17.5
+2021,48373,Polk County,Texas,HH,11.5,36.6
+2021,48375,Potter County,Texas,LL,7.7,19.5
+2021,48377,Presidio County,Texas,LL,7.2,17.3
+2021,48379,Rains County,Texas,LL,7.2,17.9
+2021,48381,Randall County,Texas,MH,8.5,32.1
+2021,48383,Reagan County,Texas,LL,7.3,17.1
+2021,48385,Real County,Texas,LL,7.2,17.3
+2021,48387,Red River County,Texas,LL,7.5,17.3
+2021,48389,Reeves County,Texas,LL,7.3,17.4
+2021,48391,Refugio County,Texas,LL,7.2,16.7
+2021,48393,Roberts County,Texas,LL,7,16.9
+2021,45049,Hampton County,South Carolina,HM,11.6,30
+2021,45051,Horry County,South Carolina,HH,10.3,34.3
+2021,45053,Jasper County,South Carolina,HM,9.4,29.7
+2021,45055,Kershaw County,South Carolina,HH,11.1,33.2
+2021,45057,Lancaster County,South Carolina,HM,9.6,31.4
+2021,45059,Laurens County,South Carolina,HH,13.8,36.1
+2021,45061,Lee County,South Carolina,MH,8.8,35.1
+2021,45063,Lexington County,South Carolina,HH,10,36.1
+2021,45065,Mccormick County,South Carolina,HM,9.3,25.8
+2021,45067,Marion County,South Carolina,HM,10.4,31.4
+2021,45069,Marlboro County,South Carolina,HH,12.2,32.5
+2021,45071,Newberry County,South Carolina,HH,11,35.5
+2021,45073,Oconee County,South Carolina,HH,10.3,32.5
+2021,45075,Orangeburg County,South Carolina,HH,14.2,39.8
+2021,45077,Pickens County,South Carolina,ML,8.4,24.5
+2021,45079,Richland County,South Carolina,HH,11.2,35.2
+2021,45081,Saluda County,South Carolina,HH,10.4,33.1
+2021,45083,Spartanburg County,South Carolina,HH,11.4,32.8
+2021,45085,Sumter County,South Carolina,HH,13.9,39.3
+2021,45087,Union County,South Carolina,HH,10.8,33.2
+2021,45089,Williamsburg County,South Carolina,HH,17.5,44
+2021,45091,York County,South Carolina,HH,10.5,33
+2021,46003,Aurora County,South Dakota,MH,8.1,33.9
+2021,46005,Beadle County,South Dakota,MM,7.8,26.3
+2021,46007,Bennett County,South Dakota,HH,13.1,40.2
+2021,46009,Bon Homme County,South Dakota,LL,7.5,19.9
+2021,46011,Brookings County,South Dakota,MM,8.6,31.3
+2021,46013,Brown County,South Dakota,HH,9.5,34.9
+2021,46015,Brule County,South Dakota,MM,7.9,25.3
+2021,46017,Buffalo County,South Dakota,HM,12.7,28.9
+2021,46019,Butte County,South Dakota,LL,6.5,23.8
+2021,46021,Campbell County,South Dakota,LL,6.7,17.4
+2021,46023,Charles Mix County,South Dakota,LL,7.6,22.6
+2021,46025,Clark County,South Dakota,LL,7.5,21.2
+2021,46027,Clay County,South Dakota,LL,7.2,22.4
+2021,46029,Codington County,South Dakota,MH,8.6,34.8
+2021,46031,Corson County,South Dakota,HH,12.3,38.2
+2021,46033,Custer County,South Dakota,LM,7.2,28.5
+2021,46035,Davison County,South Dakota,MM,8,28.3
+2021,46037,Day County,South Dakota,LM,7.4,31.5
+2021,46039,Deuel County,South Dakota,LH,7.3,35.2
+2021,46041,Dewey County,South Dakota,HH,13.6,41.5
+2021,46043,Douglas County,South Dakota,LL,7.3,20.9
+2021,46045,Edmunds County,South Dakota,LM,6.3,27.4
+2021,46047,Fall River County,South Dakota,ML,8.5,25
+2021,46049,Faulk County,South Dakota,LL,6.5,24.1
+2021,46051,Grant County,South Dakota,LM,7,25.8
+2021,46053,Gregory County,South Dakota,LL,7.1,20.4
+2021,46055,Haakon County,South Dakota,LM,7.5,27.4
+2021,46057,Hamlin County,South Dakota,LM,7.3,31.2
+2021,46059,Hand County,South Dakota,LL,7.1,19.6
+2021,46061,Hanson County,South Dakota,LL,6.9,18.3
+2021,46063,Harding County,South Dakota,LL,6.9,18
+2021,46065,Hughes County,South Dakota,LM,7,26.5
+2021,46067,Hutchinson County,South Dakota,LL,6.8,18.2
+2021,46069,Hyde County,South Dakota,LL,6.9,20.3
+2021,46071,Jackson County,South Dakota,HM,11.4,29.5
+2021,48107,Crosby County,Texas,LL,7.1,17.5
+2021,48109,Culberson County,Texas,LL,7.1,17.7
+2021,48111,Dallam County,Texas,LL,7.2,17.5
+2021,48113,Dallas County,Texas,HH,9.4,32.9
+2021,48115,Dawson County,Texas,LL,7.1,17.1
+2021,48117,Deaf Smith County,Texas,LL,7.1,17.7
+2021,48119,Delta County,Texas,LL,7.4,17.3
+2021,48121,Denton County,Texas,MM,8.2,29.2
+2021,48123,Dewitt County,Texas,LL,7.3,17
+2021,48125,Dickens County,Texas,LL,7.3,16.9
+2021,48127,Dimmit County,Texas,LL,7.2,16.5
+2021,40077,Latimer County,Oklahoma,HM,10.1,25.3
+2021,40079,Le Flore County,Oklahoma,HH,11.4,38.1
+2021,40081,Lincoln County,Oklahoma,MH,8.7,35.7
+2021,40083,Logan County,Oklahoma,MH,8.3,36.1
+2021,40085,Love County,Oklahoma,MM,8.4,25.6
+2021,40087,Mcclain County,Oklahoma,MH,8.8,34.1
+2021,40089,Mccurtain County,Oklahoma,HH,10.6,37.8
+2021,40091,Mcintosh County,Oklahoma,HM,10.9,26
+2021,40093,Major County,Oklahoma,LL,7.3,22.6
+2021,40095,Marshall County,Oklahoma,ML,7.8,24.9
+2021,40097,Mayes County,Oklahoma,HM,11.4,31.7
+2021,40099,Murray County,Oklahoma,MM,8.4,26.6
+2021,40101,Muskogee County,Oklahoma,HH,11.8,36.6
+2021,40103,Noble County,Oklahoma,ML,8,21.3
+2021,40105,Nowata County,Oklahoma,LL,7.5,24
+2021,40107,Okfuskee County,Oklahoma,ML,8.4,20
+2021,40109,Oklahoma County,Oklahoma,HH,11.7,35.9
+2021,40111,Okmulgee County,Oklahoma,HH,11,37
+2021,40113,Osage County,Oklahoma,HM,9.3,30.6
+2021,40115,Ottawa County,Oklahoma,HM,12.2,31
+2021,40117,Pawnee County,Oklahoma,LL,7.4,23.6
+2021,40119,Payne County,Oklahoma,MH,7.8,33
+2021,40121,Pittsburg County,Oklahoma,HM,9.6,30.3
+2021,40123,Pontotoc County,Oklahoma,HH,11.5,33.2
+2021,40125,Pottawatomie County,Oklahoma,HH,9.9,37.9
+2021,40127,Pushmataha County,Oklahoma,ML,8.3,21.9
+2021,40129,Roger Mills County,Oklahoma,LL,7.7,17.6
+2021,40131,Rogers County,Oklahoma,MH,8.7,41.2
+2021,40133,Seminole County,Oklahoma,HM,9.6,31.3
+2021,40135,Sequoyah County,Oklahoma,HH,10.4,33.4
+2021,40137,Stephens County,Oklahoma,HH,10.5,36.7
+2021,40139,Texas County,Oklahoma,HH,9.4,35.9
+2021,40141,Tillman County,Oklahoma,LL,7.5,21.2
+2021,40143,Tulsa County,Oklahoma,HH,10.2,33.2
+2021,40145,Wagoner County,Oklahoma,HH,10.4,35.8
+2021,40147,Washington County,Oklahoma,HM,10.2,31.3
+2021,40149,Washita County,Oklahoma,HM,9.9,26.8
+2021,40151,Woods County,Oklahoma,MM,8.2,30.7
+2021,40153,Woodward County,Oklahoma,HH,9.7,37.2
+2021,41001,Baker County,Oregon,LL,7.3,19.4
+2021,41003,Benton County,Oregon,LL,5.8,21.5
+2021,41005,Clackamas County,Oregon,LM,7.3,30.1
+2021,41007,Clatsop County,Oregon,LL,7.3,24.8
+2021,41009,Columbia County,Oregon,MH,9,32.4
+2021,41011,Coos County,Oregon,MH,8.4,34.6
+2021,41013,Crook County,Oregon,MM,7.8,26.4
+2021,41015,Curry County,Oregon,ML,7.8,21.7
+2021,41017,Deschutes County,Oregon,LL,6.2,23.5
+2021,41019,Douglas County,Oregon,MM,7.9,31.2
+2021,41021,Gilliam County,Oregon,LL,7.2,17.1
+2021,46073,Jerauld County,South Dakota,LL,7.2,19
+2021,46075,Jones County,South Dakota,LL,7.4,17.7
+2021,46077,Kingsbury County,South Dakota,ML,8.3,22.5
+2021,46079,Lake County,South Dakota,LL,6.9,23.6
+2021,46081,Lawrence County,South Dakota,LL,6.3,22.1
+2021,46083,Lincoln County,South Dakota,MH,8.4,32.4
+2021,46085,Lyman County,South Dakota,ML,8.9,21.1
+2021,46087,Mccook County,South Dakota,ML,8.4,23.9
+2021,46089,Mcpherson County,South Dakota,LM,6.5,26.8
+2021,46091,Marshall County,South Dakota,LL,6.7,20.5
+2021,46093,Meade County,South Dakota,LM,7,30.3
+2021,46095,Mellette County,South Dakota,HH,9.7,33.6
+2021,46097,Miner County,South Dakota,LL,7.3,17.7
+2021,46099,Minnehaha County,South Dakota,MH,7.9,32.3
+2021,46101,Moody County,South Dakota,LL,7.5,19.3
+2021,46103,Pennington County,South Dakota,LH,7.4,32.6
+2021,46105,Perkins County,South Dakota,ML,7.9,24.7
+2021,46107,Potter County,South Dakota,LL,7.3,21.5
+2021,46109,Roberts County,South Dakota,HM,9.1,31.1
+2021,46111,Sanborn County,South Dakota,ML,8.3,20.4
+2021,46115,Spink County,South Dakota,LL,7.3,23.6
+2021,39017,Butler County,Ohio,HH,10.4,39
+2021,39019,Carroll County,Ohio,HM,9.2,30.4
+2021,39021,Champaign County,Ohio,LH,7.7,32.5
+2021,39023,Clark County,Ohio,HH,10.9,37
+2021,39025,Clermont County,Ohio,HH,10.2,32.1
+2021,39027,Clinton County,Ohio,MH,8.9,34
+2021,39029,Columbiana County,Ohio,HH,10,40.6
+2021,39031,Coshocton County,Ohio,HH,9.6,33.4
+2021,39033,Crawford County,Ohio,MH,8.6,34.8
+2021,39035,Cuyahoga County,Ohio,HH,9.9,32.5
+2021,39037,Darke County,Ohio,LM,7.4,30.1
+2021,39039,Defiance County,Ohio,HH,10.2,34.4
+2021,39041,Delaware County,Ohio,MH,8.7,34.3
+2021,39043,Erie County,Ohio,MH,8,36.3
+2021,39045,Fairfield County,Ohio,HH,10.6,40.6
+2021,39047,Fayette County,Ohio,HH,10.5,42.4
+2021,39049,Franklin County,Ohio,HH,10.2,33.6
+2021,39051,Fulton County,Ohio,MH,8.8,35.5
+2021,39053,Gallia County,Ohio,HH,11.5,37.5
+2021,39055,Geauga County,Ohio,LM,7.5,28.3
+2021,39057,Greene County,Ohio,HH,9.2,32.4
+2021,39059,Guernsey County,Ohio,HH,11.5,39.2
+2021,39061,Hamilton County,Ohio,HH,10.6,32.4
+2021,39063,Hancock County,Ohio,MH,8.7,32.9
+2021,39065,Hardin County,Ohio,MH,7.9,34.3
+2021,39067,Harrison County,Ohio,HH,9.9,39.1
+2021,39069,Henry County,Ohio,LH,7,34.4
+2021,39071,Highland County,Ohio,HH,9.7,39.5
+2021,39073,Hocking County,Ohio,HH,9.2,38.9
+2021,39075,Holmes County,Ohio,LL,7.1,24.7
+2021,39077,Huron County,Ohio,HH,10.1,39.9
+2021,39079,Jackson County,Ohio,HH,11.8,43.3
+2021,39081,Jefferson County,Ohio,HH,10.3,38.4
+2021,39083,Knox County,Ohio,HH,9.2,37.5
+2021,39085,Lake County,Ohio,MM,8.8,31.5
+2021,39087,Lawrence County,Ohio,HH,11.1,43.9
+2021,39089,Licking County,Ohio,HH,11.8,33.2
+2021,39091,Logan County,Ohio,MM,9,28.8
+2021,39093,Lorain County,Ohio,HH,9.6,33.9
+2021,39095,Lucas County,Ohio,HH,11.3,38.7
+2021,39097,Madison County,Ohio,MM,8.8,30
+2021,39099,Mahoning County,Ohio,HH,11,37.2
+2021,39101,Marion County,Ohio,HH,11.8,41
+2021,39103,Medina County,Ohio,LH,7.4,34.4
+2021,39105,Meigs County,Ohio,HH,10.9,33.2
+2021,39107,Mercer County,Ohio,MM,8.2,30.5
+2021,39109,Miami County,Ohio,MM,7.8,30
+2021,39111,Monroe County,Ohio,HH,9.6,32.5
+2021,39113,Montgomery County,Ohio,HH,11.3,37.7
+2021,39115,Morgan County,Ohio,LH,7.7,35.8
+2021,39117,Morrow County,Ohio,MH,8.8,36.3
+2021,39119,Muskingum County,Ohio,HH,11.4,41.6
+2021,39121,Noble County,Ohio,MM,8.7,26.8
+2021,39123,Ottawa County,Ohio,MM,8.4,29.1
+2021,39125,Paulding County,Ohio,MH,8.9,32.1
+2021,39127,Perry County,Ohio,HH,9.1,35.8
+2021,39129,Pickaway County,Ohio,HH,9.9,34.1
+2021,39131,Pike County,Ohio,HH,10.5,33.4
+2021,39133,Portage County,Ohio,MM,8.5,30.3
+2021,39135,Preble County,Ohio,HM,9.9,31.6
+2021,39137,Putnam County,Ohio,MM,8.6,30.9
+2021,39139,Richland County,Ohio,HH,10.7,37.1
+2021,39141,Ross County,Ohio,HH,10.6,38.9
+2021,39143,Sandusky County,Ohio,HH,10.2,33.7
+2021,39145,Scioto County,Ohio,HH,12.7,46.5
+2021,39147,Seneca County,Ohio,HH,9.6,37.9
+2021,39149,Shelby County,Ohio,MH,8.2,32.9
+2021,39151,Stark County,Ohio,HH,9.8,39.1
+2021,39153,Summit County,Ohio,HH,9.5,37.7
+2021,39155,Trumbull County,Ohio,HH,11,39
+2021,39157,Tuscarawas County,Ohio,MH,9,34.7
+2021,39159,Union County,Ohio,MH,8.6,33.7
+2021,39161,Van Wert County,Ohio,HH,9.8,39.2
+2021,39163,Vinton County,Ohio,HH,12.5,34.4
+2021,39165,Warren County,Ohio,MH,8,33.2
+2021,39167,Washington County,Ohio,HH,10.3,42.2
+2021,39169,Wayne County,Ohio,MH,8.7,34.6
+2021,39171,Williams County,Ohio,MH,8.7,34.8
+2021,39173,Wood County,Ohio,HH,10.2,39.8
+2021,39175,Wyandot County,Ohio,LL,7.7,23.8
+2021,40001,Adair County,Oklahoma,HM,10.1,26.6
+2021,40003,Alfalfa County,Oklahoma,LL,7.4,18.1
+2021,40005,Atoka County,Oklahoma,LM,7.2,26.1
+2021,40007,Beaver County,Oklahoma,LL,6.7,20.4
+2021,40009,Beckham County,Oklahoma,MM,8,31.2
+2021,40011,Blaine County,Oklahoma,MH,8.8,33.3
+2021,40013,Bryan County,Oklahoma,HH,11.6,35.1
+2021,40015,Caddo County,Oklahoma,HM,11.1,30.5
+2021,40017,Canadian County,Oklahoma,HH,9.1,34.3
+2021,37001,Alamance County,North Carolina,HH,9.1,32.1
+2021,37003,Alexander County,North Carolina,LL,7.2,21.1
+2021,37005,Alleghany County,North Carolina,LL,7.7,18.1
+2021,37007,Anson County,North Carolina,ML,8.2,19.6
+2021,37009,Ashe County,North Carolina,MM,8.2,28.2
+2021,37011,Avery County,North Carolina,LL,6.6,23.1
+2021,37013,Beaufort County,North Carolina,HH,9.1,34.8
+2021,37015,Bertie County,North Carolina,HL,9.9,24
+2021,37017,Bladen County,North Carolina,MH,8.9,32
+2021,37019,Brunswick County,North Carolina,LM,7.7,28.9
+2021,37021,Buncombe County,North Carolina,LM,7,26.5
+2021,37023,Burke County,North Carolina,MM,7.9,27.3
+2021,37025,Cabarrus County,North Carolina,HM,9.3,27.6
+2021,37027,Caldwell County,North Carolina,HM,9.7,30.3
+2021,37029,Camden County,North Carolina,LL,7.3,17.7
+2021,37031,Carteret County,North Carolina,LM,7.5,25.8
+2021,37033,Caswell County,North Carolina,ML,8.4,21.8
+2021,37035,Catawba County,North Carolina,LM,7.7,25.8
+2021,37037,Chatham County,North Carolina,MM,8,27.7
+2021,37039,Cherokee County,North Carolina,HM,9.3,25.1
+2021,37041,Chowan County,North Carolina,ML,8.3,21.5
+2021,37043,Clay County,North Carolina,LL,7.2,18.6
+2021,37045,Cleveland County,North Carolina,HM,9.9,29.1
+2021,37047,Columbus County,North Carolina,HH,9.8,32.2
+2021,37049,Craven County,North Carolina,HM,9.8,29
+2021,37051,Cumberland County,North Carolina,HH,12.2,37.1
+2021,37053,Currituck County,North Carolina,LL,7.7,22.8
+2021,37055,Dare County,North Carolina,LM,6.8,25.1
+2021,37057,Davidson County,North Carolina,HH,9.2,33.2
+2021,37059,Davie County,North Carolina,LL,7.4,24.6
+2021,37061,Duplin County,North Carolina,HH,9.2,32.7
+2021,37063,Durham County,North Carolina,HM,9.2,29.1
+2021,37065,Edgecombe County,North Carolina,HL,9.4,19.3
+2021,37067,Forsyth County,North Carolina,HM,9.6,31.5
+2021,37069,Franklin County,North Carolina,HL,9.1,22.9
+2021,37071,Gaston County,North Carolina,MH,8.3,33.5
+2021,37073,Gates County,North Carolina,ML,8.6,19.1
+2021,37075,Graham County,North Carolina,ML,8,21.9
+2021,37077,Granville County,North Carolina,ML,7.9,24.1
+2021,37079,Greene County,North Carolina,ML,8.7,20.8
+2021,37081,Guilford County,North Carolina,MH,8.9,34.9
+2021,37083,Halifax County,North Carolina,HM,11.3,28.8
+2021,37085,Harnett County,North Carolina,HH,9.2,40.5
+2021,37087,Haywood County,North Carolina,MH,8.5,33.8
+2021,37089,Henderson County,North Carolina,MM,8.7,30
+2021,37091,Hertford County,North Carolina,HM,9.9,28
+2021,37093,Hoke County,North Carolina,HM,9.9,31.6
+2021,37095,Hyde County,North Carolina,ML,7.9,18.2
+2021,37097,Iredell County,North Carolina,HM,9.7,30.2
+2021,37099,Jackson County,North Carolina,HM,9.1,26.3
+2021,37101,Johnston County,North Carolina,HH,10.3,36.7
+2021,37103,Jones County,North Carolina,ML,7.9,18.5
+2021,37105,Lee County,North Carolina,HM,9.2,29.9
+2021,37107,Lenoir County,North Carolina,HM,9.7,27.9
+2021,37109,Lincoln County,North Carolina,LL,7.2,24.9
+2021,37111,Mcdowell County,North Carolina,MM,8.1,25.3
+2021,37113,Macon County,North Carolina,ML,7.9,23.9
+2021,37115,Madison County,North Carolina,ML,7.8,23.7
+2021,37117,Martin County,North Carolina,ML,8.9,20.1
+2021,37119,Mecklenburg County,North Carolina,HM,9.8,30.4
+2021,37121,Mitchell County,North Carolina,LL,6.9,18.3
+2021,37123,Montgomery County,North Carolina,ML,8.4,23.1
+2021,37125,Moore County,North Carolina,LM,7.2,25.7
+2021,37127,Nash County,North Carolina,HM,10.8,30.2
+2021,37129,New Hanover County,North Carolina,MM,8.2,25.7
+2021,37131,Northampton County,North Carolina,HL,9.7,17.9
+2021,37133,Onslow County,North Carolina,HH,10.3,32.2
+2021,37135,Orange County,North Carolina,LL,7.6,20
+2021,37137,Pamlico County,North Carolina,LL,7,21.2
+2021,37139,Pasquotank County,North Carolina,MM,8.4,27.1
+2021,37141,Pender County,North Carolina,ML,8.4,23.8
+2021,40019,Carter County,Oklahoma,HH,9.1,36
+2021,40021,Cherokee County,Oklahoma,HM,11.4,31.5
+2021,40023,Choctaw County,Oklahoma,HL,9.6,23.1
+2021,40025,Cimarron County,Oklahoma,LL,6.8,19.6
+2021,40027,Cleveland County,Oklahoma,HM,9.3,31.2
+2021,40029,Coal County,Oklahoma,ML,8.2,21.3
+2021,40031,Comanche County,Oklahoma,HH,12.8,41.9
+2021,40033,Cotton County,Oklahoma,LL,7.3,23.4
+2021,40035,Craig County,Oklahoma,ML,8,23.6
+2021,40037,Creek County,Oklahoma,HH,10,36.3
+2021,40039,Custer County,Oklahoma,HH,11,41
+2021,40041,Delaware County,Oklahoma,MH,8.5,33.3
+2021,40043,Dewey County,Oklahoma,LL,7.7,18.3
+2021,40045,Ellis County,Oklahoma,ML,8,23.8
+2021,40047,Garfield County,Oklahoma,MH,8.7,38.6
+2021,40049,Garvin County,Oklahoma,MH,8.8,33.3
+2021,40051,Grady County,Oklahoma,HH,9.1,33.6
+2021,40053,Grant County,Oklahoma,ML,8.6,20.6
+2021,40055,Greer County,Oklahoma,ML,8,20.5
+2021,40057,Harmon County,Oklahoma,LL,7.3,17.8
+2021,40059,Harper County,Oklahoma,LL,7.5,19.5
+2021,40061,Haskell County,Oklahoma,MM,8.9,25.5
+2021,40063,Hughes County,Oklahoma,ML,9,21.9
+2021,40065,Jackson County,Oklahoma,MM,9,28.2
+2021,40067,Jefferson County,Oklahoma,ML,7.8,20.8
+2021,40069,Johnston County,Oklahoma,ML,7.9,22.2
+2021,40071,Kay County,Oklahoma,MH,8.7,35.7
+2021,40073,Kingfisher County,Oklahoma,MM,8.1,28.4
+2021,40075,Kiowa County,Oklahoma,ML,8.5,21.9
+2021,32009,Esmeralda County,Nevada,LL,7.5,17.2
+2021,32011,Eureka County,Nevada,LL,7.3,17.7
+2021,32013,Humboldt County,Nevada,MM,7.8,28.8
+2021,32015,Lander County,Nevada,LL,7.6,20
+2021,32017,Lincoln County,Nevada,ML,8.7,23.6
+2021,32019,Lyon County,Nevada,MH,8.9,35.6
+2021,32021,Mineral County,Nevada,ML,8.7,21.3
+2021,32023,Nye County,Nevada,MH,8.7,35.1
+2021,32027,Pershing County,Nevada,LL,7.6,20.4
+2021,32029,Storey County,Nevada,LL,7.4,16.1
+2021,32031,Washoe County,Nevada,LM,7.5,25.8
+2021,32033,White Pine County,Nevada,MM,8.6,27.2
+2021,32510,Carson City,Nevada,MM,8.6,31.1
+2021,33001,Belknap County,New Hampshire,LM,7.7,29.9
+2021,33003,Carroll County,New Hampshire,LM,7.3,26.8
+2021,33005,Cheshire County,New Hampshire,LM,6.9,30.3
+2021,33007,Coos County,New Hampshire,MH,8.7,35.8
+2021,33009,Grafton County,New Hampshire,LM,6,26.9
+2021,33011,Hillsborough County,New Hampshire,LM,7.5,30.7
+2021,33013,Merrimack County,New Hampshire,LM,6.9,28.4
+2021,33015,Rockingham County,New Hampshire,LM,7,27.8
+2021,33017,Strafford County,New Hampshire,HM,10,30.7
+2021,33019,Sullivan County,New Hampshire,LM,7.4,30.8
+2021,34001,Atlantic County,New Jersey,HH,10,34.1
+2021,34003,Bergen County,New Jersey,LL,6.4,23.8
+2021,34005,Burlington County,New Jersey,MM,8.7,30.9
+2021,34007,Camden County,New Jersey,HM,9.4,30.5
+2021,34009,Cape May County,New Jersey,HM,9.3,31
+2021,34011,Cumberland County,New Jersey,HH,10.1,37.7
+2021,34013,Essex County,New Jersey,HM,9.6,29.8
+2021,34015,Gloucester County,New Jersey,HH,9.1,32.5
+2021,34017,Hudson County,New Jersey,HL,9.7,24.3
+2021,37143,Perquimans County,North Carolina,ML,7.9,17.5
+2021,37145,Person County,North Carolina,LL,7.7,24.6
+2021,37147,Pitt County,North Carolina,MH,9,38.8
+2021,37149,Polk County,North Carolina,LL,6.9,19.5
+2021,37151,Randolph County,North Carolina,HH,10,32.8
+2021,37153,Richmond County,North Carolina,HM,11,25.7
+2021,37155,Robeson County,North Carolina,HH,13.1,42.7
+2021,37157,Rockingham County,North Carolina,MM,8.9,27.7
+2021,37159,Rowan County,North Carolina,HH,10.3,33.3
+2021,37161,Rutherford County,North Carolina,MM,8.5,26.8
+2021,37163,Sampson County,North Carolina,HH,13.5,33.7
+2021,37165,Scotland County,North Carolina,HM,12.4,28.9
+2021,37167,Stanly County,North Carolina,ML,8.5,20.6
+2021,37169,Stokes County,North Carolina,MM,8.9,28.3
+2021,37171,Surry County,North Carolina,MM,8.7,28.3
+2021,37173,Swain County,North Carolina,HL,9.1,19.3
+2021,37175,Transylvania County,North Carolina,LL,7.5,17.5
+2021,37177,Tyrrell County,North Carolina,ML,8.2,17.7
+2021,37179,Union County,North Carolina,HM,9.1,27.5
+2021,37181,Vance County,North Carolina,HL,9.5,23.1
+2021,37183,Wake County,North Carolina,MM,8.2,29.7
+2021,37185,Warren County,North Carolina,HL,9.2,20.8
+2021,37187,Washington County,North Carolina,ML,9,18
+2021,37189,Watauga County,North Carolina,LL,7,19.5
+2021,37191,Wayne County,North Carolina,HH,10.7,34.8
+2021,37193,Wilkes County,North Carolina,LH,7.7,31.9
+2021,37195,Wilson County,North Carolina,MM,8.4,25.7
+2021,37197,Yadkin County,North Carolina,LM,7.7,25.2
+2021,37199,Yancey County,North Carolina,LL,7.3,21.3
+2021,38001,Adams County,North Dakota,MM,8,28.9
+2021,38003,Barnes County,North Dakota,MH,8.5,35
+2021,38005,Benson County,North Dakota,HH,10.6,34
+2021,38007,Billings County,North Dakota,ML,7.8,19.2
+2021,38009,Bottineau County,North Dakota,MH,8.2,33.5
+2021,38011,Bowman County,North Dakota,LL,6.7,24.7
+2021,38013,Burke County,North Dakota,LL,7.3,21.8
+2021,38015,Burleigh County,North Dakota,LM,7.6,29.2
+2021,38017,Cass County,North Dakota,MH,8.2,33.6
+2021,38019,Cavalier County,North Dakota,MM,8.1,30.2
+2021,38021,Dickey County,North Dakota,LH,7.6,31.9
+2021,38023,Divide County,North Dakota,ML,8.2,22
+2021,38025,Dunn County,North Dakota,MH,8.8,33.9
+2021,38027,Eddy County,North Dakota,MM,7.8,30.5
+2021,38029,Emmons County,North Dakota,LL,7.5,23.4
+2021,38031,Foster County,North Dakota,MM,8.3,26.1
+2021,38033,Golden Valley County,North Dakota,LL,7.3,24.2
+2021,38035,Grand Forks County,North Dakota,HH,9.3,34.5
+2021,38037,Grant County,North Dakota,LM,7.2,29.6
+2021,38039,Griggs County,North Dakota,LH,7,32.9
+2021,38041,Hettinger County,North Dakota,MM,7.9,27.4
+2021,38043,Kidder County,North Dakota,LL,6.3,22.3
+2021,38045,Lamoure County,North Dakota,LM,6.1,26
+2021,38047,Logan County,North Dakota,HL,9.1,24.5
+2021,38049,Mchenry County,North Dakota,LH,7.3,32
+2021,38051,Mcintosh County,North Dakota,MM,8.9,27.5
+2021,38053,Mckenzie County,North Dakota,MM,8.8,31.1
+2021,38055,Mclean County,North Dakota,MH,8.8,34.8
+2021,38057,Mercer County,North Dakota,MH,8.7,36.1
+2021,38059,Morton County,North Dakota,HH,9.1,35.8
+2021,38061,Mountrail County,North Dakota,MH,9,39.4
+2021,38063,Nelson County,North Dakota,HM,9.3,29.4
+2021,38065,Oliver County,North Dakota,LL,7.1,23.2
+2021,38067,Pembina County,North Dakota,MH,7.8,32
+2021,38069,Pierce County,North Dakota,LM,7.7,26.5
+2021,38071,Ramsey County,North Dakota,MH,7.8,32.8
+2021,38073,Ransom County,North Dakota,MM,7.9,31.1
+2021,38075,Renville County,North Dakota,ML,7.8,21.9
+2021,38077,Richland County,North Dakota,MH,8.1,34.7
+2021,34019,Hunterdon County,New Jersey,LM,6.2,26.4
+2021,34021,Mercer County,New Jersey,ML,8.2,23.9
+2021,34023,Middlesex County,New Jersey,HM,9.2,26.3
+2021,34025,Monmouth County,New Jersey,LL,7.6,24.3
+2021,34027,Morris County,New Jersey,LL,6.6,21.4
+2021,34029,Ocean County,New Jersey,MM,7.8,31
+2021,34031,Passaic County,New Jersey,MM,8.6,29.1
+2021,34033,Salem County,New Jersey,HH,10,34.7
+2021,34035,Somerset County,New Jersey,LL,6.8,24.6
+2021,34037,Sussex County,New Jersey,MM,7.8,31
+2021,34039,Union County,New Jersey,MM,8.5,27.4
+2021,34041,Warren County,New Jersey,MM,9,31
+2021,35001,Bernalillo County,New Mexico,MM,8.7,27.9
+2021,35003,Catron County,New Mexico,LL,7.5,18.4
+2021,35005,Chaves County,New Mexico,HH,10.2,35.5
+2021,35006,Cibola County,New Mexico,HH,13.4,36.1
+2021,35007,Colfax County,New Mexico,HM,9.7,28.8
+2021,35009,Curry County,New Mexico,HM,9.6,30.3
+2021,35011,De Baca County,New Mexico,LL,7.6,20.7
+2021,35013,Doña Ana County,New Mexico,HH,9.4,33.2
+2021,35015,Eddy County,New Mexico,HH,10,39.7
+2021,35017,Grant County,New Mexico,MM,7.8,28.5
+2021,35019,Guadalupe County,New Mexico,ML,8.3,24.4
+2021,35021,Harding County,New Mexico,LL,7.1,17.1
+2021,35023,Hidalgo County,New Mexico,LL,7,18.3
+2021,35025,Lea County,New Mexico,HH,10.1,40.6
+2021,35027,Lincoln County,New Mexico,LL,6.6,24.3
+2021,35028,Los Alamos County,New Mexico,LL,6,23.5
+2021,35029,Luna County,New Mexico,HH,9.5,35
+2021,35031,Mckinley County,New Mexico,HH,14.9,40.7
+2021,35033,Mora County,New Mexico,LL,7.4,17.4
+2021,35035,Otero County,New Mexico,HM,9.7,30.9
+2021,35037,Quay County,New Mexico,MM,8.4,26.6
+2021,35039,Rio Arriba County,New Mexico,HH,9.3,33
+2021,35041,Roosevelt County,New Mexico,MH,8.3,32
+2021,35043,Sandoval County,New Mexico,MM,8.8,30.7
+2021,35045,San Juan County,New Mexico,HH,11.1,33.6
+2021,35047,San Miguel County,New Mexico,MM,8.3,28.8
+2021,35049,Santa Fe County,New Mexico,LL,6.1,22.4
+2021,35051,Sierra County,New Mexico,LL,7.4,24.5
+2021,35053,Socorro County,New Mexico,HM,9.6,28
+2021,35055,Taos County,New Mexico,LL,7.2,21.6
+2021,35057,Torrance County,New Mexico,MM,7.8,26.5
+2021,35059,Union County,New Mexico,LL,7.1,19.6
+2021,35061,Valencia County,New Mexico,HH,9.8,34.7
+2021,36001,Albany County,New York,MM,9,31.2
+2021,36003,Allegany County,New York,HH,10,34.8
+2021,36005,Bronx County,New York,HH,12.1,32.4
+2021,36007,Broome County,New York,HH,9.9,34.2
+2021,36009,Cattaraugus County,New York,HH,10.7,40.1
+2021,36011,Cayuga County,New York,MH,8.8,38.1
+2021,36013,Chautauqua County,New York,HH,11.3,36.5
+2021,36015,Chemung County,New York,HH,10,35.3
+2021,36017,Chenango County,New York,HH,9.5,36.6
+2021,36019,Clinton County,New York,HH,11.1,35.7
+2021,36021,Columbia County,New York,MM,8.9,28.6
+2021,36023,Cortland County,New York,HH,9.1,36.3
+2021,36025,Delaware County,New York,MH,8.1,31.8
+2021,36027,Dutchess County,New York,MM,8.5,29
+2021,36029,Erie County,New York,MH,8.9,33.1
+2021,36031,Essex County,New York,MM,8.2,30.3
+2021,36033,Franklin County,New York,HH,12.5,40
+2021,36035,Fulton County,New York,HH,9.7,34.5
+2021,36037,Genesee County,New York,HH,9.4,37.1
+2021,36039,Greene County,New York,MH,7.8,32.1
+2021,36041,Hamilton County,New York,LM,7.7,27.2
+2021,36043,Herkimer County,New York,MH,8.3,32.1
+2021,36045,Jefferson County,New York,HH,9.8,36.3
+2021,36047,Kings County,New York,HM,9.8,25.7
+2021,36049,Lewis County,New York,HH,10.4,41.3
+2021,36051,Livingston County,New York,HH,9.1,36.6
+2021,36053,Madison County,New York,MH,8.4,34.7
+2021,36055,Monroe County,New York,HM,9.1,30.9
+2021,36057,Montgomery County,New York,HH,10.4,34.1
+2021,36059,Nassau County,New York,LM,7.3,25.5
+2021,36061,New York County,New York,LL,6.8,18.9
+2021,36063,Niagara County,New York,HH,11.8,32.1
+2021,36065,Oneida County,New York,HH,9.6,33.3
+2021,36067,Onondaga County,New York,HH,9.7,34.2
+2021,36069,Ontario County,New York,LH,7.3,34.6
+2021,36071,Orange County,New York,MM,8.4,31.6
+2021,36073,Orleans County,New York,HH,12.3,39.4
+2021,36075,Oswego County,New York,MH,8.6,38.9
+2021,36077,Otsego County,New York,LM,7.3,27.4
+2021,36079,Putnam County,New York,LM,6.4,25.9
+2021,36081,Queens County,New York,HM,10.8,26.9
+2021,36083,Rensselaer County,New York,MH,9,32.8
+2021,36085,Richmond County,New York,HM,10.6,31.2
+2021,36087,Rockland County,New York,ML,8.3,24
+2021,36089,St. Lawrence County,New York,HH,10.8,38.7
+2021,36091,Saratoga County,New York,LM,6.9,28.1
+2021,36093,Schenectady County,New York,HH,9.1,34
+2021,36095,Schoharie County,New York,MH,8.6,35.2
+2021,36097,Schuyler County,New York,HM,10.9,31.7
+2021,36099,Seneca County,New York,HH,10,37.2
+2021,36101,Steuben County,New York,HH,10.3,32.6
+2021,36103,Suffolk County,New York,MM,8,28.4
+2021,36105,Sullivan County,New York,HH,9.3,37
+2021,36107,Tioga County,New York,HH,9.6,34.3
+2021,36109,Tompkins County,New York,LM,7.2,25.1
+2021,30027,Fergus County,Montana,LL,5.8,24.9
+2021,30029,Flathead County,Montana,LM,6.3,28.5
+2021,30031,Gallatin County,Montana,LL,4.7,19.1
+2021,30033,Garfield County,Montana,LL,6.6,19.9
+2021,30035,Glacier County,Montana,HH,13.4,41.7
+2021,30037,Golden Valley County,Montana,LL,7,20.4
+2021,30039,Granite County,Montana,LM,7,25.5
+2021,30041,Hill County,Montana,HH,9.5,34.9
+2021,30043,Jefferson County,Montana,LL,7.1,24
+2021,30045,Judith Basin County,Montana,LL,7,22.7
+2021,30047,Lake County,Montana,HH,9.1,31.9
+2021,30049,Lewis And Clark County,Montana,MM,7.8,28.4
+2021,30051,Liberty County,Montana,LM,7.7,30.6
+2021,30053,Lincoln County,Montana,MM,8.1,27.4
+2021,30055,Mccone County,Montana,LL,6.3,25
+2021,30057,Madison County,Montana,LL,5.7,23
+2021,30059,Meagher County,Montana,LL,7.6,20.3
+2021,30061,Mineral County,Montana,LM,7.1,28.4
+2021,30063,Missoula County,Montana,LM,6.6,27.4
+2021,30065,Musselshell County,Montana,LM,7.5,27.5
+2021,30067,Park County,Montana,LL,6.4,18.7
+2021,30069,Petroleum County,Montana,LL,7.4,17.4
+2021,30071,Phillips County,Montana,LM,7.6,30
+2021,30073,Pondera County,Montana,MM,8,29.7
+2021,30075,Powder River County,Montana,ML,8.1,19.7
+2021,30077,Powell County,Montana,MM,7.9,28.9
+2021,30079,Prairie County,Montana,LL,7.1,17
+2021,30081,Ravalli County,Montana,LM,7.2,26.7
+2021,30083,Richland County,Montana,MH,7.9,36.6
+2021,30085,Roosevelt County,Montana,HH,12.1,37.4
+2021,30087,Rosebud County,Montana,HH,10.8,32.1
+2021,30089,Sanders County,Montana,ML,7.8,21.9
+2021,30091,Sheridan County,Montana,MM,8.5,25.6
+2021,30093,Silver Bow County,Montana,HM,9.2,27.5
+2021,30095,Stillwater County,Montana,MM,7.9,27.9
+2021,30097,Sweet Grass County,Montana,LL,6.9,22.1
+2021,30099,Teton County,Montana,LL,6.6,25
+2021,30101,Toole County,Montana,LL,7.5,22.8
+2021,30103,Treasure County,Montana,LL,7.7,19.3
+2021,30105,Valley County,Montana,MH,8,33.1
+2021,30107,Wheatland County,Montana,LL,7.2,21.3
+2021,30109,Wibaux County,Montana,LL,7.4,19.1
+2021,30111,Yellowstone County,Montana,MM,8.2,31.5
+2021,31001,Adams County,Nebraska,HH,9.8,36.7
+2021,31003,Antelope County,Nebraska,LM,7.4,29.3
+2021,31005,Arthur County,Nebraska,LL,7.1,20.6
+2021,31007,Banner County,Nebraska,LL,7.1,17.8
+2021,31009,Blaine County,Nebraska,LL,7,18.3
+2021,31011,Boone County,Nebraska,LH,7.2,37.6
+2021,31013,Box Butte County,Nebraska,LH,7.5,37.5
+2021,31015,Boyd County,Nebraska,MM,7.8,26.1
+2021,31017,Brown County,Nebraska,LM,7.7,31.6
+2021,31019,Buffalo County,Nebraska,MH,9,36.3
+2021,31021,Burt County,Nebraska,LH,7.6,32.5
+2021,31023,Butler County,Nebraska,MH,8.9,35.7
+2021,31025,Cass County,Nebraska,HH,9.6,39.2
+2021,31027,Cedar County,Nebraska,LH,7,33.9
+2021,31029,Chase County,Nebraska,LM,7.4,28.8
+2021,31031,Cherry County,Nebraska,LM,7.1,29.5
+2021,31033,Cheyenne County,Nebraska,MH,8.4,32.2
+2021,31035,Clay County,Nebraska,MH,8.1,37.7
+2021,31037,Colfax County,Nebraska,MH,8.6,35.8
+2021,31039,Cuming County,Nebraska,LH,7.2,35.1
+2021,31041,Custer County,Nebraska,HH,9.1,33.1
+2021,31043,Dakota County,Nebraska,HH,10.4,38
+2021,31045,Dawes County,Nebraska,LM,7.6,30.8
+2021,31047,Dawson County,Nebraska,MH,8,37.7
+2021,31049,Deuel County,Nebraska,LL,7.3,23.9
+2021,31051,Dixon County,Nebraska,LH,7.2,36.2
+2021,31053,Dodge County,Nebraska,MH,8.2,39.9
+2021,31055,Douglas County,Nebraska,HH,9.1,33.7
+2021,31057,Dundy County,Nebraska,LM,7.6,27.4
+2021,31059,Fillmore County,Nebraska,LH,6.9,34.2
+2021,31061,Franklin County,Nebraska,LM,6.8,31.3
+2021,31063,Frontier County,Nebraska,LH,6.8,33.3
+2021,31065,Furnas County,Nebraska,LH,7.2,33.9
+2021,31067,Gage County,Nebraska,MH,8.5,38.3
+2021,31069,Garden County,Nebraska,LL,7.3,23.2
+2021,31071,Garfield County,Nebraska,LM,6.8,26.5
+2021,31073,Gosper County,Nebraska,LM,6.9,29
+2021,31075,Grant County,Nebraska,ML,7.8,24.6
+2021,31077,Greeley County,Nebraska,LM,7.1,25.9
+2021,31079,Hall County,Nebraska,MH,8.9,38.2
+2021,31081,Hamilton County,Nebraska,HH,9.2,37.7
+2021,31083,Harlan County,Nebraska,LM,6.2,26.3
+2021,31085,Hayes County,Nebraska,ML,8.3,21.2
+2021,31087,Hitchcock County,Nebraska,HH,9.2,37.6
+2021,31089,Holt County,Nebraska,MH,8.1,35.2
+2021,31091,Hooker County,Nebraska,LL,6.6,20.5
+2021,31093,Howard County,Nebraska,LH,7.2,33.6
+2021,31095,Jefferson County,Nebraska,LH,6.7,33
+2021,31097,Johnson County,Nebraska,LM,6.5,29.9
+2021,31099,Kearney County,Nebraska,MM,8,28.3
+2021,36111,Ulster County,New York,LM,7.6,28.3
+2021,36113,Warren County,New York,MM,9,31.2
+2021,36115,Washington County,New York,MH,8.8,33.1
+2021,36117,Wayne County,New York,HH,9.8,35.8
+2021,36119,Westchester County,New York,LL,7.3,24.1
+2021,36121,Wyoming County,New York,HH,9.9,36.6
+2021,36123,Yates County,New York,MM,9,28.4
+2021,28141,Tishomingo County,Mississippi,MH,8.7,33.2
+2021,28143,Tunica County,Mississippi,HM,9.1,26.9
+2021,28145,Union County,Mississippi,LH,7.5,32.8
+2021,28147,Walthall County,Mississippi,HH,12.9,33.8
+2021,28149,Warren County,Mississippi,HM,11,28.2
+2021,28151,Washington County,Mississippi,HH,12.8,39.8
+2021,28153,Wayne County,Mississippi,HM,9.9,28.5
+2021,28155,Webster County,Mississippi,HL,9.2,24.9
+2021,28157,Wilkinson County,Mississippi,HL,9.2,22.1
+2021,28159,Winston County,Mississippi,HH,14.4,34.2
+2021,28161,Yalobusha County,Mississippi,HM,9.8,28.6
+2021,28163,Yazoo County,Mississippi,ML,8.3,24.4
+2021,29001,Adair County,Missouri,MH,8.5,32.9
+2021,29003,Andrew County,Missouri,LM,7.6,29.5
+2021,29005,Atchison County,Missouri,LM,7.1,29.8
+2021,29007,Audrain County,Missouri,HH,12,34.9
+2021,29009,Barry County,Missouri,MM,7.8,28.8
+2021,29011,Barton County,Missouri,MH,8.7,32.7
+2021,29013,Bates County,Missouri,HH,9.1,36.3
+2021,29015,Benton County,Missouri,MH,8.4,38.5
+2021,29017,Bollinger County,Missouri,MM,8.3,29
+2021,29019,Boone County,Missouri,MM,8.4,30.2
+2021,29021,Buchanan County,Missouri,HH,10.3,34.8
+2021,29023,Butler County,Missouri,HH,9.2,39.5
+2021,29025,Caldwell County,Missouri,MH,7.8,32.2
+2021,29027,Callaway County,Missouri,LM,7.3,27.2
+2021,29029,Camden County,Missouri,MM,8.8,31.2
+2021,29031,Cape Girardeau County,Missouri,HH,9.7,35
+2021,29033,Carroll County,Missouri,HH,9.5,33.9
+2021,29035,Carter County,Missouri,LM,7.7,27.9
+2021,29037,Cass County,Missouri,MH,8.8,33.4
+2021,29039,Cedar County,Missouri,MM,8.2,27.8
+2021,29041,Chariton County,Missouri,MH,8.9,32.8
+2021,29043,Christian County,Missouri,LM,6.8,30.7
+2021,29045,Clark County,Missouri,LM,7.5,29.1
+2021,29047,Clay County,Missouri,MH,8.9,36.8
+2021,29049,Clinton County,Missouri,MM,8.2,30.8
+2021,29051,Cole County,Missouri,MM,8.6,31
+2021,29053,Cooper County,Missouri,LM,7.1,27.5
+2021,29055,Crawford County,Missouri,MM,8.6,28.8
+2021,29057,Dade County,Missouri,LL,7.1,21.1
+2021,29059,Dallas County,Missouri,MM,8.1,28
+2021,29061,Daviess County,Missouri,MM,8.4,29.8
+2021,29063,Dekalb County,Missouri,MM,8.8,30.6
+2021,29065,Dent County,Missouri,LM,7.5,27.7
+2021,29067,Douglas County,Missouri,LM,7.3,31
+2021,29069,Dunklin County,Missouri,HH,13.5,39.4
+2021,29071,Franklin County,Missouri,HM,10.2,30.2
+2021,29073,Gasconade County,Missouri,MM,8.6,26
+2021,29075,Gentry County,Missouri,MM,8.7,27.9
+2021,29077,Greene County,Missouri,MM,9,30.7
+2021,29079,Grundy County,Missouri,MM,7.9,25.6
+2021,29081,Harrison County,Missouri,MM,8.8,30.9
+2021,31101,Keith County,Nebraska,LM,6.7,26.4
+2021,31103,Keya Paha County,Nebraska,LL,7.6,21.1
+2021,31105,Kimball County,Nebraska,MM,8.6,29
+2021,31107,Knox County,Nebraska,MH,8.9,36.1
+2021,31109,Lancaster County,Nebraska,MH,8.1,32
+2021,31111,Lincoln County,Nebraska,HH,9.7,40
+2021,31113,Logan County,Nebraska,LL,7.4,19.5
+2021,31115,Loup County,Nebraska,ML,8.3,22.4
+2021,31117,Mcpherson County,Nebraska,LL,7.1,21.8
+2021,31119,Madison County,Nebraska,MH,7.9,34.1
+2021,31121,Merrick County,Nebraska,MH,8.5,39.1
+2021,31123,Morrill County,Nebraska,MM,8.3,29.4
+2021,31125,Nance County,Nebraska,HH,9.1,32.5
+2021,31127,Nemaha County,Nebraska,LH,7.3,35.8
+2021,31129,Nuckolls County,Nebraska,LM,6.5,31.4
+2021,31131,Otoe County,Nebraska,LH,7.6,36.7
+2021,31133,Pawnee County,Nebraska,LM,7,28.7
+2021,54065,Morgan County,West Virginia,MM,8.8,31
+2021,54067,Nicholas County,West Virginia,HH,11.3,39.2
+2021,54069,Ohio County,West Virginia,HM,9.4,30.4
+2021,54071,Pendleton County,West Virginia,HM,9.8,31.5
+2021,54073,Pleasants County,West Virginia,ML,7.9,23
+2021,54075,Pocahontas County,West Virginia,MM,8.5,27.3
+2021,54077,Preston County,West Virginia,HH,10.9,41.6
+2021,54079,Putnam County,West Virginia,HH,11.8,42.5
+2021,54081,Raleigh County,West Virginia,HH,12.3,38.2
+2021,54083,Randolph County,West Virginia,HH,9.1,34.5
+2021,54085,Ritchie County,West Virginia,MH,8.6,33.7
+2021,54087,Roane County,West Virginia,HH,10.9,39.6
+2021,54089,Summers County,West Virginia,MH,8.4,35.2
+2021,54091,Taylor County,West Virginia,HH,11.1,36.1
+2021,54093,Tucker County,West Virginia,ML,8,21.2
+2021,54095,Tyler County,West Virginia,HH,10.1,32.8
+2021,54097,Upshur County,West Virginia,MH,8.5,35.1
+2021,54099,Wayne County,West Virginia,HH,11.3,40.2
+2021,54101,Webster County,West Virginia,MM,8.8,30.5
+2021,54103,Wetzel County,West Virginia,LH,7.3,34.2
+2021,54105,Wirt County,West Virginia,LM,7.5,26.3
+2021,54107,Wood County,West Virginia,HH,11.9,38.8
+2021,54109,Wyoming County,West Virginia,HH,11.1,37.8
+2021,55001,Adams County,Wisconsin,MM,7.8,26.6
+2021,55003,Ashland County,Wisconsin,MH,7.8,35.5
+2021,55005,Barron County,Wisconsin,MM,7.8,28.6
+2021,55007,Bayfield County,Wisconsin,LM,7.2,30.8
+2021,55009,Brown County,Wisconsin,MH,8,32.8
+2021,55011,Buffalo County,Wisconsin,LL,7.4,24.6
+2021,55013,Burnett County,Wisconsin,LL,7,17.8
+2021,55015,Calumet County,Wisconsin,LL,7.4,24.7
+2021,55017,Chippewa County,Wisconsin,LM,6.9,29.1
+2021,55019,Clark County,Wisconsin,MM,7.8,30.1
+2021,55021,Columbia County,Wisconsin,LM,7.3,31
+2021,55023,Crawford County,Wisconsin,LL,6.8,21.9
+2021,55025,Dane County,Wisconsin,LL,5.9,23.3
+2021,55027,Dodge County,Wisconsin,LH,7.5,32.6
+2021,55029,Door County,Wisconsin,LL,6.9,23
+2021,55031,Douglas County,Wisconsin,LM,7.4,26.5
+2021,55033,Dunn County,Wisconsin,MM,8.3,30.6
+2021,55035,Eau Claire County,Wisconsin,LM,6.3,26.7
+2021,55037,Florence County,Wisconsin,LM,7.5,26.4
+2021,55039,Fond Du Lac County,Wisconsin,LH,7.3,38
+2021,55041,Forest County,Wisconsin,MH,8.9,32
+2021,55043,Grant County,Wisconsin,LM,7,28.6
+2021,55045,Green County,Wisconsin,LH,6.6,33.7
+2021,55047,Green Lake County,Wisconsin,ML,8,22.8
+2021,55049,Iowa County,Wisconsin,LL,6.9,24.8
+2021,55051,Iron County,Wisconsin,LL,7.5,20.8
+2021,55053,Jackson County,Wisconsin,ML,8.2,20.9
+2021,55055,Jefferson County,Wisconsin,LM,6,30.3
+2021,55057,Juneau County,Wisconsin,LM,7.5,27.6
+2021,55059,Kenosha County,Wisconsin,MH,7.8,33.2
+2021,55061,Kewaunee County,Wisconsin,LL,7.5,22.4
+2021,55063,La Crosse County,Wisconsin,MM,7.8,29.9
+2021,55065,Lafayette County,Wisconsin,LL,7,16.5
+2021,55067,Langlade County,Wisconsin,MM,8.1,31.3
+2021,55069,Lincoln County,Wisconsin,LH,5.9,34.8
+2021,55071,Manitowoc County,Wisconsin,LM,7.4,28.3
+2021,55073,Marathon County,Wisconsin,MH,8.5,32
+2021,55075,Marinette County,Wisconsin,LL,6.7,24.6
+2021,55077,Marquette County,Wisconsin,LL,7.1,21.5
+2021,51095,James City County,Virginia,MM,8.6,26.6
+2021,51097,King And Queen County,Virginia,MM,8.7,25.2
+2021,51099,King George County,Virginia,MM,8.4,27.6
+2021,51101,King William County,Virginia,MM,8.5,31.6
+2021,51103,Lancaster County,Virginia,ML,7.8,20
+2021,51105,Lee County,Virginia,HM,10.2,26.5
+2021,51107,Loudoun County,Virginia,LM,6.6,28.2
+2021,51109,Louisa County,Virginia,MM,8.4,27.8
+2021,51111,Lunenburg County,Virginia,HM,9.1,26.2
+2021,51113,Madison County,Virginia,MM,8.3,25.9
+2021,51115,Mathews County,Virginia,HM,10.2,27.1
+2021,51117,Mecklenburg County,Virginia,HM,12,30.7
+2021,51119,Middlesex County,Virginia,LL,7.3,21.8
+2021,51121,Montgomery County,Virginia,MM,8.1,27.4
+2021,51125,Nelson County,Virginia,HL,9.8,23
+2021,51127,New Kent County,Virginia,LM,7.2,25.8
+2021,51131,Northampton County,Virginia,MM,9,28.5
+2021,51133,Northumberland County,Virginia,LL,7.1,23.8
+2021,51135,Nottoway County,Virginia,ML,8.8,21.9
+2021,51137,Orange County,Virginia,MM,7.8,27.3
+2021,51139,Page County,Virginia,MM,8.8,29.9
+2021,51141,Patrick County,Virginia,ML,8.6,20.6
+2021,51143,Pittsylvania County,Virginia,HH,12.6,37.9
+2021,51145,Powhatan County,Virginia,LM,7.5,27.8
+2021,51147,Prince Edward County,Virginia,HL,9.4,22.9
+2021,51149,Prince George County,Virginia,HH,10.5,36.7
+2021,51153,Prince William County,Virginia,MH,8.4,34.5
+2021,51155,Pulaski County,Virginia,MM,8,28.6
+2021,51157,Rappahannock County,Virginia,ML,8,21.1
+2021,51159,Richmond County,Virginia,MM,8.5,29.8
+2021,51161,Roanoke County,Virginia,HH,9.1,33.2
+2021,51163,Rockbridge County,Virginia,LM,7.5,25.9
+2021,51165,Rockingham County,Virginia,HM,10.3,31.5
+2021,51167,Russell County,Virginia,HH,9.9,35.5
+2021,51169,Scott County,Virginia,HM,10,29.9
+2021,51171,Shenandoah County,Virginia,MH,8.3,34.1
+2021,51173,Smyth County,Virginia,MH,7.9,33.5
+2021,51175,Southampton County,Virginia,HM,9.5,25.1
+2021,51177,Spotsylvania County,Virginia,LH,7.7,32.7
+2021,51179,Stafford County,Virginia,HH,9.6,35
+2021,51181,Surry County,Virginia,ML,8.4,22.2
+2021,51183,Sussex County,Virginia,HM,9.3,30.3
+2021,51185,Tazewell County,Virginia,HH,10.7,34.4
+2021,51187,Warren County,Virginia,MM,8.4,26.7
+2021,51191,Washington County,Virginia,MM,8.1,31.4
+2021,55078,Menominee County,Wisconsin,HH,11,35
+2021,55079,Milwaukee County,Wisconsin,HH,9.4,36.4
+2021,55081,Monroe County,Wisconsin,LM,7.6,27.2
+2021,55083,Oconto County,Wisconsin,LM,7.5,26.6
+2021,55085,Oneida County,Wisconsin,LM,7.6,27.4
+2021,55087,Outagamie County,Wisconsin,MM,8.4,29.8
+2021,55089,Ozaukee County,Wisconsin,LL,6.4,20.4
+2021,55091,Pepin County,Wisconsin,LL,7.1,22.2
+2021,55093,Pierce County,Wisconsin,LM,7.7,26
+2021,55095,Polk County,Wisconsin,MM,8,26.3
+2021,55097,Portage County,Wisconsin,LM,6.5,27.9
+2021,55099,Price County,Wisconsin,LM,7.4,27.3
+2021,55101,Racine County,Wisconsin,MH,9,34.1
+2021,55103,Richland County,Wisconsin,LM,6.8,27.4
+2021,55105,Rock County,Wisconsin,MM,8.4,31.1
+2021,55107,Rusk County,Wisconsin,HL,9.3,23.7
+2021,55109,St. Croix County,Wisconsin,MM,7.9,29.6
+2021,55111,Sauk County,Wisconsin,MM,7.8,29.9
+2021,55113,Sawyer County,Wisconsin,MH,7.9,33.1
+2021,55115,Shawano County,Wisconsin,MM,8.9,30.3
+2021,55117,Sheboygan County,Wisconsin,LM,7.4,30.2
+2021,55119,Taylor County,Wisconsin,MH,8.7,34.7
+2021,55121,Trempealeau County,Wisconsin,LL,7.1,22.5
+2021,55123,Vernon County,Wisconsin,LM,6.6,26.5
+2021,55125,Vilas County,Wisconsin,LM,7.7,30.6
+2021,55127,Walworth County,Wisconsin,LH,6.6,32.3
+2021,55129,Washburn County,Wisconsin,LM,5.8,25.5
+2021,55131,Washington County,Wisconsin,LM,7,27.8
+2021,55133,Waukesha County,Wisconsin,LM,7.3,29.4
+2021,55135,Waupaca County,Wisconsin,MH,8.1,35
+2021,48453,Travis County,Texas,LM,7.2,27.1
+2021,48455,Trinity County,Texas,ML,8.9,23.7
+2021,48457,Tyler County,Texas,ML,8.5,22.4
+2021,48459,Upshur County,Texas,LL,7.5,18.7
+2021,48461,Upton County,Texas,LL,7.3,17.2
+2021,48463,Uvalde County,Texas,LL,7.3,17.6
+2021,48465,Val Verde County,Texas,LL,7.3,19.4
+2021,48467,Van Zandt County,Texas,ML,8.3,24.1
+2021,48469,Victoria County,Texas,MM,8.5,29.3
+2021,48471,Walker County,Texas,ML,7.8,20.4
+2021,48473,Waller County,Texas,ML,7.8,18.2
+2021,48475,Ward County,Texas,LL,7.7,18.4
+2021,48477,Washington County,Texas,LL,7.7,22.3
+2021,48479,Webb County,Texas,MM,8.8,27.6
+2021,48481,Wharton County,Texas,LL,7.7,19.1
+2021,48483,Wheeler County,Texas,LL,7.3,17.1
+2021,48485,Wichita County,Texas,HH,11.7,31.8
+2021,48487,Wilbarger County,Texas,ML,8.1,20.4
+2021,48489,Willacy County,Texas,LL,7.5,19.6
+2021,48491,Williamson County,Texas,MM,8.2,30
+2021,48493,Wilson County,Texas,LL,6.9,20.6
+2021,48495,Winkler County,Texas,LL,7.2,17.7
+2021,48497,Wise County,Texas,ML,7.8,20.5
+2021,48499,Wood County,Texas,LL,7.4,21.3
+2021,48501,Yoakum County,Texas,LL,7.1,17.6
+2021,48503,Young County,Texas,ML,7.8,21.4
+2021,48505,Zapata County,Texas,LL,6.9,17.2
+2021,48507,Zavala County,Texas,MM,9,26.7
+2021,49001,Beaver County,Utah,LL,7.6,22.2
+2021,49003,Box Elder County,Utah,MH,8.1,33.2
+2021,49005,Cache County,Utah,MM,7.9,28.8
+2021,49007,Carbon County,Utah,MH,8.4,34.7
+2021,49009,Daggett County,Utah,LL,7.4,21.6
+2021,49011,Davis County,Utah,MH,7.9,31.9
+2021,49013,Duchesne County,Utah,HM,9.3,31
+2021,49015,Emery County,Utah,HH,10.1,32.9
+2021,49017,Garfield County,Utah,LL,6.5,22.4
+2021,49019,Grand County,Utah,LL,6.3,22.2
+2021,49021,Iron County,Utah,MM,8.7,30.5
+2021,49023,Juab County,Utah,LM,7.6,30.9
+2021,49025,Kane County,Utah,LL,6.9,21.9
+2021,49027,Millard County,Utah,MM,8.3,30.1
+2021,49029,Morgan County,Utah,LL,6.7,24.3
+2021,49031,Piute County,Utah,LL,6.8,19
+2021,49033,Rich County,Utah,LL,6.8,19.1
+2021,49035,Salt Lake County,Utah,MM,8.6,30
+2021,49037,San Juan County,Utah,HH,12.3,32.1
+2021,49039,Sanpete County,Utah,LM,6.6,29.5
+2021,49041,Sevier County,Utah,MH,8.5,34.9
+2021,49043,Summit County,Utah,LL,5.6,17.3
+2021,49045,Tooele County,Utah,HH,10.5,38.1
+2021,49047,Uintah County,Utah,HH,9.3,38.1
+2021,49049,Utah County,Utah,MM,8.3,29.3
+2021,49051,Wasatch County,Utah,LM,6.7,25.2
+2021,49053,Washington County,Utah,LM,6.9,28.8
+2021,49055,Wayne County,Utah,LL,6.7,17.8
+2021,49057,Weber County,Utah,HH,9.1,32.1
+2021,50001,Addison County,Vermont,LM,6,27
+2021,50003,Bennington County,Vermont,LM,7.5,27.8
+2021,50005,Caledonia County,Vermont,LM,7.6,29.9
+2021,50007,Chittenden County,Vermont,LL,5.9,23.8
+2021,50009,Essex County,Vermont,LM,7.5,31.2
+2021,50011,Franklin County,Vermont,MH,8.2,33.5
+2021,50013,Grand Isle County,Vermont,LM,7.2,26.8
+2021,50015,Lamoille County,Vermont,LL,7.3,24.8
+2021,50017,Orange County,Vermont,LM,7.3,27.9
+2021,50019,Orleans County,Vermont,LM,6.6,29.8
+2021,50021,Rutland County,Vermont,LM,7,30.2
+2021,50023,Washington County,Vermont,LM,6.3,26
+2021,50025,Windham County,Vermont,LM,5.7,26.2
+2021,50027,Windsor County,Vermont,LM,7.1,29.4
+2021,51001,Accomack County,Virginia,HH,9.9,33.2
+2021,51003,Albemarle County,Virginia,LL,7.7,22.6
+2021,51005,Alleghany County,Virginia,HM,9.4,30.8
+2021,51007,Amelia County,Virginia,HM,10,28.2
+2021,51009,Amherst County,Virginia,MM,8.9,25.6
+2021,51011,Appomattox County,Virginia,MM,8.5,25.5
+2021,51013,Arlington County,Virginia,LL,6.2,20.1
+2021,51015,Augusta County,Virginia,HH,10.5,32
+2021,51017,Bath County,Virginia,LL,6.9,20.1
+2021,51019,Bedford County,Virginia,LH,7.3,32
+2021,51021,Bland County,Virginia,ML,7.8,20.1
+2021,51023,Botetourt County,Virginia,LM,7.2,25.7
+2021,51025,Brunswick County,Virginia,HM,10,29.9
+2021,51027,Buchanan County,Virginia,HM,9.5,29.7
+2021,51029,Buckingham County,Virginia,MM,8.7,31.6
+2021,48129,Donley County,Texas,LL,7.4,17
+2021,48131,Duval County,Texas,LL,7,17.4
+2021,48133,Eastland County,Texas,LL,7,17.4
+2021,48135,Ector County,Texas,LM,7.3,28.3
+2021,48137,Edwards County,Texas,LL,7.3,17.5
+2021,48139,Ellis County,Texas,HM,9.6,31.1
+2021,48141,El Paso County,Texas,HH,10.8,35.5
+2021,48143,Erath County,Texas,LL,7.4,17.1
+2021,48145,Falls County,Texas,LL,7.6,17.4
+2021,48147,Fannin County,Texas,LL,7.1,19.8
+2021,48149,Fayette County,Texas,LL,7.6,20.3
+2021,48151,Fisher County,Texas,LL,7.1,17.2
+2021,48153,Floyd County,Texas,LL,7,17.6
+2021,48155,Foard County,Texas,LL,7.4,18.8
+2021,48157,Fort Bend County,Texas,HM,10.3,25.7
+2021,48159,Franklin County,Texas,LL,7.2,17.4
+2021,48161,Freestone County,Texas,LL,7.6,17.3
+2021,48163,Frio County,Texas,LL,7.1,16.8
+2021,48165,Gaines County,Texas,LL,7.4,18.7
+2021,48167,Galveston County,Texas,HM,10.1,30.9
+2021,48169,Garza County,Texas,LL,7.3,17.1
+2021,48171,Gillespie County,Texas,LL,6.8,19.5
+2021,48173,Glasscock County,Texas,LL,7.1,17.3
+2021,48175,Goliad County,Texas,LL,7.3,17.2
+2021,48177,Gonzales County,Texas,LL,7.4,19.1
+2021,48179,Gray County,Texas,LL,7.4,17.7
+2021,48181,Grayson County,Texas,LM,7,28.4
+2021,48183,Gregg County,Texas,MM,8.5,25.7
+2021,48185,Grimes County,Texas,LL,7.5,22.9
+2021,48187,Guadalupe County,Texas,LH,7.5,33.6
+2021,48189,Hale County,Texas,LL,7.7,18.5
+2021,48191,Hall County,Texas,LL,7.4,17
+2021,48193,Hamilton County,Texas,LL,7.3,16.9
+2021,48195,Hansford County,Texas,LL,7.1,17.5
+2021,48197,Hardeman County,Texas,LL,7.4,18.8
+2021,48199,Hardin County,Texas,HM,13,29.1
+2021,48201,Harris County,Texas,HH,9.7,34.3
+2021,48203,Harrison County,Texas,LL,7.6,20.5
+2021,48205,Hartley County,Texas,LL,7.3,18
+2021,48207,Haskell County,Texas,LL,7.1,18.4
+2021,48209,Hays County,Texas,MM,8.4,25.2
+2021,48211,Hemphill County,Texas,LL,7,17.4
+2021,48213,Henderson County,Texas,MM,8.2,25.5
+2021,48215,Hidalgo County,Texas,HH,13.9,42.3
+2021,48217,Hill County,Texas,ML,8,21.8
+2021,48219,Hockley County,Texas,LL,7.2,17.2
+2021,48221,Hood County,Texas,ML,8.2,21.6
+2021,48223,Hopkins County,Texas,LL,7.2,16.8
+2021,48225,Houston County,Texas,ML,8.7,20.8
+2021,48227,Howard County,Texas,ML,8,18.5
+2021,48229,Hudspeth County,Texas,LL,7.2,17.2
+2021,48231,Hunt County,Texas,HH,9.2,32
+2021,48233,Hutchinson County,Texas,LL,7.1,17.1
+2021,48235,Irion County,Texas,LL,7.1,17.4
+2021,48395,Robertson County,Texas,ML,8,20.4
+2021,48397,Rockwall County,Texas,ML,8.3,22.5
+2021,48399,Runnels County,Texas,LL,7.1,17.3
+2021,48401,Rusk County,Texas,ML,7.8,22.1
+2021,48403,Sabine County,Texas,ML,8.3,17.5
+2021,48405,San Augustine County,Texas,LL,7.7,18.2
+2021,48407,San Jacinto County,Texas,LL,7.3,22.3
+2021,47097,Lauderdale County,Tennessee,HM,9.4,27.6
+2021,47099,Lawrence County,Tennessee,MH,8,34.7
+2021,47101,Lewis County,Tennessee,LL,7.3,20.8
+2021,47103,Lincoln County,Tennessee,MM,7.9,25.9
+2021,47105,Loudon County,Tennessee,LL,6.8,24.9
+2021,47107,Mcminn County,Tennessee,HM,11.2,30.1
+2021,47109,Mcnairy County,Tennessee,MM,8.5,31.7
+2021,47111,Macon County,Tennessee,MM,8.7,27.6
+2021,47113,Madison County,Tennessee,HH,12.8,39.6
+2021,47115,Marion County,Tennessee,ML,7.9,21.9
+2021,47117,Marshall County,Tennessee,ML,8.4,21.5
+2021,47119,Maury County,Tennessee,HM,9.7,27.1
+2021,47121,Meigs County,Tennessee,MM,8.3,25.1
+2021,47123,Monroe County,Tennessee,HM,9.6,25.9
+2021,47125,Montgomery County,Tennessee,HH,11.1,37.4
+2021,47127,Moore County,Tennessee,LL,7.6,17.4
+2021,47129,Morgan County,Tennessee,ML,7.8,21.9
+2021,47131,Obion County,Tennessee,ML,9,23.9
+2021,47133,Overton County,Tennessee,LM,7.5,30.9
+2021,47135,Perry County,Tennessee,LL,7.5,18.9
+2021,47137,Pickett County,Tennessee,ML,8.1,19.9
+2021,47139,Polk County,Tennessee,MM,8.9,31.2
+2021,47141,Putnam County,Tennessee,HM,9.2,31.2
+2021,47143,Rhea County,Tennessee,MH,8.1,35
+2021,47145,Roane County,Tennessee,MM,8,28.8
+2021,47147,Robertson County,Tennessee,ML,7.8,23.5
+2021,47149,Rutherford County,Tennessee,MH,9,34.6
+2021,47151,Scott County,Tennessee,ML,8.8,23.3
+2021,47153,Sequatchie County,Tennessee,MM,8.2,25.1
+2021,47155,Sevier County,Tennessee,MH,8.6,36.3
+2021,47157,Shelby County,Tennessee,HH,12,34.1
+2021,47159,Smith County,Tennessee,LM,7.2,25.8
+2021,47161,Stewart County,Tennessee,LL,7.3,21.8
+2021,47163,Sullivan County,Tennessee,HH,11,32.1
+2021,47165,Sumner County,Tennessee,MH,8,32.2
+2021,47167,Tipton County,Tennessee,HH,10,39.3
+2021,47169,Trousdale County,Tennessee,LL,7.4,18.3
+2021,47171,Unicoi County,Tennessee,LL,7.6,20.9
+2021,47173,Union County,Tennessee,MM,8.7,27.9
+2021,47175,Van Buren County,Tennessee,LL,7.3,17
+2021,47177,Warren County,Tennessee,MM,8.7,25.5
+2021,47179,Washington County,Tennessee,HM,9.8,25.5
+2021,47181,Wayne County,Tennessee,ML,7.9,21.9
+2021,47183,Weakley County,Tennessee,ML,8.3,24.2
+2021,47185,White County,Tennessee,LM,7.4,25.2
+2021,47187,Williamson County,Tennessee,LL,6.7,24.8
+2021,47189,Wilson County,Tennessee,HL,9.1,23.9
+2021,48001,Anderson County,Texas,ML,8.4,25
+2021,48003,Andrews County,Texas,LL,7.1,18.2
+2021,48005,Angelina County,Texas,HH,12.9,40.4
+2021,48007,Aransas County,Texas,ML,7.8,24.1
+2021,48009,Archer County,Texas,LL,7.2,19
+2021,48011,Armstrong County,Texas,LL,7.1,17.2
+2021,48013,Atascosa County,Texas,LL,7.1,17.7
+2021,48015,Austin County,Texas,MM,7.9,25.6
+2021,48017,Bailey County,Texas,LL,7.2,17.5
+2021,48019,Bandera County,Texas,LL,7.3,21.1
+2021,48021,Bastrop County,Texas,HM,9.4,31.1
+2021,48023,Baylor County,Texas,LL,7.4,18.4
+2021,48025,Bee County,Texas,LL,7.4,21.5
+2021,48027,Bell County,Texas,HH,11.1,37.8
+2021,48029,Bexar County,Texas,HH,10.2,36.4
+2021,48031,Blanco County,Texas,LL,7.1,18.9
+2021,48033,Borden County,Texas,LL,7.3,17
+2021,48035,Bosque County,Texas,LL,7.3,17.1
+2021,48037,Bowie County,Texas,ML,8.4,20.2
+2021,48039,Brazoria County,Texas,HH,10.6,37.6
+2021,48041,Brazos County,Texas,MM,9,29.3
+2021,48043,Brewster County,Texas,LL,7,16.8
+2021,48045,Briscoe County,Texas,LL,7.2,17.3
+2021,48047,Brooks County,Texas,LL,6.8,17.4
+2021,48049,Brown County,Texas,LL,7.3,19.3
+2021,48051,Burleson County,Texas,LL,7.2,19.6
+2021,48053,Burnet County,Texas,LL,7.1,19.8
+2021,48055,Caldwell County,Texas,MM,8.3,30.2
+2021,48057,Calhoun County,Texas,ML,8,21.4
+2021,48059,Callahan County,Texas,LL,7.3,24
+2021,48061,Cameron County,Texas,HH,12.2,41.7
+2021,48063,Camp County,Texas,LL,7.4,18.8
+2021,48065,Carson County,Texas,LL,7.2,17.4
+2021,48067,Cass County,Texas,ML,7.8,17.1
+2021,48069,Castro County,Texas,LL,7.2,17.7
+2021,48071,Chambers County,Texas,ML,8,24.2
+2021,48073,Cherokee County,Texas,MM,8.4,27.6
+2021,48075,Childress County,Texas,LL,7.2,17.1
+2021,48077,Clay County,Texas,LL,7.7,22.1
+2021,48079,Cochran County,Texas,LL,7.1,17.6
+2021,48081,Coke County,Texas,LL,7.2,16.7
+2021,48083,Coleman County,Texas,LL,7.5,16.9
+2021,48085,Collin County,Texas,LL,7.5,24.3
+2021,48087,Collingsworth County,Texas,LL,7.3,17.9
+2021,48089,Colorado County,Texas,LL,7.5,17.8
+2021,48091,Comal County,Texas,LM,7.6,26.1
+2021,48093,Comanche County,Texas,LL,7,17.3
+2021,48095,Concho County,Texas,LL,7.3,17
+2021,48097,Cooke County,Texas,LL,7.2,18.2
+2021,48099,Coryell County,Texas,HH,10.3,35.2
+2021,48101,Cottle County,Texas,LL,7.3,17.5
+2021,48103,Crane County,Texas,LL,7.5,17.5
+2021,48105,Crockett County,Texas,LL,7.1,17.8
+2021,42129,Westmoreland County,Pennsylvania,MM,7.8,30.6
+2021,42131,Wyoming County,Pennsylvania,MM,8.6,25.6
+2021,42133,York County,Pennsylvania,MH,8.6,35.2
+2021,44001,Bristol County,Rhode Island,LL,6.7,22
+2021,44003,Kent County,Rhode Island,MM,7.9,29.7
+2021,44005,Newport County,Rhode Island,LL,6.2,24.5
+2021,44007,Providence County,Rhode Island,HH,9.7,31.8
+2021,44009,Washington County,Rhode Island,LL,6.9,24
+2021,45001,Abbeville County,South Carolina,HH,9.4,35.8
+2021,45003,Aiken County,South Carolina,HH,11.5,35.5
+2021,45005,Allendale County,South Carolina,HM,11.1,25.7
+2021,45007,Anderson County,South Carolina,HH,11.1,34.9
+2021,45009,Bamberg County,South Carolina,HH,9.9,33.1
+2021,45011,Barnwell County,South Carolina,HH,13.1,39.3
+2021,45013,Beaufort County,South Carolina,LM,5.5,26.9
+2021,45015,Berkeley County,South Carolina,HH,11.8,39.5
+2021,45017,Calhoun County,South Carolina,HM,9.5,29.2
+2021,45019,Charleston County,South Carolina,HM,9.2,29.7
+2021,45021,Cherokee County,South Carolina,HM,11.8,30.3
+2021,45023,Chester County,South Carolina,HH,10.2,34.3
+2021,45025,Chesterfield County,South Carolina,HH,10.5,37.1
+2021,45027,Clarendon County,South Carolina,HM,9.9,31.6
+2021,45029,Colleton County,South Carolina,HM,12.2,31.7
+2021,45031,Darlington County,South Carolina,HH,12,35.5
+2021,45033,Dillon County,South Carolina,HM,11.9,27.1
+2021,45035,Dorchester County,South Carolina,HH,11.5,38.7
+2021,45037,Edgefield County,South Carolina,HM,10.5,30
+2021,45039,Fairfield County,South Carolina,HM,9.8,28.8
+2021,45041,Florence County,South Carolina,HH,13.2,38
+2021,45043,Georgetown County,South Carolina,HH,9.4,35.3
+2021,45045,Greenville County,South Carolina,HM,9.1,31.4
+2021,45047,Greenwood County,South Carolina,HH,12.4,37.5
+2021,46117,Stanley County,South Dakota,ML,7.9,22.9
+2021,46119,Sully County,South Dakota,LL,7,18.9
+2021,46121,Todd County,South Dakota,HH,17.9,43.4
+2021,46123,Tripp County,South Dakota,LL,7.1,19.8
+2021,46125,Turner County,South Dakota,MM,8.8,26.8
+2021,46127,Union County,South Dakota,MH,8.2,39.4
+2021,46129,Walworth County,South Dakota,ML,7.9,19.3
+2021,46135,Yankton County,South Dakota,MM,8.3,30.8
+2021,46137,Ziebach County,South Dakota,HH,14.9,44.4
+2021,47001,Anderson County,Tennessee,HH,9.6,32.6
+2021,47003,Bedford County,Tennessee,ML,8.2,23.9
+2021,47005,Benton County,Tennessee,LL,7.2,21.7
+2021,47007,Bledsoe County,Tennessee,ML,8,21.3
+2021,47009,Blount County,Tennessee,HM,10,29.9
+2021,47011,Bradley County,Tennessee,HH,11,39.4
+2021,47013,Campbell County,Tennessee,HH,9.1,34.7
+2021,47015,Cannon County,Tennessee,LL,6.9,20.7
+2021,47017,Carroll County,Tennessee,MM,8.3,28.6
+2021,47019,Carter County,Tennessee,HM,11.5,31.2
+2021,47021,Cheatham County,Tennessee,ML,8.5,21.2
+2021,47023,Chester County,Tennessee,HM,9.7,27.8
+2021,47025,Claiborne County,Tennessee,MM,8.7,26.7
+2021,47027,Clay County,Tennessee,ML,7.9,17.9
+2021,47029,Cocke County,Tennessee,HM,9.5,30
+2021,47031,Coffee County,Tennessee,HH,10.4,34.7
+2021,47033,Crockett County,Tennessee,ML,9,21.2
+2021,47035,Cumberland County,Tennessee,HH,10,33.6
+2021,47037,Davidson County,Tennessee,HM,9.5,29.5
+2021,38079,Rolette County,North Dakota,HH,15,44.9
+2021,38081,Sargent County,North Dakota,MM,8.1,29.9
+2021,38083,Sheridan County,North Dakota,ML,7.8,23.6
+2021,38085,Sioux County,North Dakota,HL,10.8,22.9
+2021,38087,Slope County,North Dakota,LL,7.2,17.6
+2021,38089,Stark County,North Dakota,LH,7.7,33.3
+2021,38091,Steele County,North Dakota,ML,8.3,24.6
+2021,38093,Stutsman County,North Dakota,LH,7,35.9
+2021,38095,Towner County,North Dakota,ML,8.1,23.9
+2021,38097,Traill County,North Dakota,LM,7.4,30
+2021,38099,Walsh County,North Dakota,MM,8.8,28.1
+2021,41023,Grant County,Oregon,LL,7.1,17
+2021,41025,Harney County,Oregon,LL,7.6,18.3
+2021,41027,Hood River County,Oregon,LL,7.1,20.1
+2021,41029,Jackson County,Oregon,LM,7.5,26.9
+2021,41031,Jefferson County,Oregon,ML,8.2,24.5
+2021,41033,Josephine County,Oregon,LM,7.1,27.3
+2021,41035,Klamath County,Oregon,LM,7.5,29.1
+2021,41037,Lake County,Oregon,LL,7.2,19.6
+2021,41039,Lane County,Oregon,MH,8.4,32.8
+2021,41041,Lincoln County,Oregon,LH,7.7,32.6
+2021,41043,Linn County,Oregon,HH,9.1,36.2
+2021,41045,Malheur County,Oregon,LM,7.4,30.5
+2021,41047,Marion County,Oregon,HH,10.7,37.1
+2021,41049,Morrow County,Oregon,ML,8.3,24.4
+2021,41051,Multnomah County,Oregon,LM,7.6,25.8
+2021,41053,Polk County,Oregon,MH,8.1,34.5
+2021,41055,Sherman County,Oregon,LL,7.3,17.1
+2021,41057,Tillamook County,Oregon,LM,7.3,26.8
+2021,41059,Umatilla County,Oregon,HH,9.7,36.4
+2021,41061,Union County,Oregon,HH,9.1,31.8
+2021,41063,Wallowa County,Oregon,ML,8.2,21.4
+2021,41065,Wasco County,Oregon,MM,8.3,30.5
+2021,41067,Washington County,Oregon,MM,7.9,30.9
+2021,41069,Wheeler County,Oregon,LL,7,17
+2021,41071,Yamhill County,Oregon,MH,8.7,32.5
+2021,42001,Adams County,Pennsylvania,MM,9,31.4
+2021,42003,Allegheny County,Pennsylvania,LM,7.6,30.8
+2021,42005,Armstrong County,Pennsylvania,LH,7.5,32.2
+2021,42007,Beaver County,Pennsylvania,MM,8.1,29.9
+2021,42009,Bedford County,Pennsylvania,LL,7.7,24.9
+2021,42011,Berks County,Pennsylvania,HH,9.2,33
+2021,42013,Blair County,Pennsylvania,MM,8.5,26.2
+2021,42015,Bradford County,Pennsylvania,MH,8.4,37.1
+2021,42017,Bucks County,Pennsylvania,LM,7,27.5
+2021,42019,Butler County,Pennsylvania,LM,7,29.7
+2021,42021,Cambria County,Pennsylvania,HM,9.2,30.6
+2021,42023,Cameron County,Pennsylvania,ML,8.1,19.9
+2021,42025,Carbon County,Pennsylvania,ML,7.8,21.7
+2021,42027,Centre County,Pennsylvania,LM,6.9,26.5
+2021,42029,Chester County,Pennsylvania,LM,6.5,27.6
+2021,42031,Clarion County,Pennsylvania,ML,8.8,24.9
+2021,42033,Clearfield County,Pennsylvania,LM,7.3,29.8
+2021,42035,Clinton County,Pennsylvania,LM,7.7,29.6
+2021,42037,Columbia County,Pennsylvania,LH,7.2,35.1
+2021,42039,Crawford County,Pennsylvania,LM,7,31.5
+2021,42041,Cumberland County,Pennsylvania,MM,8.1,27.8
+2021,42043,Dauphin County,Pennsylvania,MH,8.5,33.5
+2021,42045,Delaware County,Pennsylvania,HM,9.4,29.3
+2021,42047,Elk County,Pennsylvania,LL,7.5,22.3
+2021,42049,Erie County,Pennsylvania,HH,9.3,34.7
+2021,42051,Fayette County,Pennsylvania,MM,8,29.2
+2021,42053,Forest County,Pennsylvania,LL,7.3,17.3
+2021,42055,Franklin County,Pennsylvania,LH,7.6,36.3
+2021,42057,Fulton County,Pennsylvania,LL,7.1,24.4
+2021,42059,Greene County,Pennsylvania,MM,8.9,26.8
+2021,42061,Huntingdon County,Pennsylvania,MM,8.5,25.2
+2021,42063,Indiana County,Pennsylvania,MM,7.9,30.2
+2021,42065,Jefferson County,Pennsylvania,HH,9.8,32.4
+2021,42067,Juniata County,Pennsylvania,LL,7.1,19
+2021,42069,Lackawanna County,Pennsylvania,HM,9.1,26.6
+2021,42071,Lancaster County,Pennsylvania,LM,6.5,31.4
+2021,42073,Lawrence County,Pennsylvania,MM,7.8,30.8
+2021,42075,Lebanon County,Pennsylvania,HM,9.1,29.7
+2021,42077,Lehigh County,Pennsylvania,HM,9.7,31.7
+2021,42079,Luzerne County,Pennsylvania,HH,11.3,34.5
+2021,42081,Lycoming County,Pennsylvania,LM,7.5,31.6
+2021,42083,Mckean County,Pennsylvania,LM,6.9,29.6
+2021,42085,Mercer County,Pennsylvania,LH,7.6,35
+2021,42087,Mifflin County,Pennsylvania,LL,7.2,20.5
+2021,42089,Monroe County,Pennsylvania,MM,8.7,26
+2021,42091,Montgomery County,Pennsylvania,LM,6.9,27.7
+2021,42093,Montour County,Pennsylvania,LL,7.2,17.8
+2021,42095,Northampton County,Pennsylvania,HM,9.3,27.2
+2021,42097,Northumberland County,Pennsylvania,LH,7.6,35.4
+2021,42099,Perry County,Pennsylvania,ML,8.7,23.6
+2021,42101,Philadelphia County,Pennsylvania,HM,10.8,29
+2021,42103,Pike County,Pennsylvania,LL,7.7,23.6
+2021,42105,Potter County,Pennsylvania,MM,8.2,28.5
+2021,42107,Schuylkill County,Pennsylvania,MH,7.9,34
+2021,42109,Snyder County,Pennsylvania,LH,7.4,31.8
+2021,42111,Somerset County,Pennsylvania,HH,9.7,31.9
+2021,42113,Sullivan County,Pennsylvania,LL,7.3,18.2
+2021,42115,Susquehanna County,Pennsylvania,LM,7.5,27.3
+2021,42117,Tioga County,Pennsylvania,MM,8.1,31
+2021,42119,Union County,Pennsylvania,MM,8.3,25.6
+2021,42121,Venango County,Pennsylvania,LM,7.3,26.4
+2021,42123,Warren County,Pennsylvania,LM,7.4,30.7
+2021,42125,Washington County,Pennsylvania,MH,8.4,32
+2021,42127,Wayne County,Pennsylvania,ML,8,19.4
+2021,38101,Ward County,North Dakota,HH,9.1,36.1
+2021,38103,Wells County,North Dakota,LM,6.9,27.2
+2021,38105,Williams County,North Dakota,LH,7.7,35.5
+2021,39001,Adams County,Ohio,HH,10.7,35.6
+2021,39003,Allen County,Ohio,HH,11.7,39.4
+2021,39005,Ashland County,Ohio,LM,7.7,28.5
+2021,39007,Ashtabula County,Ohio,MH,9,40.8
+2021,39009,Athens County,Ohio,HH,9.2,35.1
+2021,39011,Auglaize County,Ohio,HH,11,33.3
+2021,39013,Belmont County,Ohio,HH,10.9,35
+2021,39015,Brown County,Ohio,HH,9.1,36.1
+2021,31135,Perkins County,Nebraska,LH,6.3,35.1
+2021,31137,Phelps County,Nebraska,MH,8.1,36.7
+2021,31139,Pierce County,Nebraska,LM,7.7,29
+2021,31141,Platte County,Nebraska,MH,9,33.8
+2021,31143,Polk County,Nebraska,LM,7,30.7
+2021,31145,Red Willow County,Nebraska,LH,7.5,33.4
+2021,31147,Richardson County,Nebraska,HH,9.2,40.1
+2021,31149,Rock County,Nebraska,MM,8.4,30.7
+2021,31151,Saline County,Nebraska,MH,7.8,39.6
+2021,31153,Sarpy County,Nebraska,MH,8.5,35.4
+2021,31155,Saunders County,Nebraska,MH,7.8,32.7
+2021,31157,Scotts Bluff County,Nebraska,HH,10.6,38
+2021,31159,Seward County,Nebraska,LH,7.1,32.6
+2021,31161,Sheridan County,Nebraska,LH,7.7,36.8
+2021,31163,Sherman County,Nebraska,MH,8,32.8
+2021,31165,Sioux County,Nebraska,LL,6.8,18.2
+2021,31167,Stanton County,Nebraska,MH,8.1,35.2
+2021,31169,Thayer County,Nebraska,LH,7.3,32.6
+2021,31171,Thomas County,Nebraska,LL,7.1,24.4
+2021,31173,Thurston County,Nebraska,HH,13.6,46.3
+2021,31175,Valley County,Nebraska,LM,6.5,25.5
+2021,31177,Washington County,Nebraska,MM,8.7,31.2
+2021,31179,Wayne County,Nebraska,MH,7.9,34.2
+2021,31181,Webster County,Nebraska,MH,7.8,37.2
+2021,31183,Wheeler County,Nebraska,LL,7.4,20.4
+2021,31185,York County,Nebraska,HH,9.1,40.4
+2021,32001,Churchill County,Nevada,HM,10.7,26.8
+2021,32003,Clark County,Nevada,HM,9.8,30.9
+2021,32005,Douglas County,Nevada,LM,6.7,25.4
+2021,32007,Elko County,Nevada,MH,8.2,32.6
+2021,27037,Dakota County,Minnesota,LH,7.5,32.2
+2021,27039,Dodge County,Minnesota,MH,8.1,33.4
+2021,27041,Douglas County,Minnesota,LH,6.4,33.7
+2021,27043,Faribault County,Minnesota,MH,8.4,32.5
+2021,27045,Fillmore County,Minnesota,MM,7.8,26.5
+2021,27047,Freeborn County,Minnesota,MM,7.8,29.1
+2021,27049,Goodhue County,Minnesota,LH,6.9,32.5
+2021,27051,Grant County,Minnesota,LM,6.8,29.7
+2021,27053,Hennepin County,Minnesota,LM,7.2,26.6
+2021,27055,Houston County,Minnesota,LM,6.8,28.8
+2021,27057,Hubbard County,Minnesota,LM,7.3,30.7
+2021,27059,Isanti County,Minnesota,LM,7.6,30.2
+2021,27061,Itasca County,Minnesota,HH,9.5,34.4
+2021,29083,Henry County,Missouri,HM,9.7,31.7
+2021,29085,Hickory County,Missouri,LL,7.5,17.3
+2021,29087,Holt County,Missouri,HH,9.4,33.1
+2021,29089,Howard County,Missouri,ML,8,23.2
+2021,29091,Howell County,Missouri,HH,10.3,36.9
+2021,29093,Iron County,Missouri,MM,7.9,25.8
+2021,29095,Jackson County,Missouri,HH,10.2,35.2
+2021,29097,Jasper County,Missouri,HH,10.5,36.5
+2021,29099,Jefferson County,Missouri,HH,10.6,37.5
+2021,29101,Johnson County,Missouri,MH,8.2,32
+2021,29103,Knox County,Missouri,MM,7.8,31.1
+2021,29105,Laclede County,Missouri,MH,8.2,33.8
+2021,29107,Lafayette County,Missouri,HH,11,36.9
+2021,29109,Lawrence County,Missouri,LM,7.5,26.4
+2021,29111,Lewis County,Missouri,MH,8.2,40.2
+2021,29113,Lincoln County,Missouri,HH,9.3,41.2
+2021,29115,Linn County,Missouri,MM,8,29.6
+2021,29117,Livingston County,Missouri,HM,9.2,31.6
+2021,29119,Mcdonald County,Missouri,MH,8.6,34.8
+2021,29121,Macon County,Missouri,MH,7.9,36.1
+2021,29123,Madison County,Missouri,HL,9.3,22.4
+2021,29125,Maries County,Missouri,MM,7.8,27.8
+2021,29127,Marion County,Missouri,MH,8.7,37.5
+2021,29129,Mercer County,Missouri,ML,8.3,18.9
+2021,29131,Miller County,Missouri,MH,9,32.3
+2021,29133,Mississippi County,Missouri,MM,9,31.6
+2021,29135,Moniteau County,Missouri,MM,8.3,28.5
+2021,29137,Monroe County,Missouri,MH,8.3,32.3
+2021,29139,Montgomery County,Missouri,MH,7.8,39.2
+2021,29141,Morgan County,Missouri,MH,8.5,33.9
+2021,29143,New Madrid County,Missouri,HH,11.5,39.3
+2021,29145,Newton County,Missouri,HH,9.5,34.3
+2021,29147,Nodaway County,Missouri,HH,9.4,34.9
+2021,29149,Oregon County,Missouri,MM,8,25.9
+2021,29151,Osage County,Missouri,ML,8.1,22.1
+2021,29153,Ozark County,Missouri,LM,7.7,25.3
+2021,29155,Pemiscot County,Missouri,HH,10.9,32.7
+2021,29157,Perry County,Missouri,MM,8.5,29.6
+2021,29159,Pettis County,Missouri,HH,10.6,39
+2021,29161,Phelps County,Missouri,HH,9.3,33.4
+2021,29163,Pike County,Missouri,MH,8,37.4
+2021,29165,Platte County,Missouri,MH,8.6,31.9
+2021,29167,Polk County,Missouri,ML,8.2,24.6
+2021,29169,Pulaski County,Missouri,MH,8.8,37
+2021,29171,Putnam County,Missouri,LM,6.9,27.3
+2021,29173,Ralls County,Missouri,LM,6.8,29.9
+2021,29175,Randolph County,Missouri,HH,10.1,38.3
+2021,29177,Ray County,Missouri,MM,8.8,26.6
+2021,29179,Reynolds County,Missouri,MM,8,27.1
+2021,29181,Ripley County,Missouri,HH,11.4,37.4
+2021,29183,St. Charles County,Missouri,LH,7.6,33.6
+2021,29185,St. Clair County,Missouri,LL,6.5,24.9
+2021,29186,Ste. Genevieve County,Missouri,MM,8,31.5
+2021,29187,St. Francois County,Missouri,MH,8.6,38.3
+2021,29189,St. Louis County,Missouri,MM,8.5,30.8
+2021,29195,Saline County,Missouri,MH,9,32
+2021,29197,Schuyler County,Missouri,LH,6.9,34.9
+2021,29199,Scotland County,Missouri,MM,8.2,29.4
+2021,29201,Scott County,Missouri,HH,11.5,36.2
+2021,29203,Shannon County,Missouri,MM,8.9,31
+2021,29205,Shelby County,Missouri,LM,6.9,25.6
+2021,29207,Stoddard County,Missouri,HH,12.6,37.2
+2021,29209,Stone County,Missouri,LM,7.4,30.9
+2021,29211,Sullivan County,Missouri,HH,9.2,35
+2021,29213,Taney County,Missouri,HM,9.3,26
+2021,29215,Texas County,Missouri,HH,9.7,35.9
+2021,29217,Vernon County,Missouri,HM,9.7,26.1
+2021,29219,Warren County,Missouri,LH,6.9,37.1
+2021,29221,Washington County,Missouri,HH,9.5,32.4
+2021,29223,Wayne County,Missouri,HH,10.4,34.3
+2021,29225,Webster County,Missouri,LM,7,25.9
+2021,29227,Worth County,Missouri,LL,6.8,25
+2021,29229,Wright County,Missouri,MH,8.1,33.3
+2021,29510,St. Louis City,Missouri,HH,11.3,35.6
+2021,30001,Beaverhead County,Montana,LM,7,26.9
+2021,30003,Big Horn County,Montana,HH,12.2,34.8
+2021,30005,Blaine County,Montana,HH,11.6,36.5
+2021,30007,Broadwater County,Montana,LM,6.1,27.8
+2021,30009,Carbon County,Montana,LM,6.6,25.3
+2021,30011,Carter County,Montana,LL,6.4,22.9
+2021,30013,Cascade County,Montana,MH,8.6,35.8
+2021,30015,Chouteau County,Montana,LM,7,26.7
+2021,30017,Custer County,Montana,MH,8.2,32
+2021,30019,Daniels County,Montana,LL,7.7,22.8
+2021,30021,Dawson County,Montana,HH,9.5,35.5
+2021,30023,Deer Lodge County,Montana,MM,8.9,27.4
+2021,30025,Fallon County,Montana,LL,7.5,23.6
+2021,27063,Jackson County,Minnesota,LM,6.9,25.6
+2021,27065,Kanabec County,Minnesota,LH,7.3,33.5
+2021,27067,Kandiyohi County,Minnesota,LM,6.4,31.2
+2021,27069,Kittson County,Minnesota,ML,8.3,23.8
+2021,27071,Koochiching County,Minnesota,ML,8.3,25
+2021,27073,Lac Qui Parle County,Minnesota,MM,7.9,27.3
+2021,27075,Lake County,Minnesota,LM,7.4,29.5
+2021,27077,Lake Of The Woods County,Minnesota,LL,7.5,21.6
+2021,27079,Le Sueur County,Minnesota,LH,7.6,32
+2021,27081,Lincoln County,Minnesota,LL,7.3,21.7
+2021,27083,Lyon County,Minnesota,LH,7.1,31.9
+2021,27085,Mcleod County,Minnesota,LH,7.5,34.4
+2021,27087,Mahnomen County,Minnesota,HM,9.4,27
+2021,27089,Marshall County,Minnesota,LM,7.2,29.6
+2021,27091,Martin County,Minnesota,MM,8.4,31
+2021,27093,Meeker County,Minnesota,LM,7.4,25.7
+2021,27095,Mille Lacs County,Minnesota,MH,8.1,35.2
+2021,27097,Morrison County,Minnesota,MM,7.9,30.9
+2021,27099,Mower County,Minnesota,LM,6.9,30.6
+2021,27101,Murray County,Minnesota,LM,7.1,31.2
+2021,27103,Nicollet County,Minnesota,LM,7,29.4
+2021,27105,Nobles County,Minnesota,MH,8.7,32.3
+2021,27107,Norman County,Minnesota,MH,7.9,33.4
+2021,27109,Olmsted County,Minnesota,LM,7.3,28.2
+2021,27111,Otter Tail County,Minnesota,LM,6.8,31.3
+2021,27113,Pennington County,Minnesota,LM,6.6,28.5
+2021,27115,Pine County,Minnesota,MH,8.8,36.2
+2021,27117,Pipestone County,Minnesota,LL,7,24.8
+2021,27119,Polk County,Minnesota,HH,10.5,36.7
+2021,27121,Pope County,Minnesota,LL,6.7,23.2
+2021,27123,Ramsey County,Minnesota,MM,8.8,31.6
+2021,27125,Red Lake County,Minnesota,ML,8.5,24
+2021,27127,Redwood County,Minnesota,LH,7.7,35.4
+2021,27129,Renville County,Minnesota,LM,7.3,29.5
+2021,27131,Rice County,Minnesota,MH,8.2,33
+2021,27133,Rock County,Minnesota,MM,8,26.6
+2021,27135,Roseau County,Minnesota,MM,8.4,26.3
+2021,27137,St. Louis County,Minnesota,MM,8.2,31.1
+2021,27139,Scott County,Minnesota,LH,6.8,32.7
+2021,27141,Sherburne County,Minnesota,LH,7,35.5
+2021,27143,Sibley County,Minnesota,MM,8.4,30
+2021,27145,Stearns County,Minnesota,MH,7.8,34.8
+2021,27147,Steele County,Minnesota,MH,7.8,36.3
+2021,27149,Stevens County,Minnesota,LL,7.5,24.3
+2021,27151,Swift County,Minnesota,HM,9.1,29.5
+2021,27153,Todd County,Minnesota,MH,8,36.5
+2021,27155,Traverse County,Minnesota,LM,7.7,27.7
+2021,27157,Wabasha County,Minnesota,LH,7.1,33.3
+2021,27159,Wadena County,Minnesota,MH,8,32.9
+2021,27161,Waseca County,Minnesota,LM,7.1,26.5
+2021,27163,Washington County,Minnesota,MM,7.8,30.2
+2021,27165,Watonwan County,Minnesota,LM,6.8,25.4
+2021,27167,Wilkin County,Minnesota,LM,7.4,25.1
+2021,27169,Winona County,Minnesota,HH,9.3,35
+2021,27171,Wright County,Minnesota,LH,7,32.9
+2021,27173,Yellow Medicine County,Minnesota,LM,7.7,28.8
+2021,28001,Adams County,Mississippi,HH,11.6,39.4
+2021,28003,Alcorn County,Mississippi,MH,8.7,32.3
+2021,28005,Amite County,Mississippi,HM,10.4,28.4
+2021,28007,Attala County,Mississippi,HH,11.1,31.8
+2021,28009,Benton County,Mississippi,ML,8.7,24.2
+2021,28011,Bolivar County,Mississippi,HH,14.3,37.2
+2021,28013,Calhoun County,Mississippi,HM,10.3,28.3
+2021,28015,Carroll County,Mississippi,ML,9,24.6
+2021,28017,Chickasaw County,Mississippi,HH,10.6,32
+2021,28019,Choctaw County,Mississippi,HL,10.7,23.9
+2021,28021,Claiborne County,Mississippi,HL,9.9,23.6
+2021,28023,Clarke County,Mississippi,HH,9.6,34.3
+2021,28025,Clay County,Mississippi,HH,13.4,43.3
+2021,28027,Coahoma County,Mississippi,HH,11.6,36.8
+2021,28029,Copiah County,Mississippi,HM,9.8,28.8
+2021,28031,Covington County,Mississippi,MH,9,31.8
+2021,28033,Desoto County,Mississippi,HH,13.1,39.5
+2021,28035,Forrest County,Mississippi,HH,10.8,36.2
+2021,28037,Franklin County,Mississippi,HM,9.2,26.6
+2021,28039,George County,Mississippi,MM,8,27.4
+2021,28041,Greene County,Mississippi,HM,10.1,30.2
+2021,28043,Grenada County,Mississippi,HH,9.1,35
+2021,28045,Hancock County,Mississippi,HM,9.3,29.2
+2021,28047,Harrison County,Mississippi,HH,11.6,32.8
+2021,28049,Hinds County,Mississippi,HH,13.1,40.8
+2021,28051,Holmes County,Mississippi,HH,15.5,41.5
+2021,28053,Humphreys County,Mississippi,HM,9.9,26.8
+2021,28055,Issaquena County,Mississippi,ML,8.7,16.9
+2021,28057,Itawamba County,Mississippi,HM,11.5,27.8
+2021,28059,Jackson County,Mississippi,HH,11.3,33.2
+2021,28061,Jasper County,Mississippi,HH,11.7,35.1
+2021,28063,Jefferson County,Mississippi,HM,9.7,29.8
+2021,28065,Jefferson Davis County,Mississippi,HH,10.6,33.8
+2021,28067,Jones County,Mississippi,HH,12.9,39.2
+2021,28069,Kemper County,Mississippi,HL,10.5,24.3
+2021,28071,Lafayette County,Mississippi,HM,9.1,29.1
+2021,28073,Lamar County,Mississippi,HH,9.6,35.6
+2021,28075,Lauderdale County,Mississippi,HH,11,37.9
+2021,28077,Lawrence County,Mississippi,HH,10.2,31.9
+2021,28079,Leake County,Mississippi,HH,9.4,32.3
+2021,28081,Lee County,Mississippi,HH,11.7,34.6
+2021,28083,Leflore County,Mississippi,HH,12.6,46.3
+2021,28085,Lincoln County,Mississippi,HH,12.2,38
+2021,28087,Lowndes County,Mississippi,HH,10.1,38.1
+2021,24003,Anne Arundel County,Maryland,MH,9,33.1
+2021,24005,Baltimore County,Maryland,HH,9.7,34.2
+2021,24009,Calvert County,Maryland,HH,10.8,32.4
+2021,24011,Caroline County,Maryland,HH,12.2,40.4
+2021,24013,Carroll County,Maryland,MM,8.2,29
+2021,24015,Cecil County,Maryland,HH,9.6,34.4
+2021,24017,Charles County,Maryland,HH,11.7,40.7
+2021,24019,Dorchester County,Maryland,HH,10.9,38.1
+2021,24021,Frederick County,Maryland,MH,8.3,31.9
+2021,24023,Garrett County,Maryland,HH,10.5,36.2
+2021,24025,Harford County,Maryland,HM,9.8,31.7
+2021,24027,Howard County,Maryland,LM,7.1,26.4
+2021,24029,Kent County,Maryland,MM,8.7,29
+2021,24031,Montgomery County,Maryland,LL,6.4,22.8
+2021,24033,Prince George&#39;s County,Maryland,HH,11.3,37.7
+2021,24035,Queen Anne&#39;s County,Maryland,LM,7.7,30.4
+2021,24037,St. Mary&#39;s County,Maryland,HH,10.8,35.1
+2021,24039,Somerset County,Maryland,HH,11.9,39
+2021,24041,Talbot County,Maryland,LM,7,30.3
+2021,24043,Washington County,Maryland,HH,11.5,37.9
+2021,24045,Wicomico County,Maryland,HH,10.7,36.5
+2021,24047,Worcester County,Maryland,HH,10.2,35.5
+2021,24510,Baltimore City,Maryland,HH,11.4,35.4
+2021,25001,Barnstable County,Massachusetts,LM,6.8,26.4
+2021,25003,Berkshire County,Massachusetts,LM,7.4,27.7
+2021,25005,Bristol County,Massachusetts,MM,8.2,28.2
+2021,25007,Dukes County,Massachusetts,LL,6.5,17.5
+2021,25009,Essex County,Massachusetts,LM,7.5,28.1
+2021,25011,Franklin County,Massachusetts,LM,6.8,25.6
+2021,25013,Hampden County,Massachusetts,HH,9.9,34.4
+2021,25015,Hampshire County,Massachusetts,LL,6.3,22.9
+2021,25017,Middlesex County,Massachusetts,LL,6.6,22.4
+2021,25019,Nantucket County,Massachusetts,LL,7.1,19
+2021,25021,Norfolk County,Massachusetts,LL,7,24.6
+2021,25023,Plymouth County,Massachusetts,LM,5.9,26.5
+2021,25025,Suffolk County,Massachusetts,ML,8.2,22.6
+2021,25027,Worcester County,Massachusetts,MM,8.2,30.9
+2021,26001,Alcona County,Michigan,LL,7.7,18.9
+2021,26003,Alger County,Michigan,LL,7.3,19.2
+2021,26005,Allegan County,Michigan,MH,8.5,32.7
+2021,26007,Alpena County,Michigan,MH,8,32.7
+2021,26009,Antrim County,Michigan,LM,7.4,30.3
+2021,26011,Arenac County,Michigan,LL,7,24.4
+2021,26013,Baraga County,Michigan,LL,7.6,19.5
+2021,26015,Barry County,Michigan,MM,7.9,31.2
+2021,26017,Bay County,Michigan,HH,10.2,36
+2021,26019,Benzie County,Michigan,ML,7.8,21.3
+2021,26021,Berrien County,Michigan,HH,9.9,32.3
+2021,26023,Branch County,Michigan,HH,9.2,33.1
+2021,26025,Calhoun County,Michigan,HH,9.9,39.2
+2021,26027,Cass County,Michigan,MM,8.9,28.7
+2021,26029,Charlevoix County,Michigan,LM,7.1,25.2
+2021,26031,Cheboygan County,Michigan,LL,7.2,24.6
+2021,26033,Chippewa County,Michigan,HH,9.3,32.8
+2021,26035,Clare County,Michigan,MM,8.7,28.5
+2021,26037,Clinton County,Michigan,MH,8.3,34.9
+2021,26039,Crawford County,Michigan,LL,7.2,19.2
+2021,26041,Delta County,Michigan,HH,9.7,32.2
+2021,26043,Dickinson County,Michigan,LM,7.4,25.9
+2021,26045,Eaton County,Michigan,HM,9.1,31.7
+2021,26047,Emmet County,Michigan,LL,6.8,23.1
+2021,26049,Genesee County,Michigan,HH,10.9,40.6
+2021,26051,Gladwin County,Michigan,ML,8.4,24.7
+2021,26053,Gogebic County,Michigan,LL,7.6,19.8
+2021,26055,Grand Traverse County,Michigan,LL,6.5,23.4
+2021,26057,Gratiot County,Michigan,LM,7.4,30.4
+2021,26059,Hillsdale County,Michigan,LM,7.7,30.9
+2021,26061,Houghton County,Michigan,MM,7.8,26.8
+2021,26063,Huron County,Michigan,MM,8.6,31
+2021,26065,Ingham County,Michigan,MH,8.8,32.2
+2021,26067,Ionia County,Michigan,MH,8.2,31.9
+2021,26069,Iosco County,Michigan,HM,9.3,29.1
+2021,26071,Iron County,Michigan,LL,7.3,18.1
+2021,26073,Isabella County,Michigan,MH,8,33.9
+2021,28089,Madison County,Mississippi,HM,9.3,30.5
+2021,28091,Marion County,Mississippi,HH,10.3,35.8
+2021,28093,Marshall County,Mississippi,HH,11.6,35
+2021,28095,Monroe County,Mississippi,HH,10.9,33.8
+2021,28097,Montgomery County,Mississippi,HH,10.5,32.3
+2021,28099,Neshoba County,Mississippi,HH,13.4,36.9
+2021,28101,Newton County,Mississippi,HH,11.5,33.9
+2021,28103,Noxubee County,Mississippi,HM,11.7,29.9
+2021,28105,Oktibbeha County,Mississippi,HH,9.9,38.5
+2021,28107,Panola County,Mississippi,HH,10.7,36.2
+2021,28109,Pearl River County,Mississippi,MH,9,33.8
+2021,28111,Perry County,Mississippi,MH,8.9,32.2
+2021,28113,Pike County,Mississippi,HH,13.2,39
+2021,28115,Pontotoc County,Mississippi,HH,10.4,32.3
+2021,28117,Prentiss County,Mississippi,HM,9.9,31.7
+2021,28119,Quitman County,Mississippi,HL,10.4,21.8
+2021,28121,Rankin County,Mississippi,HH,10.3,33.9
+2021,28123,Scott County,Mississippi,HH,14.6,39.3
+2021,28125,Sharkey County,Mississippi,ML,8.9,18.2
+2021,28127,Simpson County,Mississippi,MM,8.6,25.2
+2021,28129,Smith County,Mississippi,HH,10,34.2
+2021,28131,Stone County,Mississippi,MM,8.3,26.1
+2021,28133,Sunflower County,Mississippi,HH,13.4,42.9
+2021,28135,Tallahatchie County,Mississippi,HM,9.7,27.7
+2021,28137,Tate County,Mississippi,HH,10.1,38
+2021,28139,Tippah County,Mississippi,HM,9.1,28.7
+2021,21129,Lee County,Kentucky,ML,8,24.4
+2021,21131,Leslie County,Kentucky,HM,9.9,30.4
+2021,21133,Letcher County,Kentucky,HH,11.2,35.7
+2021,21135,Lewis County,Kentucky,MM,8.4,26.4
+2021,21137,Lincoln County,Kentucky,LL,7.7,20.4
+2021,21139,Livingston County,Kentucky,LL,7.1,20.9
+2021,21141,Logan County,Kentucky,LM,7.7,26.6
+2021,21143,Lyon County,Kentucky,ML,8.6,22.9
+2021,21145,Mccracken County,Kentucky,HM,10,28.7
+2021,21147,Mccreary County,Kentucky,HM,9.9,30.2
+2021,21149,Mclean County,Kentucky,ML,8.8,22.7
+2021,21151,Madison County,Kentucky,LH,7.2,34.8
+2021,21153,Magoffin County,Kentucky,MH,9,33.3
+2021,21155,Marion County,Kentucky,LL,7.5,20.7
+2021,21157,Marshall County,Kentucky,MM,8,30.2
+2021,21159,Martin County,Kentucky,ML,7.9,23.2
+2021,21161,Mason County,Kentucky,MM,8,25.3
+2021,21163,Meade County,Kentucky,LM,7.2,30.4
+2021,21165,Menifee County,Kentucky,MM,9,25.4
+2021,21167,Mercer County,Kentucky,MM,7.9,26.2
+2021,21169,Metcalfe County,Kentucky,LL,7.2,20.3
+2021,21171,Monroe County,Kentucky,LL,7,21.7
+2021,21173,Montgomery County,Kentucky,HH,9.2,36.8
+2021,21175,Morgan County,Kentucky,HM,9.1,31.5
+2021,21177,Muhlenberg County,Kentucky,HH,9.7,33.8
+2021,21179,Nelson County,Kentucky,MM,8.8,29.6
+2021,21181,Nicholas County,Kentucky,LL,7.3,18.6
+2021,21183,Ohio County,Kentucky,HM,9.6,29.1
+2021,21185,Oldham County,Kentucky,LM,7.5,27
+2021,21187,Owen County,Kentucky,LL,7.7,21.2
+2021,21189,Owsley County,Kentucky,ML,8.2,22.8
+2021,21191,Pendleton County,Kentucky,MM,9,25.7
+2021,21193,Perry County,Kentucky,HH,11.1,37.5
+2021,21195,Pike County,Kentucky,HH,10.1,40.4
+2021,21197,Powell County,Kentucky,LL,7.5,19.3
+2021,21199,Pulaski County,Kentucky,HH,10.8,37.2
+2021,26075,Jackson County,Michigan,HH,9.9,35.2
+2021,26077,Kalamazoo County,Michigan,MH,7.8,33.4
+2021,26079,Kalkaska County,Michigan,ML,8,23.7
+2021,26081,Kent County,Michigan,MM,8.6,30.4
+2021,26083,Keweenaw County,Michigan,LL,6.9,17.4
+2021,26085,Lake County,Michigan,LL,7.5,21
+2021,26087,Lapeer County,Michigan,MH,9,34.1
+2021,26089,Leelanau County,Michigan,LL,7.1,22
+2021,26091,Lenawee County,Michigan,HH,9.1,34.9
+2021,26093,Livingston County,Michigan,LM,6.4,28.6
+2021,26095,Luce County,Michigan,ML,7.9,18.5
+2021,26097,Mackinac County,Michigan,LL,7.5,21.9
+2021,26099,Macomb County,Michigan,HH,9.2,36
+2021,26101,Manistee County,Michigan,ML,8.5,20.7
+2021,26103,Marquette County,Michigan,LM,6.9,26.1
+2021,26105,Mason County,Michigan,HH,9.5,31.9
+2021,26107,Mecosta County,Michigan,LM,7.5,25.9
+2021,26109,Menominee County,Michigan,LM,7.2,28.8
+2021,26111,Midland County,Michigan,MM,8.4,29.2
+2021,26113,Missaukee County,Michigan,MM,8.2,28.3
+2021,26115,Monroe County,Michigan,HH,9.2,41.1
+2021,26117,Montcalm County,Michigan,MH,7.9,35.7
+2021,26119,Montmorency County,Michigan,LL,7.7,21.1
+2021,26121,Muskegon County,Michigan,HH,10.6,37.9
+2021,26123,Newaygo County,Michigan,LH,7.4,32.6
+2021,26125,Oakland County,Michigan,LM,6.8,28.7
+2021,26127,Oceana County,Michigan,ML,7.8,22.2
+2021,26129,Ogemaw County,Michigan,LL,7.6,24.3
+2021,26131,Ontonagon County,Michigan,LL,7.5,23.4
+2021,26133,Osceola County,Michigan,ML,7.8,24
+2021,26135,Oscoda County,Michigan,LL,7.2,18.7
+2021,26137,Otsego County,Michigan,LL,7.1,24.6
+2021,26139,Ottawa County,Michigan,LM,7.7,29.5
+2021,26141,Presque Isle County,Michigan,LM,7.7,25.3
+2021,26143,Roscommon County,Michigan,LL,7.1,24.5
+2021,26145,Saginaw County,Michigan,HH,11.3,42.8
+2021,26147,St. Clair County,Michigan,MM,8.7,31.7
+2021,26149,St. Joseph County,Michigan,MM,7.8,31
+2021,26151,Sanilac County,Michigan,LM,7.6,25.8
+2021,26153,Schoolcraft County,Michigan,LL,7.1,19.7
+2021,26155,Shiawassee County,Michigan,LH,7.4,32.6
+2021,26157,Tuscola County,Michigan,MM,8.4,31.2
+2021,26159,Van Buren County,Michigan,MH,8.5,35.4
+2021,26161,Washtenaw County,Michigan,LM,7.4,27
+2021,26163,Wayne County,Michigan,HH,10.9,35.4
+2021,26165,Wexford County,Michigan,LM,7.6,25.6
+2021,27001,Aitkin County,Minnesota,MM,8.5,29.9
+2021,27003,Anoka County,Minnesota,MH,8.2,34.2
+2021,27005,Becker County,Minnesota,MH,8.4,35.9
+2021,27007,Beltrami County,Minnesota,HM,10.1,31.7
+2021,27009,Benton County,Minnesota,MH,8.1,37.8
+2021,27011,Big Stone County,Minnesota,LM,7.5,27.2
+2021,27013,Blue Earth County,Minnesota,MM,7.9,30.7
+2021,27015,Brown County,Minnesota,HH,9.4,33.4
+2021,27017,Carlton County,Minnesota,HH,10.1,37.5
+2021,27019,Carver County,Minnesota,LM,6.8,29.4
+2021,27021,Cass County,Minnesota,MM,7.8,29.6
+2021,27023,Chippewa County,Minnesota,HH,9.4,33.7
+2021,27025,Chisago County,Minnesota,LM,7.2,30.9
+2021,27027,Clay County,Minnesota,LM,7.7,31.4
+2021,27029,Clearwater County,Minnesota,MM,8.8,25.4
+2021,27031,Cook County,Minnesota,ML,8.2,18.3
+2021,27033,Cottonwood County,Minnesota,MM,8.5,29.7
+2021,27035,Crow Wing County,Minnesota,LM,7.3,29.9
+2021,21201,Robertson County,Kentucky,LL,7.1,24.2
+2021,21203,Rockcastle County,Kentucky,LL,7.1,23.2
+2021,21205,Rowan County,Kentucky,LH,6.6,33.9
+2021,21207,Russell County,Kentucky,MM,8.1,29.8
+2021,21209,Scott County,Kentucky,LM,7.2,30.2
+2021,21211,Shelby County,Kentucky,LL,7.3,23.9
+2021,21213,Simpson County,Kentucky,LL,7.4,23
+2021,21215,Spencer County,Kentucky,ML,8,20.4
+2021,21217,Taylor County,Kentucky,MM,8.7,31.5
+2021,21219,Todd County,Kentucky,MM,7.8,29.1
+2021,21221,Trigg County,Kentucky,MM,8.9,28.5
+2021,21223,Trimble County,Kentucky,LL,7.5,22.3
+2021,21225,Union County,Kentucky,LM,7.6,25.4
+2021,21227,Warren County,Kentucky,MH,9,33.3
+2021,21229,Washington County,Kentucky,ML,8.8,18
+2021,21231,Wayne County,Kentucky,HM,10.1,28
+2021,21233,Webster County,Kentucky,ML,8.3,21.6
+2021,21235,Whitley County,Kentucky,HH,9.8,32.2
+2021,21237,Wolfe County,Kentucky,HM,9.1,26.2
+2021,21239,Woodford County,Kentucky,LM,7.5,26.2
+2021,22001,Acadia Parish,Louisiana,HH,11.3,34.5
+2021,22003,Allen Parish,Louisiana,HM,9.2,28.4
+2021,22005,Ascension Parish,Louisiana,HH,10.5,32
+2021,22007,Assumption Parish,Louisiana,HM,10,28.5
+2021,22009,Avoyelles Parish,Louisiana,HH,9.7,32.3
+2021,22011,Beauregard Parish,Louisiana,HM,9.2,31.2
+2021,22013,Bienville Parish,Louisiana,ML,8.5,19
+2021,22015,Bossier Parish,Louisiana,HH,10.5,34.6
+2021,22017,Caddo Parish,Louisiana,HH,13.1,39.9
+2021,22019,Calcasieu Parish,Louisiana,HH,10.5,37.5
+2021,22021,Caldwell Parish,Louisiana,LL,7.7,18.9
+2021,22023,Cameron Parish,Louisiana,LL,7.7,16.9
+2021,22025,Catahoula Parish,Louisiana,ML,8.3,22.5
+2021,22027,Claiborne Parish,Louisiana,HL,10.8,21.3
+2021,22029,Concordia Parish,Louisiana,HM,11.2,30.6
+2021,22031,De Soto Parish,Louisiana,HM,9.9,28.2
+2021,22033,East Baton Rouge Parish,Louisiana,HH,10.9,33.6
+2021,22035,East Carroll Parish,Louisiana,ML,8.8,17.1
+2021,22037,East Feliciana Parish,Louisiana,HM,10.1,25.8
+2021,22039,Evangeline Parish,Louisiana,MM,9,26
+2021,22041,Franklin Parish,Louisiana,MM,7.8,25.5
+2021,22043,Grant Parish,Louisiana,ML,8.6,20.3
+2021,22045,Iberia Parish,Louisiana,HH,11.2,36.7
+2021,22047,Iberville Parish,Louisiana,HM,10.9,25.9
+2021,22049,Jackson Parish,Louisiana,LM,7.7,25.1
+2021,22051,Jefferson Parish,Louisiana,HH,10.5,34.6
+2021,22053,Jefferson Davis Parish,Louisiana,LH,7.5,33.9
+2021,22055,Lafayette Parish,Louisiana,HH,10.5,34.1
+2021,22057,Lafourche Parish,Louisiana,HH,11.2,35
+2021,22059,Lasalle Parish,Louisiana,LL,7.6,21.5
+2021,22061,Lincoln Parish,Louisiana,LM,7.6,25.8
+2021,22063,Livingston Parish,Louisiana,HH,10.3,38.2
+2021,22065,Madison Parish,Louisiana,ML,8.8,19.2
+2021,22067,Morehouse Parish,Louisiana,HL,9.4,22.7
+2021,22069,Natchitoches Parish,Louisiana,HM,10.4,29.2
+2021,22071,Orleans Parish,Louisiana,HM,10.3,28.5
+2021,22073,Ouachita Parish,Louisiana,HH,9.3,32.3
+2021,22075,Plaquemines Parish,Louisiana,ML,8,22.7
+2021,22077,Pointe Coupee Parish,Louisiana,HL,9.4,23
+2021,22079,Rapides Parish,Louisiana,HH,13.3,36.1
+2021,22081,Red River Parish,Louisiana,LL,7.7,17.9
+2021,22083,Richland Parish,Louisiana,ML,8.8,22.4
+2021,22085,Sabine Parish,Louisiana,MM,8.4,27.1
+2021,22087,St. Bernard Parish,Louisiana,HH,11.1,32.5
+2021,22089,St. Charles Parish,Louisiana,HH,9.6,31.8
+2021,22091,St. Helena Parish,Louisiana,ML,8.2,19.3
+2021,22093,St. James Parish,Louisiana,HM,11,28.8
+2021,22095,St. John The Baptist Parish,Louisiana,HH,10.6,36.9
+2021,22097,St. Landry Parish,Louisiana,MH,9,33.4
+2021,22099,St. Martin Parish,Louisiana,HH,10.5,35.1
+2021,22101,St. Mary Parish,Louisiana,HM,12,29.6
+2021,22103,St. Tammany Parish,Louisiana,HH,9.2,31.8
+2021,22105,Tangipahoa Parish,Louisiana,HH,10.8,39.4
+2021,22107,Tensas Parish,Louisiana,ML,8.4,17.5
+2021,22109,Terrebonne Parish,Louisiana,HH,13.2,39.6
+2021,22111,Union Parish,Louisiana,ML,7.8,19.6
+2021,22113,Vermilion Parish,Louisiana,HH,9.7,35.6
+2021,22115,Vernon Parish,Louisiana,HH,10.9,36.1
+2021,22117,Washington Parish,Louisiana,HH,13,40.7
+2021,22119,Webster Parish,Louisiana,HM,10,30
+2021,22121,West Baton Rouge Parish,Louisiana,ML,8.7,24.3
+2021,22123,West Carroll Parish,Louisiana,ML,8.1,22.1
+2021,22125,West Feliciana Parish,Louisiana,ML,8.1,17.8
+2021,22127,Winn Parish,Louisiana,ML,7.9,17.4
+2021,23001,Androscoggin County,Maine,MH,8.8,34.6
+2021,23003,Aroostook County,Maine,HH,11.1,38.7
+2021,23005,Cumberland County,Maine,LM,6.7,25.2
+2021,23007,Franklin County,Maine,LM,7.3,30.1
+2021,23009,Hancock County,Maine,LM,6.4,27.4
+2021,23011,Kennebec County,Maine,MH,9,33.9
+2021,23013,Knox County,Maine,LM,6.4,27.1
+2021,23015,Lincoln County,Maine,LL,6.1,24.7
+2021,23017,Oxford County,Maine,MH,8.8,32.9
+2021,23019,Penobscot County,Maine,MH,9,35
+2021,23021,Piscataquis County,Maine,MH,8.6,34.9
+2021,23023,Sagadahoc County,Maine,MM,8,26.9
+2021,23025,Somerset County,Maine,HH,9.7,34.8
+2021,23027,Waldo County,Maine,LH,7.2,33.2
+2021,23029,Washington County,Maine,HH,9.4,35.2
+2021,23031,York County,Maine,MM,8.3,29.7
+2021,20059,Franklin County,Kansas,HH,9.1,38.4
+2021,20061,Geary County,Kansas,HH,9.8,38.1
+2021,20063,Gove County,Kansas,ML,8.6,23.7
+2021,20065,Graham County,Kansas,LL,7.7,23.2
+2021,20067,Grant County,Kansas,LL,6.7,23.2
+2021,20069,Gray County,Kansas,LM,6.7,30.7
+2021,20071,Greeley County,Kansas,LL,7,22.4
+2021,20073,Greenwood County,Kansas,MM,8.2,29.4
+2021,20075,Hamilton County,Kansas,ML,8.2,19.6
+2021,20077,Harper County,Kansas,MM,8.7,28.4
+2021,20079,Harvey County,Kansas,LH,7,36
+2021,20081,Haskell County,Kansas,LM,6.5,27.1
+2021,20083,Hodgeman County,Kansas,LL,7.2,23.5
+2021,20085,Jackson County,Kansas,MH,8.1,33.6
+2021,20087,Jefferson County,Kansas,MM,9,30.9
+2021,20089,Jewell County,Kansas,LL,7.2,24.5
+2021,20091,Johnson County,Kansas,LM,6.9,28.2
+2021,20093,Kearny County,Kansas,MM,8.7,28.7
+2021,20095,Kingman County,Kansas,MM,8.7,30.2
+2021,20097,Kiowa County,Kansas,LL,7.6,22.9
+2021,20099,Labette County,Kansas,HH,11.1,41
+2021,20101,Lane County,Kansas,MM,8,25.8
+2021,20103,Leavenworth County,Kansas,HH,11.9,37.5
+2021,20105,Lincoln County,Kansas,MM,7.8,27.7
+2021,20107,Linn County,Kansas,HM,9.2,30.5
+2021,20109,Logan County,Kansas,LM,7.7,26.3
+2021,20111,Lyon County,Kansas,MH,8.9,38.5
+2021,20113,Mcpherson County,Kansas,MM,8.1,31.3
+2021,20115,Marion County,Kansas,MM,8.1,30
+2021,20117,Marshall County,Kansas,LH,7,36.6
+2021,20119,Meade County,Kansas,MM,8.3,27.1
+2021,20121,Miami County,Kansas,LH,7.2,37.4
+2021,20123,Mitchell County,Kansas,LH,7.3,32.9
+2021,20125,Montgomery County,Kansas,HH,10.3,39.8
+2021,20127,Morris County,Kansas,LM,6.9,29.7
+2021,20129,Morton County,Kansas,ML,7.9,22
+2021,20131,Nemaha County,Kansas,LM,6,31.3
+2021,20133,Neosho County,Kansas,HH,9.8,33.1
+2021,20135,Ness County,Kansas,MM,8.1,28.4
+2021,20137,Norton County,Kansas,MM,8.8,27.4
+2021,20139,Osage County,Kansas,HH,9.3,43.2
+2021,20141,Osborne County,Kansas,LM,7.2,31.6
+2021,20143,Ottawa County,Kansas,MH,8.4,33
+2021,20145,Pawnee County,Kansas,HM,9.3,29.8
+2021,20147,Phillips County,Kansas,MM,8.1,27.5
+2021,20149,Pottawatomie County,Kansas,MH,9,35.1
+2021,20151,Pratt County,Kansas,HH,9.4,33
+2021,20153,Rawlins County,Kansas,LL,7,22.4
+2021,20155,Reno County,Kansas,HH,11.7,40.6
+2021,20157,Republic County,Kansas,MM,8.2,30
+2021,20159,Rice County,Kansas,MH,8.1,33.6
+2021,20161,Riley County,Kansas,LM,7.6,27
+2021,20163,Rooks County,Kansas,LL,7.7,21.9
+2021,20165,Rush County,Kansas,MM,8,29.7
+2021,20167,Russell County,Kansas,LM,6.9,30.6
+2021,20169,Saline County,Kansas,MH,8.8,35.7
+2021,20171,Scott County,Kansas,LL,6.9,23.7
+2021,20173,Sedgwick County,Kansas,HH,10.6,37.4
+2021,20175,Seward County,Kansas,MH,8.6,34.8
+2021,20177,Shawnee County,Kansas,HH,11.3,37.8
+2021,20179,Sheridan County,Kansas,LM,7.6,27.1
+2021,20181,Sherman County,Kansas,LM,6.9,29.1
+2021,20183,Smith County,Kansas,MM,8.8,27.7
+2021,20185,Stafford County,Kansas,MM,8.1,29.4
+2021,20187,Stanton County,Kansas,LL,6.9,20.6
+2021,20189,Stevens County,Kansas,MM,7.9,30.9
+2021,20191,Sumner County,Kansas,HH,9.2,37.9
+2021,20193,Thomas County,Kansas,HM,9.2,31.5
+2021,20195,Trego County,Kansas,LL,7.6,24.6
+2021,20197,Wabaunsee County,Kansas,MM,7.8,30.1
+2021,20199,Wallace County,Kansas,LL,7.3,19.4
+2021,20201,Washington County,Kansas,LH,7.6,34.3
+2021,20203,Wichita County,Kansas,HM,9.1,25.6
+2021,20205,Wilson County,Kansas,MM,8.6,29.4
+2021,20207,Woodson County,Kansas,ML,8.9,21.9
+2021,20209,Wyandotte County,Kansas,HH,14,41.1
+2021,21001,Adair County,Kentucky,HM,9.5,30.9
+2021,21003,Allen County,Kentucky,MM,8.6,30.2
+2021,21005,Anderson County,Kentucky,LL,7.5,18.2
+2021,21007,Ballard County,Kentucky,LL,7.3,20.8
+2021,21009,Barren County,Kentucky,MM,8.6,29.8
+2021,21011,Bath County,Kentucky,HM,9.9,26
+2021,21013,Bell County,Kentucky,MH,8.9,36.6
+2021,21015,Boone County,Kentucky,HH,9.5,34.4
+2021,21017,Bourbon County,Kentucky,LL,6.9,22.2
+2021,21019,Boyd County,Kentucky,HH,9.9,35.8
+2021,21021,Boyle County,Kentucky,ML,8.1,23.7
+2021,21023,Bracken County,Kentucky,LL,6.7,23.1
+2021,21025,Breathitt County,Kentucky,MM,8.8,28.4
+2021,21027,Breckinridge County,Kentucky,MM,7.9,30
+2021,21029,Bullitt County,Kentucky,MH,8.8,33.3
+2021,21031,Butler County,Kentucky,ML,7.9,19.3
+2021,21033,Caldwell County,Kentucky,HL,9.1,22.8
+2021,21035,Calloway County,Kentucky,MH,8.7,31.9
+2021,21037,Campbell County,Kentucky,MH,9,32.4
+2021,21039,Carlisle County,Kentucky,LL,7,19.5
+2021,21041,Carroll County,Kentucky,LL,7.6,24
+2021,21043,Carter County,Kentucky,HH,9.6,35.4
+2021,21045,Casey County,Kentucky,LL,6.8,22.5
+2021,24001,Allegany County,Maryland,HH,10.3,37.3
+2021,18161,Union County,Indiana,LL,7.2,20.3
+2021,18163,Vanderburgh County,Indiana,HH,10.7,38.4
+2021,18165,Vermillion County,Indiana,MM,8.4,27.5
+2021,18167,Vigo County,Indiana,HH,11.9,31.8
+2021,18169,Wabash County,Indiana,HH,9.2,33
+2021,18171,Warren County,Indiana,ML,8.9,21.4
+2021,18173,Warrick County,Indiana,HH,9.2,31.9
+2021,18175,Washington County,Indiana,HH,9.5,34.7
+2021,18177,Wayne County,Indiana,HH,9.3,32.2
+2021,18179,Wells County,Indiana,MM,8.6,27.5
+2021,18181,White County,Indiana,MH,9,32.1
+2021,18183,Whitley County,Indiana,MM,8,28.3
+2021,19001,Adair County,Iowa,LL,7.3,24.7
+2021,19003,Adams County,Iowa,LL,7,24.3
+2021,19005,Allamakee County,Iowa,MM,7.9,30.4
+2021,19007,Appanoose County,Iowa,MM,8.4,28.9
+2021,19009,Audubon County,Iowa,ML,8.7,23.1
+2021,19011,Benton County,Iowa,MH,9,35.4
+2021,19013,Black Hawk County,Iowa,HH,9.1,36.2
+2021,19015,Boone County,Iowa,LM,7.5,31
+2021,19017,Bremer County,Iowa,LH,6.9,33.5
+2021,19019,Buchanan County,Iowa,MH,8.6,32.8
+2021,19021,Buena Vista County,Iowa,LM,7.1,29.4
+2021,19023,Butler County,Iowa,HH,9.3,32
+2021,19025,Calhoun County,Iowa,MM,8.1,31.6
+2021,19027,Carroll County,Iowa,LM,7.2,30.5
+2021,19029,Cass County,Iowa,MH,8.2,32.4
+2021,19031,Cedar County,Iowa,LH,7.4,38.1
+2021,19033,Cerro Gordo County,Iowa,MH,8.4,32
+2021,19035,Cherokee County,Iowa,MH,8.1,36.6
+2021,19037,Chickasaw County,Iowa,LH,6.3,32.7
+2021,19039,Clarke County,Iowa,LM,7.6,29.3
+2021,19041,Clay County,Iowa,LH,7.3,32.9
+2021,19043,Clayton County,Iowa,MH,8.2,36
+2021,19045,Clinton County,Iowa,HH,9.6,38.6
+2021,19047,Crawford County,Iowa,MH,8.8,34.1
+2021,19049,Dallas County,Iowa,LH,7.4,34.5
+2021,19051,Davis County,Iowa,MM,7.9,26.5
+2021,19053,Decatur County,Iowa,LL,6.8,22.2
+2021,19055,Delaware County,Iowa,MH,7.9,32.7
+2021,19057,Des Moines County,Iowa,MH,8.6,32.8
+2021,19059,Dickinson County,Iowa,LH,6.6,32.2
+2021,19061,Dubuque County,Iowa,LM,7.7,31.4
+2021,19063,Emmet County,Iowa,MM,8.4,27.7
+2021,19065,Fayette County,Iowa,MH,8.3,35.3
+2021,19067,Floyd County,Iowa,MH,8,33.1
+2021,19069,Franklin County,Iowa,MH,8.2,32.8
+2021,19071,Fremont County,Iowa,MM,8.5,28.6
+2021,19073,Greene County,Iowa,ML,8.5,23.8
+2021,19075,Grundy County,Iowa,LH,6.6,32.3
+2021,19077,Guthrie County,Iowa,LM,6.3,28.4
+2021,19079,Hamilton County,Iowa,LH,6.6,32.4
+2021,19081,Hancock County,Iowa,LL,6.6,22.9
+2021,19083,Hardin County,Iowa,LM,7.7,30.6
+2021,19085,Harrison County,Iowa,MH,7.8,32.7
+2021,19087,Henry County,Iowa,MH,8,33.2
+2021,19089,Howard County,Iowa,LM,7.4,26.3
+2021,19091,Humboldt County,Iowa,ML,7.9,24.4
+2021,19093,Ida County,Iowa,LM,7.3,26
+2021,21047,Christian County,Kentucky,HH,12.9,33.2
+2021,21049,Clark County,Kentucky,LM,7.5,27
+2021,21051,Clay County,Kentucky,MM,8.2,26.2
+2021,21053,Clinton County,Kentucky,MM,8.6,25.4
+2021,21055,Crittenden County,Kentucky,ML,8.7,23
+2021,21057,Cumberland County,Kentucky,ML,7.9,20.6
+2021,21059,Daviess County,Kentucky,HH,9.2,35.9
+2021,21061,Edmonson County,Kentucky,LL,7.4,21.2
+2021,21063,Elliott County,Kentucky,MM,7.9,28
+2021,21065,Estill County,Kentucky,LL,7.4,22.4
+2021,21067,Fayette County,Kentucky,HM,9.1,30.8
+2021,21069,Fleming County,Kentucky,MM,8.9,27.3
+2021,21071,Floyd County,Kentucky,HH,11.6,37.5
+2021,21073,Franklin County,Kentucky,MM,8,29.8
+2021,21075,Fulton County,Kentucky,ML,8.5,23
+2021,21077,Gallatin County,Kentucky,LL,7.6,19
+2021,21079,Garrard County,Kentucky,LL,7.1,17.6
+2021,21081,Grant County,Kentucky,HH,9.1,31.9
+2021,21083,Graves County,Kentucky,HH,10.9,34.1
+2021,21085,Grayson County,Kentucky,HH,9.8,32.3
+2021,21087,Green County,Kentucky,ML,8.8,23.7
+2021,21089,Greenup County,Kentucky,HH,10.4,37
+2021,21091,Hancock County,Kentucky,LL,7.4,22.6
+2021,21093,Hardin County,Kentucky,HH,10.2,40.5
+2021,21095,Harlan County,Kentucky,HH,9.6,38.2
+2021,21097,Harrison County,Kentucky,LL,7.6,22
+2021,21099,Hart County,Kentucky,ML,7.9,23.2
+2021,21101,Henderson County,Kentucky,HM,10.1,31.5
+2021,21103,Henry County,Kentucky,LL,7.4,24.2
+2021,21105,Hickman County,Kentucky,LL,7.7,17.4
+2021,21107,Hopkins County,Kentucky,HH,11.5,34.9
+2021,21109,Jackson County,Kentucky,HM,9.5,30.8
+2021,21111,Jefferson County,Kentucky,HH,11.5,36.6
+2021,21113,Jessamine County,Kentucky,LL,7.3,25
+2021,21115,Johnson County,Kentucky,HM,9.8,31.5
+2021,21117,Kenton County,Kentucky,HH,9.7,33.1
+2021,21119,Knott County,Kentucky,HM,11.6,31.4
+2021,21121,Knox County,Kentucky,HM,9.6,30.4
+2021,21123,Larue County,Kentucky,LM,7.4,27.2
+2021,21125,Laurel County,Kentucky,HH,10.4,42.7
+2021,21127,Lawrence County,Kentucky,HH,10.3,33.4
+2021,17085,Jo Daviess County,Illinois,LL,7.3,24.7
+2021,17087,Johnson County,Illinois,LL,7.2,19.4
+2021,17089,Kane County,Illinois,MM,8.5,29.9
+2021,17091,Kankakee County,Illinois,MM,8.2,26.6
+2021,17093,Kendall County,Illinois,MM,8.9,25.4
+2021,17095,Knox County,Illinois,LM,7.5,26.4
+2021,17097,Lake County,Illinois,MM,8.4,26.7
+2021,17099,Lasalle County,Illinois,MM,8.5,28.5
+2021,17101,Lawrence County,Illinois,LL,7.6,16.9
+2021,17103,Lee County,Illinois,LL,7,20
+2021,17105,Livingston County,Illinois,LL,7.4,20.2
+2021,17107,Logan County,Illinois,LL,7,19.5
+2021,17109,Mcdonough County,Illinois,LL,7,20.7
+2021,17111,Mchenry County,Illinois,MM,7.8,28.3
+2021,17113,Mclean County,Illinois,MM,8.2,28.9
+2021,17115,Macon County,Illinois,LM,7.7,25.7
+2021,17117,Macoupin County,Illinois,ML,8.1,19.1
+2021,17119,Madison County,Illinois,MH,8.8,35.9
+2021,17121,Marion County,Illinois,ML,8.4,19.9
+2021,19095,Iowa County,Iowa,MH,7.9,39.3
+2021,19097,Jackson County,Iowa,LM,7.3,28.8
+2021,19099,Jasper County,Iowa,MH,8.3,33.3
+2021,19101,Jefferson County,Iowa,LM,7.1,26.2
+2021,19103,Johnson County,Iowa,LM,6.9,29
+2021,19105,Jones County,Iowa,HH,9.9,37.8
+2021,19107,Keokuk County,Iowa,LM,6.8,31.6
+2021,19109,Kossuth County,Iowa,HH,9.2,31.9
+2021,19111,Lee County,Iowa,HH,9.7,36.2
+2021,19113,Linn County,Iowa,MH,8.2,36.8
+2021,19115,Louisa County,Iowa,HH,9.2,33.6
+2021,19117,Lucas County,Iowa,ML,8.1,22.7
+2021,19119,Lyon County,Iowa,LM,7.5,27.3
+2021,19121,Madison County,Iowa,LH,6.6,33.3
+2021,19123,Mahaska County,Iowa,LM,7.7,28.4
+2021,19125,Marion County,Iowa,MH,8.8,32.4
+2021,19127,Marshall County,Iowa,MH,8.8,34.5
+2021,19129,Mills County,Iowa,MM,8.2,26.6
+2021,19131,Mitchell County,Iowa,MM,8,29.6
+2021,19133,Monona County,Iowa,MM,7.8,29.8
+2021,19135,Monroe County,Iowa,LL,7,24.3
+2021,19137,Montgomery County,Iowa,HM,9.1,29.6
+2021,19139,Muscatine County,Iowa,MH,8,38.2
+2021,19141,O&#39;brien County,Iowa,LM,6.1,27
+2021,19143,Osceola County,Iowa,LM,7,31.6
+2021,19145,Page County,Iowa,HH,9.7,38.1
+2021,19147,Palo Alto County,Iowa,MH,7.9,33.7
+2021,19149,Plymouth County,Iowa,LM,7.7,31.1
+2021,19151,Pocahontas County,Iowa,LM,7.4,27.4
+2021,19153,Polk County,Iowa,MH,8.3,34.8
+2021,19155,Pottawattamie County,Iowa,HH,9.2,38.2
+2021,19157,Poweshiek County,Iowa,LH,7.3,32.4
+2021,19159,Ringgold County,Iowa,LM,6.9,28.1
+2021,19161,Sac County,Iowa,LH,6.8,34.3
+2021,19163,Scott County,Iowa,MH,9,36.4
+2021,19165,Shelby County,Iowa,LM,7.6,29.2
+2021,19167,Sioux County,Iowa,LH,5.9,35.4
+2021,19169,Story County,Iowa,MM,8,27.7
+2021,19171,Tama County,Iowa,MH,8.4,38.1
+2021,19173,Taylor County,Iowa,LM,7.6,26.6
+2021,19175,Union County,Iowa,MM,8.6,28.7
+2021,19177,Van Buren County,Iowa,MM,8.1,25.6
+2021,19179,Wapello County,Iowa,HH,10.2,35.8
+2021,19181,Warren County,Iowa,LH,7.5,36.2
+2021,19183,Washington County,Iowa,LM,7.2,29.5
+2021,19185,Wayne County,Iowa,MM,8.3,30.2
+2021,19187,Webster County,Iowa,ML,8.3,25
+2021,19189,Winnebago County,Iowa,MM,7.9,29.8
+2021,19191,Winneshiek County,Iowa,LM,7,25.6
+2021,19193,Woodbury County,Iowa,HH,10.2,38
+2021,19195,Worth County,Iowa,LL,7.5,23.1
+2021,19197,Wright County,Iowa,LM,7.6,30.1
+2021,20001,Allen County,Kansas,HH,10.2,39
+2021,20003,Anderson County,Kansas,LM,6.9,31.2
+2021,20005,Atchison County,Kansas,HH,10,37.9
+2021,20007,Barber County,Kansas,LM,7.2,29.3
+2021,20009,Barton County,Kansas,MH,9,34.1
+2021,20011,Bourbon County,Kansas,MH,8.6,39.9
+2021,20013,Brown County,Kansas,HM,10.3,30.1
+2021,20015,Butler County,Kansas,HH,10.2,39.5
+2021,20017,Chase County,Kansas,LM,6.8,25.6
+2021,20019,Chautauqua County,Kansas,MM,8.1,30.1
+2021,20021,Cherokee County,Kansas,HH,9.6,38.2
+2021,20023,Cheyenne County,Kansas,LL,6.7,22
+2021,20025,Clark County,Kansas,LL,6.9,24.3
+2021,20027,Clay County,Kansas,HH,10.4,32.2
+2021,20029,Cloud County,Kansas,MM,8.7,31
+2021,20031,Coffey County,Kansas,LM,7.7,28.9
+2021,20033,Comanche County,Kansas,MM,8.1,26.1
+2021,20035,Cowley County,Kansas,HH,11.8,38.1
+2021,20037,Crawford County,Kansas,HH,9.5,34.1
+2021,20039,Decatur County,Kansas,LL,7.2,23.9
+2021,20041,Dickinson County,Kansas,MH,8.6,36.3
+2021,20043,Doniphan County,Kansas,LM,7.5,28.3
+2021,20045,Douglas County,Kansas,LM,7.5,29.9
+2021,20047,Edwards County,Kansas,MM,8.3,25.1
+2021,20049,Elk County,Kansas,HM,9.1,28.3
+2021,20051,Ellis County,Kansas,LH,7.6,31.9
+2021,20053,Ellsworth County,Kansas,MM,8.3,27.7
+2021,20055,Finney County,Kansas,HH,10.3,37.9
+2021,20057,Ford County,Kansas,HH,9.2,40
+2021,17123,Marshall County,Illinois,LL,7,17.7
+2021,17125,Mason County,Illinois,LL,7.2,20.3
+2021,17127,Massac County,Illinois,LL,7.4,18.7
+2021,17129,Menard County,Illinois,LL,7.3,19.2
+2021,17131,Mercer County,Illinois,LL,7.6,21.7
+2021,17133,Monroe County,Illinois,LL,7.4,22
+2021,17135,Montgomery County,Illinois,LL,7.5,22.2
+2021,17137,Morgan County,Illinois,LL,7.1,21.4
+2021,17139,Moultrie County,Illinois,LL,7,18.4
+2021,17141,Ogle County,Illinois,LL,7,21
+2021,17143,Peoria County,Illinois,MM,8.4,31
+2021,17145,Perry County,Illinois,LL,7.2,17.7
+2021,17147,Piatt County,Illinois,LL,7.1,18.9
+2021,17149,Pike County,Illinois,LL,7.5,19
+2021,17151,Pope County,Illinois,LL,7.4,17.2
+2021,17153,Pulaski County,Illinois,ML,8.1,18
+2021,17155,Putnam County,Illinois,LL,7.1,17.2
+2021,17157,Randolph County,Illinois,LL,7,21.9
+2021,17159,Richland County,Illinois,LL,7.1,17
+2021,17161,Rock Island County,Illinois,HM,9.3,28.9
+2021,17163,St. Clair County,Illinois,HH,11.6,41.1
+2021,17165,Saline County,Illinois,LL,7,19.9
+2021,17167,Sangamon County,Illinois,LM,7.5,27.9
+2021,17169,Schuyler County,Illinois,LL,7.3,18.7
+2021,17171,Scott County,Illinois,LL,7.2,17.6
+2021,17173,Shelby County,Illinois,LL,7.1,19
+2021,17175,Stark County,Illinois,LL,7.1,17.1
+2021,17177,Stephenson County,Illinois,ML,8.2,24.5
+2021,17179,Tazewell County,Illinois,LM,7.2,26.4
+2021,17181,Union County,Illinois,LL,6.9,17.8
+2021,17183,Vermilion County,Illinois,ML,8.7,23.8
+2021,17185,Wabash County,Illinois,LL,7.2,17.6
+2021,17187,Warren County,Illinois,LL,7.4,18.7
+2021,17189,Washington County,Illinois,LL,7.1,19.3
+2021,17191,Wayne County,Illinois,LL,7.3,18.1
+2021,17193,White County,Illinois,LL,7.2,19.4
+2021,17195,Whiteside County,Illinois,MH,8.3,32.1
+2021,17197,Will County,Illinois,MH,7.9,32.8
+2021,17199,Williamson County,Illinois,LL,7.6,18.9
+2021,17201,Winnebago County,Illinois,HH,9.2,40.1
+2021,17203,Woodford County,Illinois,LL,6.7,20
+2021,18001,Adams County,Indiana,LH,7.7,32.4
+2021,18003,Allen County,Indiana,HH,10.1,36.4
+2021,18005,Bartholomew County,Indiana,HH,10,33.1
+2021,18007,Benton County,Indiana,LM,6.9,26.1
+2021,18009,Blackford County,Indiana,ML,8.6,24.4
+2021,18011,Boone County,Indiana,MH,7.8,32.7
+2021,18013,Brown County,Indiana,LL,7.3,24.6
+2021,18015,Carroll County,Indiana,MH,8.2,31.8
+2021,18017,Cass County,Indiana,HH,9.1,32.5
+2021,18019,Clark County,Indiana,HH,9.3,36.3
+2021,18021,Clay County,Indiana,MH,8.9,34.7
+2021,18023,Clinton County,Indiana,MH,8.4,32.8
+2021,18025,Crawford County,Indiana,HM,9.4,27.6
+2021,18027,Daviess County,Indiana,ML,7.9,24.1
+2021,18029,Dearborn County,Indiana,HM,9.6,31.2
+2021,18031,Decatur County,Indiana,MH,8.8,33
+2021,18033,Dekalb County,Indiana,MM,8.5,29
+2021,18035,Delaware County,Indiana,HH,9.3,33.7
+2021,18037,Dubois County,Indiana,MH,8.6,32.2
+2021,18039,Elkhart County,Indiana,MH,8.8,35.5
+2021,18041,Fayette County,Indiana,MM,8.3,30.9
+2021,18043,Floyd County,Indiana,LM,7,30
+2021,18045,Fountain County,Indiana,HL,9.5,22.5
+2021,18047,Franklin County,Indiana,ML,7.8,23.4
+2021,18049,Fulton County,Indiana,ML,8.9,21.1
+2021,18051,Gibson County,Indiana,LM,7.7,30.4
+2021,18053,Grant County,Indiana,MH,8.3,32.9
+2021,18055,Greene County,Indiana,MM,9,30.9
+2021,18057,Hamilton County,Indiana,MM,8.6,26.9
+2021,18059,Hancock County,Indiana,MM,8.4,30
+2021,18061,Harrison County,Indiana,MH,8.3,33.7
+2021,18063,Hendricks County,Indiana,HM,9.7,31.7
+2021,18065,Henry County,Indiana,LH,7.5,33.5
+2021,18067,Howard County,Indiana,HH,11.1,39.7
+2021,18069,Huntington County,Indiana,HH,10.1,32.8
+2021,18071,Jackson County,Indiana,MH,9,35.5
+2021,18073,Jasper County,Indiana,HL,9.2,24.7
+2021,18075,Jay County,Indiana,LL,7.6,25
+2021,18077,Jefferson County,Indiana,LM,7.2,29.8
+2021,18079,Jennings County,Indiana,HM,9.3,30.9
+2021,18081,Johnson County,Indiana,HH,10,35.2
+2021,18083,Knox County,Indiana,MH,8.5,37.9
+2021,18085,Kosciusko County,Indiana,MH,8.6,33.4
+2021,18087,Lagrange County,Indiana,ML,8.8,23.4
+2021,18089,Lake County,Indiana,HH,11,40.5
+2021,18091,Laporte County,Indiana,HH,11.8,32.4
+2021,18093,Lawrence County,Indiana,MH,8.4,40
+2021,18095,Madison County,Indiana,HH,11.2,39.9
+2021,18097,Marion County,Indiana,HH,11,35.5
+2021,18099,Marshall County,Indiana,LH,7.2,31.9
+2021,18101,Martin County,Indiana,LM,7.7,25.1
+2021,18103,Miami County,Indiana,HM,9.5,27
+2021,18105,Monroe County,Indiana,MM,8.3,27.2
+2021,18107,Montgomery County,Indiana,MM,8.7,30.5
+2021,18109,Morgan County,Indiana,HH,13.3,35.6
+2021,18111,Newton County,Indiana,HL,9.3,21.8
+2021,18113,Noble County,Indiana,HH,9.1,35.4
+2021,18115,Ohio County,Indiana,LL,6.7,18.6
+2021,18117,Orange County,Indiana,ML,7.9,23.8
+2021,13225,Peach County,Georgia,HL,10.6,24
+2021,13227,Pickens County,Georgia,ML,8.7,21
+2021,13229,Pierce County,Georgia,HM,11,25.1
+2021,13231,Pike County,Georgia,ML,8.9,21.5
+2021,13233,Polk County,Georgia,HM,9.9,30.7
+2021,13235,Pulaski County,Georgia,HM,10.2,28.8
+2021,13237,Putnam County,Georgia,ML,8.3,24.9
+2021,13239,Quitman County,Georgia,ML,8.4,17.2
+2021,13241,Rabun County,Georgia,ML,8.2,19.2
+2021,13243,Randolph County,Georgia,HL,9.1,21
+2021,13245,Richmond County,Georgia,HH,13.5,38.1
+2021,13247,Rockdale County,Georgia,MH,8.9,35.3
+2021,13249,Schley County,Georgia,LL,7.7,17.8
+2021,13251,Screven County,Georgia,HL,9.1,24.8
+2021,13253,Seminole County,Georgia,ML,7.9,18.4
+2021,13255,Spalding County,Georgia,MM,8.7,27.2
+2021,13257,Stephens County,Georgia,ML,7.9,18.5
+2021,13259,Stewart County,Georgia,ML,8.9,18.2
+2021,13261,Sumter County,Georgia,HM,10.7,26.8
+2021,13263,Talbot County,Georgia,ML,8.9,18.2
+2021,13265,Taliaferro County,Georgia,ML,8.8,17
+2021,13267,Tattnall County,Georgia,HL,9.9,24.9
+2021,13269,Taylor County,Georgia,HL,9.9,21.7
+2021,13271,Telfair County,Georgia,HM,10.4,29.8
+2021,13273,Terrell County,Georgia,ML,9,18.4
+2021,13275,Thomas County,Georgia,HM,10,31.1
+2021,13277,Tift County,Georgia,HH,11.4,35.4
+2021,13279,Toombs County,Georgia,MH,8.9,32.4
+2021,13281,Towns County,Georgia,ML,7.9,19.1
+2021,13283,Treutlen County,Georgia,HM,9.5,25.4
+2021,13285,Troup County,Georgia,HH,11.7,41.8
+2021,13287,Turner County,Georgia,HL,10,21.2
+2021,13289,Twiggs County,Georgia,ML,8.9,17
+2021,13291,Union County,Georgia,ML,8.1,24
+2021,13293,Upson County,Georgia,ML,8.4,21.7
+2021,13295,Walker County,Georgia,HM,10.6,28.9
+2021,13297,Walton County,Georgia,HM,9.5,31.7
+2021,13299,Ware County,Georgia,HM,11,30.7
+2021,13301,Warren County,Georgia,HL,9.1,20.5
+2021,13303,Washington County,Georgia,HL,9.4,24.7
+2021,13305,Wayne County,Georgia,HM,9.7,27.2
+2021,13307,Webster County,Georgia,ML,8.3,17.5
+2021,13309,Wheeler County,Georgia,HL,10.4,23.4
+2021,13311,White County,Georgia,LL,7.7,18.1
+2021,13313,Whitfield County,Georgia,HH,11.4,34.1
+2021,13315,Wilcox County,Georgia,ML,8.4,21.6
+2021,13317,Wilkes County,Georgia,HL,9.5,19.3
+2021,13319,Wilkinson County,Georgia,ML,8.4,19.9
+2021,13321,Worth County,Georgia,ML,9,22.4
+2021,15001,Hawaii County,Hawaii,LM,7.7,25.7
+2021,15003,Honolulu County,Hawaii,HL,9.1,24.5
+2021,15005,Kalawao County,Hawaii,ML,8.9,17.1
+2021,15007,Kauai County,Hawaii,LL,7.1,22.7
+2021,15009,Maui County,Hawaii,LL,6.9,24
+2021,16001,Ada County,Idaho,LM,7.1,27.5
+2021,16003,Adams County,Idaho,LL,7.3,20.4
+2021,16005,Bannock County,Idaho,MH,8.6,36.1
+2021,16007,Bear Lake County,Idaho,MM,8.5,30.6
+2021,16009,Benewah County,Idaho,MM,8,26.2
+2021,16011,Bingham County,Idaho,MH,8.9,37.2
+2021,16013,Blaine County,Idaho,LL,5.1,20.4
+2021,16015,Boise County,Idaho,LL,7.7,22.9
+2021,16017,Bonner County,Idaho,MM,8.5,28.2
+2021,16019,Bonneville County,Idaho,HH,9.4,34.2
+2021,16021,Boundary County,Idaho,MM,8.4,26.2
+2021,16023,Butte County,Idaho,LL,7.5,21.6
+2021,16025,Camas County,Idaho,LL,7.1,21.3
+2021,16027,Canyon County,Idaho,HH,11.2,36.1
+2021,16029,Caribou County,Idaho,LM,6.7,27.3
+2021,16031,Cassia County,Idaho,HH,9.8,32.3
+2021,16033,Clark County,Idaho,LL,7.2,18.4
+2021,16035,Clearwater County,Idaho,HM,9.3,28.5
+2021,16037,Custer County,Idaho,LL,6.8,24.3
+2021,16039,Elmore County,Idaho,MH,8.6,32
+2021,16041,Franklin County,Idaho,MH,8.8,33.6
+2021,16043,Fremont County,Idaho,MM,7.9,25.4
+2021,16045,Gem County,Idaho,ML,8.5,25
+2021,16047,Gooding County,Idaho,LH,7,34
+2021,16049,Idaho County,Idaho,HM,9.5,28.6
+2021,18119,Owen County,Indiana,HM,10.9,26.4
+2021,18121,Parke County,Indiana,MM,8.9,27
+2021,18123,Perry County,Indiana,LM,7.1,29.8
+2021,18125,Pike County,Indiana,ML,8.3,24
+2021,18127,Porter County,Indiana,HH,9.2,36.6
+2021,18129,Posey County,Indiana,MM,8.2,30.9
+2021,18131,Pulaski County,Indiana,LM,7.6,29.1
+2021,18133,Putnam County,Indiana,HM,10.8,27
+2021,18135,Randolph County,Indiana,ML,8.2,24.5
+2021,18137,Ripley County,Indiana,MH,7.8,32.4
+2021,18139,Rush County,Indiana,MM,8.8,27.8
+2021,18141,St. Joseph County,Indiana,HH,9.9,34.2
+2021,18143,Scott County,Indiana,MM,8.2,27.4
+2021,18145,Shelby County,Indiana,HH,10,36.2
+2021,18147,Spencer County,Indiana,LM,7.5,27.8
+2021,18149,Starke County,Indiana,LM,7.7,30.3
+2021,18151,Steuben County,Indiana,MH,8.5,35.1
+2021,18153,Sullivan County,Indiana,HM,9.4,26
+2021,18155,Switzerland County,Indiana,LL,7.6,21.9
+2021,18157,Tippecanoe County,Indiana,MM,8.7,29.4
+2021,18159,Tipton County,Indiana,MM,8.5,30.4
+2021,13001,Appling County,Georgia,ML,9,24
+2021,13003,Atkinson County,Georgia,ML,7.9,20.4
+2021,13005,Bacon County,Georgia,ML,8.2,19.8
+2021,13007,Baker County,Georgia,ML,9,19.8
+2021,13009,Baldwin County,Georgia,HM,9.7,31.5
+2021,13011,Banks County,Georgia,ML,7.9,19.8
+2021,13013,Barrow County,Georgia,MH,8.5,36.6
+2021,13015,Bartow County,Georgia,HM,9.1,27.7
+2021,13017,Ben Hill County,Georgia,HM,9.3,29.8
+2021,16051,Jefferson County,Idaho,MH,8.3,31.9
+2021,16053,Jerome County,Idaho,MH,8.3,33.7
+2021,16055,Kootenai County,Idaho,LM,6.6,27.4
+2021,16057,Latah County,Idaho,MM,8.4,28.2
+2021,16059,Lemhi County,Idaho,LM,7.7,27.5
+2021,16061,Lewis County,Idaho,MM,7.9,29
+2021,16063,Lincoln County,Idaho,ML,8.7,19.3
+2021,16065,Madison County,Idaho,LM,7.3,30.4
+2021,16067,Minidoka County,Idaho,MH,8.8,35.1
+2021,16069,Nez Perce County,Idaho,HH,10.5,35.2
+2021,16071,Oneida County,Idaho,ML,8.6,23.9
+2021,16073,Owyhee County,Idaho,ML,8.4,23.2
+2021,16075,Payette County,Idaho,HH,9.1,37.9
+2021,16077,Power County,Idaho,LM,6.9,25.5
+2021,16079,Shoshone County,Idaho,MH,8.9,33.9
+2021,16081,Teton County,Idaho,LL,6.9,20.7
+2021,16083,Twin Falls County,Idaho,MH,8,32.3
+2021,16085,Valley County,Idaho,LL,6.5,17.1
+2021,16087,Washington County,Idaho,MH,7.9,31.8
+2021,17001,Adams County,Illinois,ML,7.9,22.3
+2021,17003,Alexander County,Illinois,LL,7.7,18.9
+2021,17005,Bond County,Illinois,LL,7.3,19.2
+2021,17007,Boone County,Illinois,LL,7,20.9
+2021,17009,Brown County,Illinois,LL,7.4,16.9
+2021,17011,Bureau County,Illinois,ML,7.8,22.9
+2021,17013,Calhoun County,Illinois,LL,7.1,17.2
+2021,17015,Carroll County,Illinois,LL,6.8,20.4
+2021,17017,Cass County,Illinois,LL,7.1,17.4
+2021,17019,Champaign County,Illinois,ML,8.3,21.8
+2021,17021,Christian County,Illinois,LL,7.2,22.7
+2021,17023,Clark County,Illinois,LL,7,17.5
+2021,17025,Clay County,Illinois,LL,7.7,18.2
+2021,17027,Clinton County,Illinois,LL,7,21.9
+2021,17029,Coles County,Illinois,LL,7.5,18.4
+2021,17031,Cook County,Illinois,MM,8.6,28.9
+2021,17033,Crawford County,Illinois,LL,7.4,20.2
+2021,17035,Cumberland County,Illinois,LL,7.7,18.7
+2021,17037,Dekalb County,Illinois,LM,7.7,27.2
+2021,17039,De Witt County,Illinois,LL,7,17.5
+2021,17041,Douglas County,Illinois,LL,7.1,18.4
+2021,17043,Dupage County,Illinois,LM,6.7,26.9
+2021,17045,Edgar County,Illinois,LL,7.2,19.1
+2021,17047,Edwards County,Illinois,LL,7.5,18.4
+2021,17049,Effingham County,Illinois,LL,6.7,18.6
+2021,17051,Fayette County,Illinois,ML,7.8,24.7
+2021,17053,Ford County,Illinois,LL,7.2,17.7
+2021,17055,Franklin County,Illinois,ML,8.9,24.3
+2021,17057,Fulton County,Illinois,LL,7.5,18.7
+2021,17059,Gallatin County,Illinois,LL,7.1,17.4
+2021,17061,Greene County,Illinois,LL,6.9,17.6
+2021,17063,Grundy County,Illinois,LL,7.3,20.9
+2021,17065,Hamilton County,Illinois,LL,7,17.4
+2021,17067,Hancock County,Illinois,LL,6.9,19
+2021,17069,Hardin County,Illinois,LL,6.9,17.5
+2021,17071,Henderson County,Illinois,LL,7.1,20.7
+2021,17073,Henry County,Illinois,LL,7.4,23.3
+2021,17075,Iroquois County,Illinois,LL,7.2,18.9
+2021,17077,Jackson County,Illinois,ML,8.3,19.8
+2021,17079,Jasper County,Illinois,LL,7.2,18.6
+2021,17081,Jefferson County,Illinois,LL,7.7,19.2
+2021,17083,Jersey County,Illinois,LL,7.2,18.9
+2021,13019,Berrien County,Georgia,HM,11.2,27.3
+2021,13021,Bibb County,Georgia,HH,12.2,36.2
+2021,13023,Bleckley County,Georgia,ML,8,24.9
+2021,13025,Brantley County,Georgia,MM,8.8,29.4
+2021,13027,Brooks County,Georgia,HM,10.1,26.3
+2021,13029,Bryan County,Georgia,HH,9.6,32.2
+2021,13031,Bulloch County,Georgia,HH,9.8,32.6
+2021,13033,Burke County,Georgia,HM,11.6,30
+2021,13035,Butts County,Georgia,ML,8.9,21.2
+2021,13037,Calhoun County,Georgia,HL,9.6,19.6
+2021,13039,Camden County,Georgia,MH,8.7,33.2
+2021,13043,Candler County,Georgia,ML,8.1,18.9
+2021,13045,Carroll County,Georgia,HM,9.9,30.1
+2021,13047,Catoosa County,Georgia,LM,7.4,31.4
+2021,13049,Charlton County,Georgia,HM,9.3,31
+2021,13051,Chatham County,Georgia,HM,9.8,29.8
+2021,13053,Chattahoochee County,Georgia,ML,8.2,16.9
+2021,13055,Chattooga County,Georgia,MM,8,27.1
+2021,13057,Cherokee County,Georgia,LM,7.4,28.2
+2021,13059,Clarke County,Georgia,HM,9.8,28.6
+2021,13061,Clay County,Georgia,ML,8.6,19.1
+2021,13063,Clayton County,Georgia,HH,13.8,41
+2021,13065,Clinch County,Georgia,ML,8.7,22.2
+2021,13067,Cobb County,Georgia,MM,7.9,28.1
+2021,13069,Coffee County,Georgia,HH,12.1,35.1
+2021,13071,Colquitt County,Georgia,MH,8.6,32.3
+2021,13073,Columbia County,Georgia,LH,7.6,33.2
+2021,13075,Cook County,Georgia,HL,9.8,20.5
+2021,13077,Coweta County,Georgia,MH,8.5,33.2
+2021,13079,Crawford County,Georgia,HL,10.5,23.2
+2021,13081,Crisp County,Georgia,HL,9.3,22.2
+2021,13083,Dade County,Georgia,LM,7.7,25.9
+2021,13085,Dawson County,Georgia,ML,8.1,23.1
+2021,13087,Decatur County,Georgia,HM,9.4,29.1
+2021,13089,Dekalb County,Georgia,HM,10.7,28.1
+2021,13091,Dodge County,Georgia,HM,11.8,26.7
+2021,13093,Dooly County,Georgia,HL,9.1,20.6
+2021,13095,Dougherty County,Georgia,HH,13,37.2
+2021,13097,Douglas County,Georgia,HM,12.1,29.3
+2021,13099,Early County,Georgia,ML,8.7,20.8
+2021,13101,Echols County,Georgia,LL,7.4,17.7
+2021,13103,Effingham County,Georgia,HH,10.4,35.9
+2021,13105,Elbert County,Georgia,LL,7.6,20.6
+2021,13107,Emanuel County,Georgia,MM,8.6,29.3
+2021,13109,Evans County,Georgia,ML,8.4,24.9
+2021,13111,Fannin County,Georgia,ML,8.3,22.8
+2021,13113,Fayette County,Georgia,ML,8.9,23.7
+2021,13115,Floyd County,Georgia,HH,11,35.3
+2021,13117,Forsyth County,Georgia,LL,7.6,24.5
+2021,13119,Franklin County,Georgia,MM,7.9,25.2
+2021,13121,Fulton County,Georgia,MM,9,26.9
+2021,13123,Gilmer County,Georgia,MM,8.3,27.1
+2021,13125,Glascock County,Georgia,LL,7.5,17.7
+2021,13127,Glynn County,Georgia,HH,9.5,32.6
+2021,13129,Gordon County,Georgia,HM,9.5,28.6
+2021,13131,Grady County,Georgia,HM,10.4,27.2
+2021,13133,Greene County,Georgia,ML,8.7,23.5
+2021,13135,Gwinnett County,Georgia,MM,8.9,29.5
+2021,13137,Habersham County,Georgia,LL,7.6,23.5
+2021,13139,Hall County,Georgia,MH,8.5,33
+2021,13141,Hancock County,Georgia,HL,9.9,19.8
+2021,13143,Haralson County,Georgia,ML,8.1,20.7
+2021,13145,Harris County,Georgia,HM,11,29.1
+2021,13147,Hart County,Georgia,LL,7.5,18
+2021,13149,Heard County,Georgia,LL,7.5,17.9
+2021,13151,Henry County,Georgia,HH,9.1,36.6
+2021,13153,Houston County,Georgia,HH,10.6,36.9
+2021,13155,Irwin County,Georgia,HL,9.5,21.9
+2021,13157,Jackson County,Georgia,ML,8.4,24
+2021,13159,Jasper County,Georgia,ML,8.1,23.1
+2021,13161,Jeff Davis County,Georgia,LL,7.2,20.4
+2021,13163,Jefferson County,Georgia,HL,10,24.4
+2021,13165,Jenkins County,Georgia,ML,8.1,21.3
+2021,13167,Johnson County,Georgia,HM,12.7,25.5
+2021,13169,Jones County,Georgia,HM,9.4,27.2
+2021,13171,Lamar County,Georgia,ML,8.2,19.6
+2021,13173,Lanier County,Georgia,ML,8.8,24.4
+2021,13175,Laurens County,Georgia,HH,13.3,36.8
+2021,13177,Lee County,Georgia,HM,10.7,27.7
+2021,13179,Liberty County,Georgia,HH,11.5,32.8
+2021,13181,Lincoln County,Georgia,HL,9.1,19.5
+2021,13183,Long County,Georgia,ML,8.8,17.5
+2021,13185,Lowndes County,Georgia,HH,12.9,36.8
+2021,13187,Lumpkin County,Georgia,LL,7.2,21
+2021,13189,Mcduffie County,Georgia,MM,8.7,27.1
+2021,13191,Mcintosh County,Georgia,HL,9.2,21.1
+2021,13193,Macon County,Georgia,HL,10.8,22.3
+2021,13195,Madison County,Georgia,MM,8.5,25.3
+2021,13197,Marion County,Georgia,ML,8.3,16.2
+2021,13199,Meriwether County,Georgia,HM,9.4,26.7
+2021,13201,Miller County,Georgia,LL,7.7,21.1
+2021,13205,Mitchell County,Georgia,HM,10.8,25.4
+2021,13207,Monroe County,Georgia,HM,10,26.8
+2021,13209,Montgomery County,Georgia,MM,8.3,25.5
+2021,13211,Morgan County,Georgia,ML,8.3,24.1
+2021,13213,Murray County,Georgia,HM,9.4,28.3
+2021,13215,Muscogee County,Georgia,HH,14,37.9
+2021,13217,Newton County,Georgia,HH,10.9,36.2
+2021,13219,Oconee County,Georgia,LL,7.5,23.8
+2021,13221,Oglethorpe County,Georgia,ML,7.8,20
+2021,06067,Sacramento County,California,HM,9.4,30.8
+2021,06069,San Benito County,California,ML,8.7,18.9
+2021,06071,San Bernardino County,California,HH,11.2,38.5
+2021,06073,San Diego County,California,ML,8.4,23.8
+2021,06075,San Francisco County,California,ML,7.9,16.6
+2021,06077,San Joaquin County,California,HH,9.9,34
+2021,06079,San Luis Obispo County,California,MM,8.2,26.1
+2021,06081,San Mateo County,California,ML,8.6,19.9
+2021,06083,Santa Barbara County,California,MM,8.6,26.2
+2021,06085,Santa Clara County,California,ML,8,18.6
+2021,06087,Santa Cruz County,California,LL,6.8,16.6
+2021,06089,Shasta County,California,MM,8.1,25.3
+2021,06091,Sierra County,California,LL,7.3,17.4
+2021,06093,Siskiyou County,California,LL,7.5,19.1
+2021,06095,Solano County,California,MM,9,28.5
+2021,06097,Sonoma County,California,LL,7.4,23.7
+2021,06099,Stanislaus County,California,HH,9.5,34.7
+2021,06101,Sutter County,California,ML,8.4,24
+2021,06103,Tehama County,California,LL,6.9,23
+2021,06105,Trinity County,California,LL,7.3,17.1
+2021,06107,Tulare County,California,HH,10.5,33.3
+2021,06109,Tuolumne County,California,LL,7.3,15.8
+2021,06111,Ventura County,California,ML,7.8,24.3
+2021,06113,Yolo County,California,ML,7.9,24.3
+2021,06115,Yuba County,California,ML,7.9,21.3
+2021,08001,Adams County,Colorado,LH,7.6,31.9
+2021,08003,Alamosa County,Colorado,MM,8.8,27.8
+2021,08005,Arapahoe County,Colorado,LM,7,25.2
+2021,08007,Archuleta County,Colorado,LL,7.3,16.9
+2021,08009,Baca County,Colorado,LL,7.6,18.3
+2021,08011,Bent County,Colorado,LL,7.3,17.9
+2021,08013,Boulder County,Colorado,LL,5.3,15.4
+2021,08014,Broomfield County,Colorado,LM,6.4,26.7
+2021,08015,Chaffee County,Colorado,LL,5.7,18.4
+2021,08017,Cheyenne County,Colorado,LL,7.2,18.1
+2021,08019,Clear Creek County,Colorado,ML,7.8,17.3
+2021,08021,Conejos County,Colorado,LL,7.7,18.7
+2021,08023,Costilla County,Colorado,ML,7.8,19.4
+2021,08025,Crowley County,Colorado,LL,7.6,18
+2021,08027,Custer County,Colorado,LL,7.5,16.8
+2021,08029,Delta County,Colorado,LL,6.6,21.1
+2021,08031,Denver County,Colorado,LL,6.7,21.9
+2021,08033,Dolores County,Colorado,LL,7.1,17.2
+2021,08035,Douglas County,Colorado,LL,5.2,21.3
+2021,08037,Eagle County,Colorado,LL,5.8,16.8
+2021,08039,Elbert County,Colorado,LL,7.3,22.1
+2021,08041,El Paso County,Colorado,LM,7,27.4
+2021,08043,Fremont County,Colorado,MM,7.8,28.4
+2021,08045,Garfield County,Colorado,LL,6.4,21.6
+2021,08047,Gilpin County,Colorado,LL,6.9,21.1
+2021,08049,Grand County,Colorado,LL,6.6,13.5
+2021,08051,Gunnison County,Colorado,LL,7.1,14.2
+2021,08053,Hinsdale County,Colorado,LL,7.1,17.3
+2021,08055,Huerfano County,Colorado,ML,7.9,16.9
+2021,08057,Jackson County,Colorado,LL,7.3,16.9
+2021,08059,Jefferson County,Colorado,LL,6,23.2
+2021,08061,Kiowa County,Colorado,LL,7.1,17.8
+2021,08063,Kit Carson County,Colorado,LL,7.5,24.5
+2021,08065,Lake County,Colorado,LL,7.2,17.2
+2021,08067,La Plata County,Colorado,LL,5.5,18.5
+2021,08069,Larimer County,Colorado,LL,6.4,23.1
+2021,08071,Las Animas County,Colorado,LM,7.2,31.1
+2021,08073,Lincoln County,Colorado,LL,6.9,24.4
+2021,08075,Logan County,Colorado,LM,7.5,28.1
+2021,08077,Mesa County,Colorado,LM,7.4,28.3
+2021,08079,Mineral County,Colorado,LL,7.2,17.2
+2021,08081,Moffat County,Colorado,LL,7.4,23
+2021,08083,Montezuma County,Colorado,LL,7.6,22.2
+2021,08085,Montrose County,Colorado,LL,7.6,23.3
+2021,08087,Morgan County,Colorado,LH,7.6,32
+2021,08089,Otero County,Colorado,LM,7.2,31.7
+2021,08091,Ouray County,Colorado,LL,7,17.5
+2021,08093,Park County,Colorado,LL,6.5,19.9
+2021,08095,Phillips County,Colorado,LL,7.7,24.2
+2021,08097,Pitkin County,Colorado,LL,6.5,14.1
+2021,08099,Prowers County,Colorado,LM,7.6,28.5
+2021,08101,Pueblo County,Colorado,HH,10.4,36.3
+2021,08103,Rio Blanco County,Colorado,LL,6.8,18
+2021,08105,Rio Grande County,Colorado,LL,7.5,20.9
+2021,08107,Routt County,Colorado,LL,6.8,14.4
+2021,08109,Saguache County,Colorado,LL,7.2,19.4
+2021,08111,San Juan County,Colorado,LL,7.2,17
+2021,08113,San Miguel County,Colorado,LL,6.9,18.8
+2021,08115,Sedgwick County,Colorado,LL,7.1,22.6
+2021,08117,Summit County,Colorado,LL,5.1,16.2
+2021,08119,Teller County,Colorado,LL,6.7,24.1
+2021,08121,Washington County,Colorado,LM,7.6,25.4
+2021,08123,Weld County,Colorado,MM,7.8,30.5
+2021,08125,Yuma County,Colorado,MM,8.4,27.9
+2021,09001,Fairfield County,Connecticut,LL,6.2,22.9
+2021,09003,Hartford County,Connecticut,HM,9.5,31.6
+2021,09005,Litchfield County,Connecticut,LM,6.3,26
+2021,09007,Middlesex County,Connecticut,LM,7.2,29.8
+2021,09009,New Haven County,Connecticut,MM,9,31.7
+2021,09011,New London County,Connecticut,MM,8.2,30.2
+2021,09013,Tolland County,Connecticut,LM,7.6,27.4
+2021,09015,Windham County,Connecticut,HH,10,34.3
+2021,10001,Kent County,Delaware,HH,11.4,39.9
+2021,10003,New Castle County,Delaware,HH,10,33.4
+2021,13223,Paulding County,Georgia,HH,10.1,33.8
+2021,01001,Autauga County,Alabama,MM,8,31.5
+2021,01003,Baldwin County,Alabama,HH,9.9,33.3
+2021,01005,Barbour County,Alabama,HM,9.2,30.3
+2021,01007,Bibb County,Alabama,HM,9.1,26.7
+2021,01009,Blount County,Alabama,MM,8.5,25.2
+2021,01011,Bullock County,Alabama,ML,9,17.8
+2021,01013,Butler County,Alabama,HM,9.8,27.6
+2021,01015,Calhoun County,Alabama,HH,12,35.9
+2021,01017,Chambers County,Alabama,HH,10.7,32.6
+2021,10005,Sussex County,Delaware,HH,9.1,35.1
+2021,11001,District Of Columbia,District of Columbia,ML,7.9,24.2
+2021,02185,North Slope Borough,Alaska,HH,9.5,34.6
+2021,02188,Northwest Arctic Borough,Alaska,HH,9.6,33.3
+2021,02220,Sitka City and Borough,Alaska,MM,8.7,27.8
+2021,02230,Skagway Municipality,Alaska,ML,7.8,21.3
+2021,02240,Southeast Fairbanks Census Area,Alaska,LM,7.7,31.4
+2021,02275,Wrangell City and Borough,Alaska,HM,9.2,25.6
+2021,02282,Yakutat City and Borough,Alaska,ML,8.4,19.8
+2021,02290,Yukon-Koyukuk Census Area,Alaska,MM,8.9,26.4
+2021,04001,Apache County,Arizona,HH,12.6,31.9
+2021,04003,Cochise County,Arizona,MM,8,31.4
+2021,04005,Coconino County,Arizona,LL,7.3,23.3
+2021,04007,Gila County,Arizona,MH,8,32.5
+2021,04009,Graham County,Arizona,MH,8.8,32.1
+2021,04011,Greenlee County,Arizona,LL,6.9,21.5
+2021,04012,La Paz County,Arizona,MM,8.1,26
+2021,04013,Maricopa County,Arizona,MM,8.6,29.7
+2021,04015,Mohave County,Arizona,HH,10,32.3
+2021,01019,Cherokee County,Alabama,MM,8.5,27.3
+2021,01021,Chilton County,Alabama,HH,9.9,39.2
+2021,01023,Choctaw County,Alabama,HM,11.2,31.4
+2021,01025,Clarke County,Alabama,HH,9.9,32.4
+2021,01027,Clay County,Alabama,ML,8.2,23.2
+2021,01029,Cleburne County,Alabama,ML,8.3,20.6
+2021,01031,Coffee County,Alabama,HH,9.7,36.5
+2021,01033,Colbert County,Alabama,MM,8.2,31.1
+2021,01035,Conecuh County,Alabama,HL,11.2,24.7
+2021,01037,Coosa County,Alabama,ML,8.4,18.9
+2021,01039,Covington County,Alabama,HH,10.5,34.9
+2021,01041,Crenshaw County,Alabama,HL,9.4,24.7
+2021,01043,Cullman County,Alabama,HH,9.8,32.2
+2021,01045,Dale County,Alabama,HH,11.6,33.4
+2021,01047,Dallas County,Alabama,HH,12.3,37.3
+2021,01049,Dekalb County,Alabama,HH,9.2,34
+2021,01051,Elmore County,Alabama,HH,10.5,33.6
+2021,01053,Escambia County,Alabama,HM,10.5,29.2
+2021,01055,Etowah County,Alabama,HH,11.6,35.4
+2021,01057,Fayette County,Alabama,LL,7.5,21.8
+2021,01059,Franklin County,Alabama,LL,7.5,19.8
+2021,01061,Geneva County,Alabama,HH,11.1,32.5
+2021,01063,Greene County,Alabama,HM,10.7,25.8
+2021,01065,Hale County,Alabama,HL,9.8,24.3
+2021,01067,Henry County,Alabama,ML,7.8,22.1
+2021,01069,Houston County,Alabama,HH,10.2,35.3
+2021,01071,Jackson County,Alabama,MM,8.9,27.7
+2021,01073,Jefferson County,Alabama,HH,12,37.4
+2021,01075,Lamar County,Alabama,ML,8.5,21.9
+2021,01077,Lauderdale County,Alabama,HH,10.8,33.4
+2021,01079,Lawrence County,Alabama,ML,8.3,23.1
+2021,01081,Lee County,Alabama,MH,8.8,33.3
+2021,01083,Limestone County,Alabama,HM,9.7,26.2
+2021,01085,Lowndes County,Alabama,HL,9.5,21.3
+2021,01087,Macon County,Alabama,HL,11.1,25
+2021,01089,Madison County,Alabama,HH,10.8,37.3
+2021,01091,Marengo County,Alabama,HH,10.5,34
+2021,01093,Marion County,Alabama,MM,8,25.5
+2021,01095,Marshall County,Alabama,HM,9.6,28.8
+2021,01097,Mobile County,Alabama,HH,13.3,38.2
+2021,01099,Monroe County,Alabama,HM,9.4,28
+2021,01101,Montgomery County,Alabama,HH,15,38.5
+2021,01103,Morgan County,Alabama,HH,10.9,37
+2021,01105,Perry County,Alabama,HL,11,24.6
+2021,01107,Pickens County,Alabama,HL,10,24.7
+2021,01109,Pike County,Alabama,HM,9.9,31.4
+2021,01111,Randolph County,Alabama,HM,10.9,31.3
+2021,01113,Russell County,Alabama,HH,10.5,34.2
+2021,01115,St. Clair County,Alabama,HH,10.6,36.1
+2021,01117,Shelby County,Alabama,HH,9.5,32.4
+2021,01119,Sumter County,Alabama,HM,11.3,26.1
+2021,01121,Talladega County,Alabama,HH,10.6,34.6
+2021,01123,Tallapoosa County,Alabama,HM,10.8,28.3
+2021,01125,Tuscaloosa County,Alabama,HH,12.5,39.9
+2021,01127,Walker County,Alabama,HH,9.4,33.9
+2021,01129,Washington County,Alabama,HM,10.4,27.9
+2021,01131,Wilcox County,Alabama,HL,11.2,21.7
+2021,01133,Winston County,Alabama,LL,7.3,22.8
+2021,02013,Aleutians East Borough,Alaska,HM,9.9,27.8
+2021,02016,Aleutians West Census Area,Alaska,HM,11.9,29.6
+2021,02020,Anchorage Municipality,Alaska,LM,7.2,31.1
+2021,02050,Bethel Census Area,Alaska,HH,9.4,33.8
+2021,02060,Bristol Bay Borough,Alaska,HH,9.6,33.7
+2021,02068,Denali Borough,Alaska,LL,6.5,16.1
+2021,02070,Dillingham Census Area,Alaska,MH,8.5,34.1
+2021,02090,Fairbanks North Star Borough,Alaska,LH,7.7,32.3
+2021,02100,Haines Borough,Alaska,LL,7.1,19.5
+2021,02105,Hoonah-Angoon Census Area,Alaska,LM,7.2,25.2
+2021,02110,Juneau City and Borough,Alaska,LM,6.9,28.4
+2021,02122,Kenai Peninsula Borough,Alaska,MM,7.8,30.9
+2021,02130,Ketchikan Gateway Borough,Alaska,MH,8.9,34.9
+2021,02150,Kodiak Island Borough,Alaska,MM,8.1,28.9
+2021,02164,Lake and Peninsula Borough,Alaska,MM,8.4,30.1
+2021,02170,Matanuska-Susitna Borough,Alaska,LH,7.5,34.4
+2021,02180,Nome Census Area,Alaska,MH,8.2,33.4
+2021,06065,Riverside County,California,HH,9.8,33.6
+2021,04017,Navajo County,Arizona,HH,10.6,33.3
+2021,04019,Pima County,Arizona,LM,7.7,30.1
+2021,04021,Pinal County,Arizona,HH,10.3,36.3
+2021,04023,Santa Cruz County,Arizona,LM,7.7,30.5
+2021,04025,Yavapai County,Arizona,LM,6.2,25.1
+2021,04027,Yuma County,Arizona,HH,11.6,40.2
+2021,05001,Arkansas County,Arkansas,HH,9.4,32.1
+2021,05003,Ashley County,Arkansas,HH,11.2,32
+2021,05005,Baxter County,Arkansas,LM,7.7,27.1
+2021,05007,Benton County,Arkansas,HM,9.1,31
+2021,05009,Boone County,Arkansas,HH,9.8,33.2
+2021,05011,Bradley County,Arkansas,MM,9,26.2
+2021,05013,Calhoun County,Arkansas,ML,8.5,23.1
+2021,05015,Carroll County,Arkansas,MM,8.7,29.9
+2021,05017,Chicot County,Arkansas,HM,9.1,30.9
+2021,05019,Clark County,Arkansas,MM,9,29.5
+2021,05021,Clay County,Arkansas,HM,10.6,28.1
+2021,05023,Cleburne County,Arkansas,HM,9.2,29.3
+2021,05025,Cleveland County,Arkansas,HM,9.4,25.2
+2021,05027,Columbia County,Arkansas,HM,10.9,30.5
+2021,05029,Conway County,Arkansas,HH,10.5,33
+2021,05031,Craighead County,Arkansas,HH,10,41.5
+2021,05033,Crawford County,Arkansas,HH,10.8,36.2
+2021,05035,Crittenden County,Arkansas,HH,10.9,37.5
+2021,05037,Cross County,Arkansas,MH,9,34.3
+2021,05039,Dallas County,Arkansas,HL,9.1,17.2
+2021,05041,Desha County,Arkansas,HM,9.3,27.6
+2021,05043,Drew County,Arkansas,MM,8.5,26.9
+2021,05045,Faulkner County,Arkansas,HM,10.2,31.5
+2021,05047,Franklin County,Arkansas,MM,8.3,25.8
+2021,05049,Fulton County,Arkansas,ML,7.8,22.9
+2021,05051,Garland County,Arkansas,MM,8.1,27.4
+2021,05053,Grant County,Arkansas,MH,8.4,33.9
+2021,05055,Greene County,Arkansas,HH,12.9,34.7
+2021,05057,Hempstead County,Arkansas,HM,10.7,31.5
+2021,05059,Hot Spring County,Arkansas,HM,9.4,25.8
+2021,05061,Howard County,Arkansas,ML,9,23.1
+2021,05063,Independence County,Arkansas,HM,9.2,30
+2021,05065,Izard County,Arkansas,LM,7.7,25.3
+2021,05067,Jackson County,Arkansas,HL,9.2,22.9
+2021,05069,Jefferson County,Arkansas,HH,12.6,40.1
+2021,05071,Johnson County,Arkansas,HM,10,31
+2021,05073,Lafayette County,Arkansas,ML,8.2,19.5
+2021,05075,Lawrence County,Arkansas,MM,8.8,26.1
+2021,05077,Lee County,Arkansas,HM,9.2,25.5
+2021,05079,Lincoln County,Arkansas,ML,8.4,24.3
+2021,05081,Little River County,Arkansas,MM,7.9,26.6
+2021,05083,Logan County,Arkansas,HH,9.3,33.3
+2021,05085,Lonoke County,Arkansas,MH,8.9,32.5
+2021,05087,Madison County,Arkansas,ML,8.2,24
+2021,05089,Marion County,Arkansas,LM,6.7,25.2
+2021,05091,Miller County,Arkansas,HM,9.6,25.4
+2021,05093,Mississippi County,Arkansas,HM,11.4,31.2
+2021,05095,Monroe County,Arkansas,HL,9.8,23.2
+2021,05097,Montgomery County,Arkansas,ML,8.1,23.9
+2021,05099,Nevada County,Arkansas,ML,7.8,22
+2021,05101,Newton County,Arkansas,MH,7.9,32.2
+2021,05103,Ouachita County,Arkansas,MM,9,29.4
+2021,05105,Perry County,Arkansas,ML,7.8,23.4
+2021,05107,Phillips County,Arkansas,HH,11.9,32.7
+2021,05109,Pike County,Arkansas,LL,7.7,23.6
+2021,05111,Poinsett County,Arkansas,HH,10.5,37.9
+2021,05113,Polk County,Arkansas,LL,7.4,21.8
+2021,05115,Pope County,Arkansas,HH,10.3,36.2
+2021,05117,Prairie County,Arkansas,ML,7.8,24.4
+2021,05119,Pulaski County,Arkansas,HH,9.9,34.9
+2021,05121,Randolph County,Arkansas,HM,9.5,30.6
+2021,05123,St. Francis County,Arkansas,HH,12.6,40.5
+2021,05125,Saline County,Arkansas,HH,9.6,33.2
+2021,05127,Scott County,Arkansas,ML,8.9,22.1
+2021,05129,Searcy County,Arkansas,ML,8.6,20.6
+2021,05131,Sebastian County,Arkansas,HH,10.4,34.2
+2021,05133,Sevier County,Arkansas,HM,10,30.6
+2021,05135,Sharp County,Arkansas,MM,8.3,29
+2021,05137,Stone County,Arkansas,LH,7.6,34.1
+2021,05139,Union County,Arkansas,HH,9.5,33.5
+2021,05141,Van Buren County,Arkansas,HH,10.3,32.9
+2021,05143,Washington County,Arkansas,HM,9.6,30.7
+2021,05145,White County,Arkansas,HH,10.2,32.9
+2021,05147,Woodruff County,Arkansas,ML,9,22.9
+2021,05149,Yell County,Arkansas,MM,9,27.3
+2021,06001,Alameda County,California,LM,7.7,25.5
+2021,06003,Alpine County,California,LL,7.5,17.5
+2021,06005,Amador County,California,LL,7.5,19.9
+2021,06007,Butte County,California,LM,7.4,26.7
+2021,06009,Calaveras County,California,LL,6.9,20.8
+2021,06011,Colusa County,California,LL,7.2,18.4
+2021,06013,Contra Costa County,California,ML,7.9,24.5
+2021,06015,Del Norte County,California,ML,8.1,18.9
+2021,06017,El Dorado County,California,LM,6.4,25.4
+2021,06019,Fresno County,California,MH,8.9,36.7
+2021,06021,Glenn County,California,LL,7.4,18
+2021,06023,Humboldt County,California,MM,9,29.2
+2021,06025,Imperial County,California,MH,8.6,32.9
+2021,06027,Inyo County,California,LL,7.3,17
+2021,06029,Kern County,California,HH,10.7,33.4
+2021,06031,Kings County,California,MM,9,28.7
+2021,06033,Lake County,California,ML,7.8,24.4
+2021,06035,Lassen County,California,LL,7.7,17.6
+2021,06037,Los Angeles County,California,HM,9.9,27.8
+2021,06039,Madera County,California,MH,8.5,33.7
+2021,06041,Marin County,California,LL,6.1,17.2
+2021,06043,Mariposa County,California,LL,7.3,17.8
+2021,06045,Mendocino County,California,LL,7.5,23.2
+2021,06047,Merced County,California,HM,9.7,29.3
+2021,06049,Modoc County,California,LL,7.2,17.4
+2021,06051,Mono County,California,LL,7.4,17.4
+2021,06053,Monterey County,California,ML,8.4,23.2
+2021,06055,Napa County,California,LL,6.7,17.6
+2021,06057,Nevada County,California,LL,5.8,19.5
+2021,06059,Orange County,California,ML,8,23.7
+2021,06061,Placer County,California,LL,6.1,23.6
+2021,06063,Plumas County,California,LL,7.5,17.6
+2021,02063,Chugach Census Area,Alaska,LM,7.5,28
+2021,02066,Copper River Census Area,Alaska,LL,7.7,17.1
+US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.
